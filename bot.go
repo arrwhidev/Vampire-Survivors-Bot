@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"os/signal"
+	"strings"
 	"syscall"
 
 	"github.com/boltdb/bolt"
@@ -35,6 +36,7 @@ func main() {
 	}
 
 	dg.AddHandler(messageCreate)
+	dg.AddHandler(guildCreate)
 
 	dg.Identify.Intents = discordgo.IntentsGuilds | discordgo.IntentsGuildMembers | discordgo.IntentsGuildMessages
 
@@ -58,5 +60,25 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 		return
 	}
 	if admin, _ := IsAdmin(s, m); admin {
+	}
+}
+
+//Handles addition to new Guilds
+func guildCreate(s *discordgo.Session, g *discordgo.GuildCreate) {
+	var firstAvailable *discordgo.Channel
+	for _, channel := range g.Channels {
+		if strings.Contains(channel.Name, "general") {
+			firstAvailable = channel
+			break
+		}
+		p, err := s.UserChannelPermissions(s.State.User.ID, channel.Name)
+		if err != nil || p&discordgo.PermissionSendMessages == 0 {
+			continue
+		} else {
+			firstAvailable = channel
+		}
+	}
+	if firstAvailable != nil {
+		s.ChannelMessageSend(firstAvailable.ID, "Yayaya")
 	}
 }

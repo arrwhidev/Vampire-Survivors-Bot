@@ -1,6 +1,9 @@
 package main
 
 import (
+	"fmt"
+
+	"github.com/boltdb/bolt"
 	"github.com/bwmarrin/discordgo"
 )
 
