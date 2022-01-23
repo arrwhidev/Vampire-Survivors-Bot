@@ -23,5 +23,614 @@
                 "inline": false
             }
         ]
-    }
+    },
+    "whip": {
+        "title": "Whip",
+        "description": "This weapon can attack horizontally and pass through enemies.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/454b9ef6-0e76-4123-a3d9-0fde429bdaf9/SpriteWhip.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration and speed.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Hollow Heart** to make **Bloody Tear**",
+                "inline": false
+            }
+        ]
+    },
+    "bloody tear": {
+        "title": "Bloody Tear",
+        "description": "Evolved version of the Whip. It can deal critical damage and absorb HP.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/72aafeae-fb39-49fd-ad15-f6db03cc14e3/SpriteBloody_Tear.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires the Hollow Heart for evolution.",
+                "inline": false
+            }
+        ]
+    },
+    "magic wand": {
+        "title": "Magic Wand",
+        "description": "Its projectiles are fired at the nearest enemy.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/be5d7488-9bfc-412f-88eb-0ec2d74ef680/SpriteMagic_Wand.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Empty Tome** to make **Holy Wand**",
+                "inline": false
+            }
+        ]
+    },
+    "holy wand": {
+        "title": "Holy Wand",
+        "description": "Evolved version of the Magic Wand. Its projectiles have no delay.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/097c069c-5735-481b-94ad-adc270f18ba6/SpriteHoly_Wand.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires the Empty Tome for evolution.",
+                "inline": false
+            }
+        ]
+    },
+    "knife": {
+        "title": "Knife",
+        "description": "Quickly fires in a specific direction.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/83624eb4-b6a0-4859-bf7b-2bef186bdc37/SpriteKnife.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Bracer** to make **Thousand Edge**",
+                "inline": false
+            }
+        ]
+	},
+    "thousand edge": {
+        "title": "Thousand Edge",
+        "description": "Evolved version of the Knife. It can be used without delay.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/ce5d56c5-a723-4d76-ab5c-7e1578a60a07/SpriteThousand_Edge.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires the Bracer for evolution.",
+                "inline": false
+            }
+        ]
+	},
+    "axe": {
+        "title": "Axe",
+        "description": "Has high damage and high area scaling.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/7693ec53-3adf-46a9-bb93-2a16d2c1debc/Axe.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Candelabrador** to make **Death Spiral**",
+                "inline": false
+            }
+        ]
+	},
+    "death spiral": {
+        "title": "Death Spiral",
+        "description": "Evolved version of the Axe. It can pass through enemies.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/c5d595f0-7c0a-457c-aae6-70bdd4e1b8d5/SpriteDeath_Spiral.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires the Candelabrador for evolution.",
+                "inline": false
+            }
+        ]
+	},
+    "cross": {
+        "title": "Cross",
+        "description": "Can aim at the nearest enemy and act like a boomerang.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/0f7c1748-e3f9-4e73-8632-764189aa8be1/SpriteCross.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Clover** to make **Heaven Sword**",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Can be unlocked by finding a Rosary, which drops from breaking light sources.",
+                "inline": false
+            }
+        ]
+	},
+    "heaven sword": {
+        "title": "Heaven Sword",
+        "description": "Evolved version of the Cross. It can deal critical damage.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/50775296-21b8-495d-bc15-9d23bdd90bb0/SpriteHeaven_Sword.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires Clover for evolution.",
+                "inline": false
+            }
+        ]
+	},
+    "king bible": {
+        "title": "King Bible",
+        "description": "Orbits around the character.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/c5dc2659-7953-4740-a4e8-1e1380c11036/SpriteKing_Bible.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Best with: speed, duration, area.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Spellbinder** to make **Unholy Vespers**",
+                "inline": false
+            }
+        ]
+	},
+    "Unholy Vespers": {
+        "title": "Unholy Vespers",
+        "description": "Evolved version of the King Bible that endlessly orbits.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/cd014004-9957-48ab-a823-79565369782d/SpriteUnholy_Vespers.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires Spellbinder for evolution.",
+                "inline": false
+            }
+        ]
+	},
+    "fire wand": {
+        "title": "Fire Wand",
+        "description": "Can fire heavy damage at a random enemy.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/8f6aa30a-a6b0-4994-a3bb-feaa07cac2dc/SpriteFire_Wand.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores duration.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Spinach** to make **Hellfire**",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Can be unlocked by destroying 20 light sources.",
+                "inline": false
+            }
+        ]
+	},
+    "hellfire": {
+        "title": "Hellfire",
+        "description": "Evolved version of the Fire Wand. It can pass through enemies.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/d768e5d2-3d5d-4ae9-8ac3-1c054913dcdf/SpriteHellfire.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires Spinach for evolution.",
+                "inline": false
+            }
+        ]
+	},
+    "peachone": {
+        "title": "Peachone",
+        "description": "Creates a series of bombs on a circular area.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b501afff-4dba-43a5-b25e-a19a6b7cdfc7/SpritePeachone.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Area orbits clockwise around the player.",
+                "inline": false
+            },
+            {
+                "name": "Union",
+                "value": "Evolves at level 8 with **Ebony Wing** at level 8 to make **Vandalier**",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Can be unlocked by surviving for at least 10 minutes, using any character.",
+                "inline": false
+            }
+        ]
+	},
+    "ebony wings": {
+        "title": "Ebony Wings",
+        "description": "Creates a series of bombs on a circular area.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/9b7cb27e-4a24-4814-a87f-7727e267c53b/SpriteEbony_Wings.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Area orbits counter-clockwise around the player.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Peachone** at level 8 to make **Vandalier**",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Unlocked by getting the Peachone to level 7.",
+                "inline": false
+            }
+        ]
+	},
+    "vandalier": {
+        "title": "Vandalier",
+        "description": "Union of Peachone and Ebony Wings.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/fa1f840a-7002-4cca-836c-bb53de7a96ff/SpriteVandalier.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Unlocked by Getting both Peachone and Ebony Wings to level 8. Combined via a chest. Frees up a weapon slot and has 8 levels itself.",
+                "inline": false
+            }
+        ]
+	},
+    "santa water": {
+        "title": "Santa Water",
+        "description": "Generates damaging zones.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a0d7e49c-ea49-42d1-8ba2-7bde012d65d8/SpriteSanta_Water.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores speed.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
+                "inline": false
+            }
+        ]
+	},
+    "runetracer": {
+        "title": "Runetracer",
+        "description": "Bounces around and passes through enemies.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a5cac139-add8-454a-b471-da7c7220dd01/SpriteRunetracer.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Bounces on screen edges.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Unlocked by surviving five minutes using Pasqualina.",
+                "inline": false
+            }
+        ]
+	},
+    "lightning ring": {
+        "title": "Lightning Ring",
+        "description": "Strikes at random times.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/5de87966-45cf-4e1e-b1a9-44753a27642b/SpriteLightning_Ring.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Strikes at random enemies. Has an area of effect.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Unlocked by defeating a total of 5000 enemies.",
+                "inline": false
+            }
+        ]
+	},
+    "garlic": {
+        "title": "Garlic",
+        "description": "Damages enemies that come within its radius.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/9c243801-aeca-4266-a26b-4cd43c52d747/SpriteGarlic.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores cooldown, duration, speed.",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Pummarola** to make **Soul Eater**",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Unlocked by finding five Floor Chickens.",
+                "inline": false
+            }
+        ]
+	},
+    "soul eater": {
+        "title": "Soul Eater",
+        "description": "Evolved Version of Garlic. Steals hearts.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/e9fdaeca-e29a-4c19-bb8c-9d2ee7cf0bde/SpriteSoul_Eater.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires Pummarola for evolution. Power increases when recovering HP.",
+                "inline": false
+            }
+        ]
+	},
+    "pentagram": {
+        "title": "Pentagram",
+        "description": "Erases everything on the screen.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/e23ab3a0-64c3-4abb-bd12-97483c298060/SpritePentagram.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Best with: Cooldown and Luck only.",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Can be unlocked by surviving for at least 20 minutes, using any character.",
+                "inline": false
+            }
+        ]
+	},
+    "clock lancet": {
+        "title": "Clock Lancet",
+        "description": "Has a chance of freezing the enemies' time.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/763d895a-2533-4b50-9b19-ff83f9d1ae5b/SpriteClock_Lancet.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Ignores power, speed, amount, and area.",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Unlocked by finding an Orologion (which is dropped from breaking light sources.",
+                "inline": false
+            }
+        ]
+	},
+    "laurel": {
+        "title": "Laurel",
+        "description": "Protects the player from damage when active.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/6938bb98-289f-48bd-90f3-772da7bc9a35/SpriteLaurel.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Best with: Cooldown only.",
+                "inline": false
+            }
+        ]
+	},
+    "bone": {
+        "title": "Bone",
+        "description": "Throws a bouncing projectile.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/9e21fa77-756c-405f-86fa-ece45f06bac5/Bone.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Best with: Duration, Speed.",
+                "inline": false
+            },
+            {
+                "name": "Unlocks",
+                "value": "Only usable by **Mortaccia** (starting weapon).",
+                "inline": false
+            }
+        ]
+	}
 }
