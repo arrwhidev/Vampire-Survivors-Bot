@@ -16,6 +16,15 @@ type Channel struct {
 	Prefix string `json:"prefix"`
 }
 
+func SendEmbed(s *discordgo.Session, c string, m discordgo.MessageEmbed) error {
+	send := &discordgo.MessageSend{
+		Embed: &m,
+		TTS:   false,
+	}
+	_, err := s.ChannelMessageSendComplex(c, send)
+	return err
+}
+
 //Checks wether message author has administrator permissions
 func IsAdmin(s *discordgo.Session, m *discordgo.MessageCreate) (bool, error) {
 	perm, err := s.UserChannelPermissions(m.Author.ID, m.ChannelID)

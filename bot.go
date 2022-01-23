@@ -79,10 +79,19 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 			return
 		}
 	}
+	//Regular commands
 	if ch, ok := channels[m.ChannelID]; ok {
 		if strings.HasPrefix(m.Content, ch.Prefix) {
 			args := m.Content[len(ch.Prefix)+1:]
-			consoleLog.Println(args)
+			if embd, ok := library[strings.ToLower(args)]; ok {
+				err := SendEmbed(s, m.ChannelID, embd)
+				if err != nil {
+					consoleLog.Printf("[CMD] Command %s Failed! %v", args, err)
+				} else {
+					consoleLog.Printf("[CMD] Command %s Successful!", args)
+				}
+				return
+			}
 		}
 	}
 }
