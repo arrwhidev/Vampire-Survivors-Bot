@@ -18,20 +18,28 @@ var (
 	Token      string
 	consoleLog *log.Logger
 	database   *bolt.DB
+	channels   map[string]Channel
+	library    map[string]discordgo.MessageEmbed
+	guilds     map[string]bool
 )
 
 func init() {
 	flag.StringVar(&Token, "t", "", "Bot Token")
 	flag.Parse()
+	consoleLog = log.Default()
+	database, _ = bolt.Open("data.db", 0600, nil)
+	CreateBuckets()
+	LoadChannels()
+	LoadLibrary()
+	LoadGuilds()
 }
 
 func main() {
-	consoleLog = log.Default()
-	database, _ = bolt.Open("data.db", 0600, nil)
 	defer database.Close()
+
 	dg, err := discordgo.New("Bot " + Token)
 	if err != nil {
-		consoleLog.Println("[BOT] Error creating Discord session,", err)
+		consoleLog.Println("[SETUP] Error creating Discord session,", err)
 		return
 	}
 
@@ -42,11 +50,11 @@ func main() {
 
 	err = dg.Open()
 	if err != nil {
-		consoleLog.Println("[BOT] Error opening connection,", err)
+		consoleLog.Println("[SETUP] Error opening connection,", err)
 		return
 	}
 
-	consoleLog.Println("[BOT] Now running.  Press CTRL-C to exit.")
+	consoleLog.Println("[SETUP] Now running.  Press CTRL-C to exit.")
 	sc := make(chan os.Signal, 1)
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-sc
@@ -59,13 +67,32 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if m.Author.ID == s.State.User.ID {
 		return
 	}
+	//Admin commands
 	if admin, _ := IsAdmin(s, m); admin {
+		if strings.HasPrefix(m.Content, "!setvamp") {
+			ch, _ := CreateChan(m.ChannelID, "")
+			channels[m.ChannelID] = ch
+			if _, ok := guilds[m.GuildID]; !ok {
+				guilds[m.GuildID] = true
+				CreateGuild(m.GuildID)
+			}
+			return
+		}
+	}
+	if ch, ok := channels[m.ChannelID]; ok {
+		if strings.HasPrefix(m.Content, ch.Prefix) {
+			args := m.Content[len(ch.Prefix)+1:]
+			consoleLog.Println(args)
+		}
 	}
 }
 
 //Handles addition to new Guilds
 func guildCreate(s *discordgo.Session, g *discordgo.GuildCreate) {
 	var firstAvailable *discordgo.Channel
+	if _, ok := guilds[g.ID]; ok {
+		return
+	}
 	for _, channel := range g.Channels {
 		if strings.Contains(channel.Name, "general") {
 			firstAvailable = channel
