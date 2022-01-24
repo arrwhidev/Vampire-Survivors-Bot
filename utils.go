@@ -5,16 +5,24 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"regexp"
 
 	"github.com/boltdb/bolt"
 	"github.com/bwmarrin/discordgo"
-	//"github.com/Clinet/discordgo-embed"
 )
 
 type Channel struct {
 	Id     string `json:"id"`
 	Prefix string `json:"prefix"`
 }
+
+type Config struct {
+	DToken string `json:"dtoken"`
+	TToken string `json:"ttoken"`
+	TName  string `json:"tname"`
+}
+
+var IsDChan = regexp.MustCompile(`[^a-zA-Z]`).FindString
 
 func SendEmbed(s *discordgo.Session, c string, m discordgo.MessageEmbed) error {
 	send := &discordgo.MessageSend{
@@ -114,4 +122,27 @@ func LoadLibrary() {
 	defer jsonFile.Close()
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	json.Unmarshal(byteValue, &library)
+}
+
+//Joining initial twitch channels
+func JoinInitialChans() {
+	for k := range channels {
+		consoleLog.Printf("%v - %v", k, IsDChan(k))
+	}
+	tclient.Join(TName)
+}
+
+//Load config from 'config.ini' if available
+func LoadConfigFile() {
+	var cnf Config
+	jsonFile, err := os.Open("config.ini")
+	if err != nil {
+		return
+	}
+	defer jsonFile.Close()
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+	json.Unmarshal(byteValue, &cnf)
+	DToken = cnf.DToken
+	TToken = cnf.TToken
+	TName = cnf.TName
 }

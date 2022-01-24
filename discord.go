@@ -15,19 +15,20 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	//Admin commands
 	if admin, _ := IsAdmin(s, m); admin {
 		if strings.HasPrefix(m.Content, "!setvamp") {
-			ch, _ := CreateChan(m.ChannelID, "")
+			ch, _ := CreateChan(m.ChannelID, "!")
 			channels[m.ChannelID] = ch
 			if _, ok := guilds[m.GuildID]; !ok {
 				guilds[m.GuildID] = true
 				CreateGuild(m.GuildID)
 			}
+			s.ChannelMessageSend(m.ChannelID, "Hello! I will now respond to commands here! Try `!garlic`")
 			return
 		}
 	}
 	//Regular commands
 	if ch, ok := channels[m.ChannelID]; ok {
 		if strings.HasPrefix(m.Content, ch.Prefix) {
-			args := m.Content[len(ch.Prefix)+1:]
+			args := m.Content[len(ch.Prefix):]
 			if embd, ok := library[strings.ToLower(args)]; ok {
 				err := SendEmbed(s, m.ChannelID, embd)
 				if err != nil {
@@ -60,6 +61,6 @@ func guildCreate(s *discordgo.Session, g *discordgo.GuildCreate) {
 		}
 	}
 	if firstAvailable != nil {
-		s.ChannelMessageSend(firstAvailable.ID, "Yayaya")
+		s.ChannelMessageSend(firstAvailable.ID, "Hello! I am Vampire Turtle! A community library bot for Vampire Survivors!\nUse `!setvamp` in the channel you want me to respond to commands in!")
 	}
 }

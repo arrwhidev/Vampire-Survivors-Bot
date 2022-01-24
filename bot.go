@@ -9,13 +9,16 @@ import (
 
 	"github.com/boltdb/bolt"
 	"github.com/bwmarrin/discordgo"
+	"github.com/gempir/go-twitch-irc/v3"
 )
 
 var (
 	DToken     string
 	TToken     string
+	TName      string
 	consoleLog *log.Logger
 	database   *bolt.DB
+	tclient    *twitch.Client
 	channels   map[string]Channel
 	library    map[string]discordgo.MessageEmbed
 	guilds     map[string]bool
@@ -24,7 +27,9 @@ var (
 func init() {
 	flag.StringVar(&DToken, "d", "", "Discord Token")
 	flag.StringVar(&TToken, "t", "", "Twitch Token")
+	flag.StringVar(&TName, "n", "", "Twitch Username")
 	flag.Parse()
+	LoadConfigFile()
 	consoleLog = log.Default()
 	database, _ = bolt.Open("data.db", 0600, nil)
 	CreateBuckets()
@@ -51,10 +56,19 @@ func main() {
 		return
 	}
 
+	//Setting Twitch client
+	tclient = twitch.NewClient(TName, TToken)
+	tclient.OnPrivateMessage(twitchMessage)
+
+	JoinInitialChans()
+
+	go tclient.Connect()
+
 	consoleLog.Println("[SETUP] Now running.  Press CTRL-C to exit.")
 	sc := make(chan os.Signal, 1)
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-sc
 
 	dg.Close()
+	tclient.Disconnect()
 }
