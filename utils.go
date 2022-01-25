@@ -22,7 +22,7 @@ type Config struct {
 	TName  string `json:"tname"`
 }
 
-var IsDChan = regexp.MustCompile(`[^a-zA-Z]`).FindString
+var IsTChan = regexp.MustCompile(`[^0-9]`).FindString
 
 func SendEmbed(s *discordgo.Session, c string, m discordgo.MessageEmbed) error {
 	send := &discordgo.MessageSend{
@@ -98,6 +98,11 @@ func CreateChan(id, prefix string) (Channel, error) {
 		err := b.Put([]byte(id), v)
 		return err
 	})
+	if err != nil {
+		consoleLog.Printf("[BOT] Failed adding channel %s Error: %v", id, err)
+	} else {
+		consoleLog.Printf("[BOT] Added channel %s", id)
+	}
 	return ch, err
 }
 
@@ -127,8 +132,12 @@ func LoadLibrary() {
 //Joining initial twitch channels
 func JoinInitialChans() {
 	for k := range channels {
-		consoleLog.Printf("%v - %v", k, IsDChan(k))
+		//Trying to join non-discord channels
+		if IsTChan(k) != "" {
+			tclient.Join(k)
+		}
 	}
+	//Joining self channel
 	tclient.Join(TName)
 }
 

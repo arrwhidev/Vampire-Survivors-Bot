@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/bwmarrin/discordgo"
 	"strings"
+
+	"github.com/bwmarrin/discordgo"
 )
 
 //https://discord.com/api/oauth2/authorize?client_id=761955552091701258&permissions=52224&scope=bot

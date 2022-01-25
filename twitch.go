@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/bwmarrin/discordgo"
 	"github.com/gempir/go-twitch-irc/v3"
 )
 
@@ -22,8 +23,20 @@ func twitchMessage(m twitch.PrivateMessage) {
 	if ch, ok := channels[m.Channel]; ok {
 		if strings.HasPrefix(m.Message, ch.Prefix) {
 			args := m.Message[len(ch.Prefix):]
-			tclient.Say(m.Channel, fmt.Sprintf("Command recognized %s", args))
+			if embd, ok := library[strings.ToLower(args)]; ok {
+				tclient.Say(m.Channel, createResponse(embd))
+				consoleLog.Printf("[CMD] Command %s Successful!", args)
+			}
 		}
 		return
 	}
+}
+
+//Converts library content to Twitch appropriate message
+func createResponse(content discordgo.MessageEmbed) string {
+	var fields string
+	for _, embed_f := range content.Fields{
+		fields = fields + fmt.Sprintf("%s. ", embed_f.Value)
+	}
+	return fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
 }
