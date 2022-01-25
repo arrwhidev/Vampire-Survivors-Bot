@@ -133,7 +133,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "thousand edge": {
         "title": "Thousand Edge",
         "description": "Evolved version of the Knife. It can be used without delay.",
@@ -152,7 +152,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "axe": {
         "title": "Axe",
         "description": "Has high damage and high area scaling.",
@@ -176,7 +176,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "death spiral": {
         "title": "Death Spiral",
         "description": "Evolved version of the Axe. It can pass through enemies.",
@@ -195,7 +195,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "cross": {
         "title": "Cross",
         "description": "Can aim at the nearest enemy and act like a boomerang.",
@@ -224,7 +224,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "heaven sword": {
         "title": "Heaven Sword",
         "description": "Evolved version of the Cross. It can deal critical damage.",
@@ -243,7 +243,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "king bible": {
         "title": "King Bible",
         "description": "Orbits around the character.",
@@ -267,7 +267,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "Unholy Vespers": {
         "title": "Unholy Vespers",
         "description": "Evolved version of the King Bible that endlessly orbits.",
@@ -286,7 +286,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "fire wand": {
         "title": "Fire Wand",
         "description": "Can fire heavy damage at a random enemy.",
@@ -315,7 +315,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "hellfire": {
         "title": "Hellfire",
         "description": "Evolved version of the Fire Wand. It can pass through enemies.",
@@ -334,7 +334,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "peachone": {
         "title": "Peachone",
         "description": "Creates a series of bombs on a circular area.",
@@ -363,7 +363,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "ebony wings": {
         "title": "Ebony Wings",
         "description": "Creates a series of bombs on a circular area.",
@@ -392,7 +392,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "vandalier": {
         "title": "Vandalier",
         "description": "Union of Peachone and Ebony Wings.",
@@ -411,7 +411,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "santa water": {
         "title": "Santa Water",
         "description": "Generates damaging zones.",
@@ -435,7 +435,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "runetracer": {
         "title": "Runetracer",
         "description": "Bounces around and passes through enemies.",
@@ -464,7 +464,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "lightning ring": {
         "title": "Lightning Ring",
         "description": "Strikes at random times.",
@@ -493,7 +493,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "garlic": {
         "title": "Garlic",
         "description": "Damages enemies that come within its radius.",
@@ -522,7 +522,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "soul eater": {
         "title": "Soul Eater",
         "description": "Evolved Version of Garlic. Steals hearts.",
@@ -541,7 +541,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "pentagram": {
         "title": "Pentagram",
         "description": "Erases everything on the screen.",
@@ -565,7 +565,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "clock lancet": {
         "title": "Clock Lancet",
         "description": "Has a chance of freezing the enemies' time.",
@@ -589,7 +589,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "laurel": {
         "title": "Laurel",
         "description": "Protects the player from damage when active.",
@@ -608,7 +608,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "bone": {
         "title": "Bone",
         "description": "Throws a bouncing projectile.",
@@ -632,7 +632,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "spinach": {
         "title": "Spinach",
         "description": "Raises inflicted damage by 10%.",
@@ -651,7 +651,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "armor": {
         "title": "Armor",
         "description": "Reduces incoming damage by 1.",
@@ -663,7 +663,7 @@
         "thumbnail": {
             "url": "https://ucarecdn.com/efe24532-fe4e-47e5-ba42-38a9bd2a576a/-/resize/256x/"
         }
-	},
+    },
     "hollow heart": {
         "title": "Hollow Heart",
         "description": "Augments max health by 10%.",
@@ -687,7 +687,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "pummarola": {
         "title": "Pummarola",
         "description": "Character recovers 0.1 HP per second.",
@@ -711,7 +711,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "empty tome": {
         "title": "Empty Tome",
         "description": "Reduces weapons cooldown by 8%.",
@@ -735,7 +735,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "candelabrador": {
         "title": "Candelabrador",
         "description": "Augments area of attacks by 10%.",
@@ -759,7 +759,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "bracer": {
         "title": "Bracer",
         "description": "Increases projectiles speed by 10%.",
@@ -783,7 +783,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "spellbinder": {
         "title": "Spellbinder",
         "description": "Increases duration of weapon effects by 10%.",
@@ -807,7 +807,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "duplicator": {
         "title": "Duplicator",
         "description": "Weapons fire more projectiles.",
@@ -826,7 +826,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "wings": {
         "title": "Wings",
         "description": "Character moves 10% faster.",
@@ -845,7 +845,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "attractorb": {
         "title": "Attractorb",
         "description": "Character pickups items from further away.",
@@ -864,7 +864,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "clover": {
         "title": "Clover",
         "description": "Character gets 10% luckier.",
@@ -888,7 +888,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "crown": {
         "title": "Crown",
         "description": "Character gains 7% more experience.",
@@ -907,7 +907,7 @@
                 "inline": false
             }
         ]
-	},
+    },
     "stone mask": {
         "title": "Stone Mask",
         "description": "Character earns 10% more coins.",
@@ -926,5 +926,5 @@
                 "inline": false
             }
         ]
-	}
+    }
 }
