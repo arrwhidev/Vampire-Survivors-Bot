@@ -65,10 +65,13 @@ func main() {
 	go tclient.Connect()
 
 	consoleLog.Println("[SETUP] Now running.  Press CTRL-C to exit.")
+
+	//Gracefully close from console
 	sc := make(chan os.Signal, 1)
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-sc
 
+	consoleLog.Println("[SETUP] Shutting down...")
 	dg.Close()
 	tclient.Disconnect()
 }
