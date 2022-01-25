@@ -35,7 +35,7 @@ func twitchMessage(m twitch.PrivateMessage) {
 //Converts library content to Twitch appropriate message
 func createResponse(content discordgo.MessageEmbed) string {
 	var fields string
-	for _, embed_f := range content.Fields{
+	for _, embed_f := range content.Fields {
 		fields = fields + fmt.Sprintf("%s. ", embed_f.Value)
 	}
 	return fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
