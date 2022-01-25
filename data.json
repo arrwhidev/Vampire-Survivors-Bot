@@ -874,7 +874,7 @@
             "text": "Vampire Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/dcd996f2-6e2e-440e-8252-4e5243f8fc66/SpriteClover.png"
+            "url": "https://ucarecdn.com/dcd996f2-6e2e-440e-8252-4e5243f8fc66/-/resize/256x/"
         },
         "fields": [
             {
@@ -898,7 +898,7 @@
             "text": "Vampire Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/d58de414-38fd-48bf-ba6c-d61f40c2d42a/SpriteCrown.png"
+            "url": "https://ucarecdn.com/d58de414-38fd-48bf-ba6c-d61f40c2d42a/-/resize/256x/"
         },
         "fields": [
             {
@@ -917,7 +917,7 @@
             "text": "Vampire Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/95e8f61f-8062-4441-9624-88d6d4f84d80/SpriteStone_Mask.png"
+            "url": "https://ucarecdn.com/95e8f61f-8062-4441-9624-88d6d4f84d80/-/resize/256x/"
         },
         "fields": [
             {
@@ -926,5 +926,265 @@
                 "inline": false
             }
         ]
-    }
+    },
+    "antonio": {
+        "title": "Antonio",
+        "description": "Antonio Belpaese",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/5917e78e-ef04-4101-aed4-86e67f9e68a6/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Whip",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Attacks deal 10% more damage every 10 levels (max +50%) (Lvl 50)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Free",
+                "inline": false
+            }
+        ]
+	},
+    "imelda": {
+        "title": "Imelda",
+        "description": "Imelda Belpaese",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/466f3ff3-5919-40db-9ddb-3d111382fbdb/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Magic Wand",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Gains 10% more experience every 5 levels (max +30%). (Lvl 15)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Purchased with 10 gold",
+                "inline": false
+            }
+        ]
+	},
+    "pasqualina": {
+        "title": "Pasqualina",
+        "description": "Pasqualina Belpaese",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/488a6b3e-24b4-45ec-aec4-bb38bfb7d9b9/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Runetracer",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Projectiles get 10% faster every 5 levels (max +30%) (Lvl 30)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Purchasing with 100 gold (minimum value)",
+                "inline": false
+            }
+        ]
+	},
+    "gennaro": {
+        "title": "Gennaro",
+        "description": "Gennaro Belpaese",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/c2e5bfe8-ebc6-4f49-a255-a8dcd6196a8c/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Knife",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Permanent +1 projectile (all weapons)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Purchasing with 600 gold (minimum value)",
+                "inline": false
+            }
+        ]
+	},
+    "arca": {
+        "title": "Arca",
+        "description": "Arca Ladonna",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/24b3f12b-96ac-4c21-8e19-1237bdc0e5a5/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Fire Wand",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Weapon cooldown is reduced by 5% every 10 levels. (max -15%) (Lvl 30)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Getting Fire Wand to level 4 + purchasing with 750 gold",
+                "inline": false
+            }
+        ]
+	},
+    "porta": {
+        "title": "Porta",
+        "description": "Porta Ladonna",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/4c054787-c50e-4fa9-b438-3c107477df03/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Lightning Ring",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Permanent +30% area. Starts with temporarily reduced cooldown (so Lightning Ring kills faster)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Getting Lightning Ring to level 4 + purchasing with 750 gold",
+                "inline": false
+            }
+        ]
+	},
+    "poe": {
+        "title": "Poe",
+        "description": "Poe Ratcho",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b40eacf0-dfdc-43b5-9f34-ca1c79e7e54e/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Garlic",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Permanent +25% pickup radius. -30 max health.",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Getting Garlic to level 7 + purchasing with 800 gold.",
+                "inline": false
+            }
+        ]
+	},
+    "mortaccio": {
+        "title": "Mortaccio",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a8a8a0a1-7f59-47a1-8348-381b5a8188e5/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Bone",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Defeating a total of 3000 skeletons",
+                "inline": false
+            }
+        ]
+	},
+    "exdash": {
+        "title": "Exdash",
+        "description": "Secret Character",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/4dd2190d-13f4-479e-8d97-38902854f072/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "||Ebony Wings||",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "||Permanent +100% Luck, -33 Max Health, -10% MoveSpeed, -10% Area, -50% Speed, -10% Duration, +10% Cooldown.||",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "||Typing 'x-x1viiq' in main menu.||",
+                "inline": false
+            }
+        ]
+	}
 }
