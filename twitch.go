@@ -38,5 +38,6 @@ func createResponse(content discordgo.MessageEmbed) string {
 	for _, embed_f := range content.Fields {
 		fields = fields + fmt.Sprintf("%s. ", embed_f.Value)
 	}
+	fields = strings.Replace(fields, "\n", " ", -1)
 	return fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
 }

@@ -45,6 +45,11 @@
                 "name": "Evolution",
                 "value": "Evolves at level 8 with **Hollow Heart** to make **Bloody Tear**",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5 \n(4) Damage +5, Area +10% \n(5) Damage +5 \n(6) Damage +5, Area +10% \n(7) Damage +5 \n(8) Damage +5 ",
+                "inline": false
             }
         ]
     },
@@ -87,6 +92,11 @@
             {
                 "name": "Evolution",
                 "value": "Evolves at level 8 with **Empty Tome** to make **Holy Wand**",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Fires 1 more projectile \n(3) Cooldown reduced by 0.2 \n(4) Fires 1 more projectile \n(5) Damage up by 10 \n(6) Fires 1 more projectile \n(7) Pierces 1 more enemy \n(8) Damage up by 10",
                 "inline": false
             }
         ]
@@ -131,6 +141,11 @@
                 "name": "Evolution",
                 "value": "Evolves at level 8 with **Bracer** to make **Thousand Edge**",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Fires 1 more projectile \n(3) Fires 1 more projectile, Damage + 5 \n(4) Fires 1 more projectile \n(5) Pierces 1 more enemy \n(6) Fires 1 more projectile \n(7) Fires 1 more projectile, Damage + 5 \n(8) Pierces 1 more enemy",
+                "inline": false
             }
         ]
     },
@@ -173,6 +188,11 @@
             {
                 "name": "Evolution",
                 "value": "Evolves at level 8 with **Candelabrador** to make **Death Spiral**",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +20 \n(4) Pierces +2 enemies \n(5) Projectiles +1 \n(6) Damage +20 \n(7) Pierces +2 enemies \n(8) Damage +20 ",
                 "inline": false
             }
         ]
@@ -222,6 +242,11 @@
                 "name": "Unlocks",
                 "value": "Can be unlocked by finding a Rosary, which drops from breaking light sources.",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Damage +10 \n(3) Speed +25%, Area +10% \n(4) Projectiles +1 \n(5) Damage +10 \n(6) Speed +25, Area +10% \n(7) Projectiles +1 \n(8) Damage +10 ",
+                "inline": false
             }
         ]
     },
@@ -264,6 +289,11 @@
             {
                 "name": "Evolution",
                 "value": "Evolves at level 8 with **Spellbinder** to make **Unholy Vespers**",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Projectiles +1 \n(3) Speed +30%, Area + 25% \n(4) Duration +0.5, Damage +10 \n(5) Projectiles +1 \n(6) Speed +30%, Area +25% \n(7) Duration +0.5, Damage +10 \n(8) Projectiles +1 ",
                 "inline": false
             }
         ]
@@ -312,6 +342,11 @@
             {
                 "name": "Unlocks",
                 "value": "Can be unlocked by destroying 20 light sources.",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Damage +10 \n(3) Damage +10, speed + 20% \n(4) Damage +10 \n(5) Damage +10, speed + 20% \n(6) Damage +10 \n(7) Damage +10, speed + 20% \n(8) Damage +10",
                 "inline": false
             }
         ]
@@ -433,6 +468,11 @@
                 "name": "Evolution",
                 "value": "Does not evolve (yet...?)",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Projectiles +1, Area + 20% \n(3) Damage +10, Duration +0.5 \n(4) Projectiles +1, Area + 20% \n(5) Damage +10, Duration +0.3 \n(6) Projectiles +1, Area + 20% \n(7) Damage +10, Duration +0.3 \n(8) Damage +5, Area + 20%",
+                "inline": false
             }
         ]
     },
@@ -461,6 +501,11 @@
             {
                 "name": "Unlocks",
                 "value": "Unlocked by surviving five minutes using Pasqualina.",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Damage +5, Speed + 20% \n(3) Damage +5, Duration + 0.3 \n(4) Fires 1 more projectile \n(5) Damage +5, Speed + 20% \n(6) Damage +5, Duration + 0.3 \n(7) Fires 1 more projectile \n(8) Duration + 0.5",
                 "inline": false
             }
         ]
@@ -491,6 +536,11 @@
                 "name": "Unlocks",
                 "value": "Unlocked by defeating a total of 5000 enemies.",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Projectiles +1 \n(3) Area +100%, Damage +10 \n(4) Projectiles +1 \n(5) Area +100%, Damage +20 \n(6) Speed +25%, Area +10% \n(7) Area +100%, Damage +10 \n(8) Projectiles +1 ",
+                "inline": false
             }
         ]
     },
@@ -519,6 +569,11 @@
             {
                 "name": "Unlocks",
                 "value": "Unlocked by finding five Floor Chickens.",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Area +40%, Damage +2 \n(3) Cooldown -0.1, Damage +1 \n(4) Area +20%, Damage +1 \n(5) Cooldown -0.1, Damage +2 \n(6) Area +20%, Damage +1 \n(7) Cooldown -0.1, Damage +2 \n(8) Area +20%, Damage +2",
                 "inline": false
             }
         ]
@@ -563,6 +618,11 @@
                 "name": "Unlocks",
                 "value": "Can be unlocked by surviving for at least 20 minutes, using any character.",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Cooldown -10 \n(3) 20% not to erase \n(4) Cooldown -10 \n(5) 40% not to erase \n(6) Cooldown -10 \n(7) 60% not to erase",
+                "inline": false
             }
         ]
     },
@@ -587,6 +647,11 @@
                 "name": "Unlocks",
                 "value": "Unlocked by finding an Orologion (which is dropped from breaking light sources.",
                 "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Duration +1 \n(3) Cooldown -0.5 \n(4)  Duration +1 \n(5) Duration +1 \n(6) Cooldown -0.5 \n(7) Duration +1",
+                "inline": false
             }
         ]
     },
@@ -605,6 +670,11 @@
             {
                 "name": "Notes",
                 "value": "Best with: Cooldown only.",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Cooldown -0.5, Duration +0.2 \n(3) Cooldown -0.5, Duration +0.2 \n(4) Charge +1 \n(5) Cooldown -0.5, Duration +0.2 \n(6) Cooldown -0.5, Duration +0.2 \n(7) Charge +1",
                 "inline": false
             }
         ]
@@ -629,6 +699,11 @@
             {
                 "name": "Unlocks",
                 "value": "Only usable by **Mortaccia** (starting weapon).",
+                "inline": false
+            },
+            {
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Duration +0.2, Area +20% \n(3) Damage +20, Projectiles +1 \n(4) Speed +50%, Area +20% \n(5) Damage +20, Projectiles +1 \n(6) Duration +0.2 \n(7) Damage +20 \n(8) Duration +0.2, Speed +50% ",
                 "inline": false
             }
         ]
