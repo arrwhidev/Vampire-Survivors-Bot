@@ -1276,5 +1276,63 @@
                 "inline": false
             }
         ]
+	},
+    "dommario": {
+        "title": "Dommario",
+        "description": "Dommario",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/9a706002-54da-4f94-aad1-8555365ab1d6/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "King Bible",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Permanent +40% duration, +40% projectile speed. -40% Moving speed.",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Earn 5000 coins in a single run.",
+                "inline": false
+            }
+        ]
+	},
+    "clerici": {
+        "title": "Clerici",
+        "description": "Sour Clerici",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/6cc85c39-684d-4093-9dea-e8942333342f/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Starting Weapon",
+                "value": "Santa Water",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "Permanent +0.5 HP/s and +30 Max Health. Starts with temporary area bonus.",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "Heal a total of 1000 health.",
+                "inline": false
+            }
+        ]
 	}
 }
