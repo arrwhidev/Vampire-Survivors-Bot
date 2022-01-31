@@ -38,6 +38,16 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 					consoleLog.Printf("[CMD] Command %s Successful!", args)
 				}
 				return
+			} 
+			if alias, ok := aliases[strings.ToLower(args)]; ok {
+				embd, _ := library[alias]
+				err := SendEmbed(s, m.ChannelID, embd)
+				if err != nil {
+					consoleLog.Printf("[CMD] Command %s Failed! %v", args, err)
+				} else {
+					consoleLog.Printf("[CMD] Command %s Successful!", args)
+				}
+				return
 			}
 		}
 	}

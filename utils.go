@@ -129,6 +129,18 @@ func LoadLibrary() {
 	json.Unmarshal(byteValue, &library)
 }
 
+//Loading aliases from json to memory
+func LoadAliases() {
+	aliases = make(map[string]string)
+	jsonFile, err := os.Open("aliases.json")
+	if err != nil {
+		return
+	}
+	defer jsonFile.Close()
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+	json.Unmarshal(byteValue, &aliases)
+}
+
 //Joining initial twitch channels
 func JoinInitialChans() {
 	for k := range channels {
