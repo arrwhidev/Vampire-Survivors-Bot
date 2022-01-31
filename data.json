@@ -19,10 +19,21 @@
             },
             {
                 "name": "Found an issue?",
-                "value": "We all make mistakes! Just use `!feedback <your_feedback>` to let us know!",
+                "value": "We all make mistakes! Open an issue on the [GitHub](https://github.com/SHA65536/Vampire-Survivors-Bot) to let us know!",
                 "inline": false
             }
         ]
+    },
+    "feedback": {
+        "title": "We no longer accept feedback with commands!",
+        "description": "Instead open an issue on the [GitHub](https://github.com/SHA65536/Vampire-Survivors-Bot) to let us know!",
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png"
+        }
     },
     "whip": {
         "title": "Whip",
