@@ -22,6 +22,7 @@ var (
 	channels   map[string]Channel
 	library    map[string]discordgo.MessageEmbed
 	guilds     map[string]bool
+	aliases    map[string]string
 )
 
 func init() {
@@ -35,6 +36,7 @@ func init() {
 	CreateBuckets()
 	LoadChannels()
 	LoadLibrary()
+	LoadAliases()
 	LoadGuilds()
 }
 
