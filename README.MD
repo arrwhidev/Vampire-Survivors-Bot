@@ -17,13 +17,16 @@ git clone https://github.com/SHA65536/Vampire-Survivors-Bot.git
 ```
 Install required libraries using `go get`.
 
+Set the tokens and twitch username using environment variables or create a `.env` file using the following format:
+```
+TWITCH_TOKEN=<yourtwitchtoken>
+DISCORD_TOKEN=<yourdiscordtoken>
+TWITCH_NAME=<yourtwitchname>
+```
+
 Now run the bot using:
 ```
-go run . -t <twitch-oauth> -d <discord-token> -n <twitch-name>
-```
-Alternatively create a `config.ini` file with this structure:
-```json
-{"ttoken":"twitch-oauth","dtoken":"discord-token","tname":"twitch-name"}
+go run .
 ```
 
 ## Contribute
