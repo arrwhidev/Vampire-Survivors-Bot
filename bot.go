@@ -24,10 +24,7 @@ var (
 
 func init() {
 	consoleLog = log.Default()
-	err := godotenv.Load()
-	if err != nil {
-		consoleLog.Fatal("Could not load environment")
-	}
+	godotenv.Load()
 	database, _ = bolt.Open("data.db", 0600, nil)
 	CreateBuckets()
 	LoadChannels()
