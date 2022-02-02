@@ -1,7 +1,6 @@
 package main
 
 import (
-	"flag"
 	"log"
 	"os"
 	"os/signal"
@@ -9,13 +8,11 @@ import (
 
 	"github.com/boltdb/bolt"
 	"github.com/bwmarrin/discordgo"
+	"github.com/joho/godotenv"
 	"github.com/gempir/go-twitch-irc/v3"
 )
 
 var (
-	DToken     string
-	TToken     string
-	TName      string
 	consoleLog *log.Logger
 	database   *bolt.DB
 	tclient    *twitch.Client
@@ -26,12 +23,11 @@ var (
 )
 
 func init() {
-	flag.StringVar(&DToken, "d", "", "Discord Token")
-	flag.StringVar(&TToken, "t", "", "Twitch Token")
-	flag.StringVar(&TName, "n", "", "Twitch Username")
-	flag.Parse()
-	LoadConfigFile()
 	consoleLog = log.Default()
+	err := godotenv.Load()
+	if err != nil {
+		consoleLog.Fatal("Could not load environment")
+	}
 	database, _ = bolt.Open("data.db", 0600, nil)
 	CreateBuckets()
 	LoadChannels()
@@ -44,7 +40,7 @@ func main() {
 	defer database.Close()
 
 	//Setting Discord Up
-	dg, err := discordgo.New("Bot " + DToken)
+	dg, err := discordgo.New("Bot " + os.Getenv("DISCORD_TOKEN"))
 	if err != nil {
 		consoleLog.Println("[SETUP] Error creating Discord session,", err)
 		return
@@ -59,7 +55,7 @@ func main() {
 	}
 
 	//Setting Twitch client
-	tclient = twitch.NewClient(TName, TToken)
+	tclient = twitch.NewClient(os.Getenv("TWITCH_NAME"), os.Getenv("TWITCH_TOKEN"))
 	tclient.OnPrivateMessage(twitchMessage)
 
 	JoinInitialChans()

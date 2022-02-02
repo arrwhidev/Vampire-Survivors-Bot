@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 	"strings"
 
 	"github.com/bwmarrin/discordgo"
@@ -11,7 +12,7 @@ import (
 //Handles incoming twitch messages
 func twitchMessage(m twitch.PrivateMessage) {
 	//Checking self channel for join requests
-	if strings.ToLower(m.Channel) == strings.ToLower(TName) {
+	if strings.ToLower(m.Channel) == strings.ToLower(os.Getenv("TWITCH_NAME")) {
 		if m.Message == "!biteme" || m.Message == "!setvamp" {
 			ch, _ := CreateChan(strings.ToLower(m.User.Name), "!")
 			channels[strings.ToLower(m.User.Name)] = ch

@@ -150,20 +150,5 @@ func JoinInitialChans() {
 		}
 	}
 	//Joining self channel
-	tclient.Join(TName)
-}
-
-//Load config from 'config.ini' if available
-func LoadConfigFile() {
-	var cnf Config
-	jsonFile, err := os.Open("config.ini")
-	if err != nil {
-		return
-	}
-	defer jsonFile.Close()
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-	json.Unmarshal(byteValue, &cnf)
-	DToken = cnf.DToken
-	TToken = cnf.TToken
-	TName = cnf.TName
+	tclient.Join(os.Getenv("TWITCH_NAME"))
 }

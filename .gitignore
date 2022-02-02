@@ -1,4 +1,4 @@
 *.exe
 *.ini
 *.db*
-config.ini
+*.env
