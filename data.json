@@ -1345,5 +1345,63 @@
                 "inline": false
             }
         ]
+	},
+    "krochi": {
+        "title": "Beta Content",
+        "description": "||Krochi Freetto||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/d8771058-85bd-4b33-a74b-4d2d1743874a/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "||Starting Weapon||",
+                "value": "||Cross||",
+                "inline": false
+            },
+			{
+                "name": "||Ability||",
+                "value": "||Starts with 1 **Revival**. Gains 1 more **Revival** at level 33||",
+                "inline": false
+            },
+            {
+                "name": "||Unlock||",
+                "value": "||Defeat a total of 100,000 enemies||",
+                "inline": false
+            }
+        ]
+	},
+    "tiragisu": {
+        "title": "Beta Content",
+        "description": "||Revives once with 50% heatlh.||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/907c58f1-3cae-44ca-acbe-6dc66b27d78c/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "||Evolution||",
+                "value": "||Does not evolve (yet...?)||",
+                "inline": false
+            },
+            {
+                "name": "||Unlocks||",
+                "value": "||Survive 20 minutes with **Krochi**||",
+                "inline": false
+            },
+            {
+                "name": "||Leveling||",
+                "value": "||(1) Revives once with 50% heatlh. \n(2) Gains one more revive||",
+                "inline": false
+            }
+        ]
 	}
 }
