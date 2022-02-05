@@ -491,8 +491,8 @@
                 "inline": false
             },
             {
-                "name": "Evolution - Beta Content",
-                "value": "||Evolves at level 8 with **Attractorb** To make **La Borra** ||",
+                "name": "Evolution",
+                "value": "Evolves at level 8 with **Attractorb** To make **La Borra** ",
                 "inline": false
             },
             {
@@ -1347,8 +1347,8 @@
         ]
 	},
     "krochi": {
-        "title": "Beta Content",
-        "description": "||Krochi Freetto||",
+        "title": "Krochi",
+        "description": "Krochi Freetto",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1359,25 +1359,25 @@
         },
         "fields": [
             {
-                "name": "||Starting Weapon||",
-                "value": "||Cross||",
+                "name": "Starting Weapon",
+                "value": "Cross",
                 "inline": false
             },
 			{
-                "name": "||Ability||",
-                "value": "||Starts with 1 **Revival**. Gains 1 more **Revival** at level 33||",
+                "name": "Ability",
+                "value": "Starts with 1 **Revival**. Gains 1 more **Revival** at level 33",
                 "inline": false
             },
             {
-                "name": "||Unlock||",
-                "value": "||Defeat a total of 100,000 enemies||",
+                "name": "Unlock",
+                "value": "Defeat a total of 100,000 enemies",
                 "inline": false
             }
         ]
 	},
     "tiragisu": {
-        "title": "Beta Content",
-        "description": "||Revives once with 50% heatlh.||",
+        "title": "Tiragisu",
+        "description": "Revives once with 50% heatlh.",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1388,25 +1388,25 @@
         },
         "fields": [
             {
-                "name": "||Evolution||",
-                "value": "||Does not evolve (yet...?)||",
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
                 "inline": false
             },
             {
-                "name": "||Unlocks||",
-                "value": "||Survive 20 minutes with **Krochi**||",
+                "name": "Unlocks",
+                "value": "Survive 20 minutes with **Krochi**",
                 "inline": false
             },
             {
-                "name": "||Leveling||",
-                "value": "||(1) Revives once with 50% heatlh. \n(2) Gains one more revive||",
+                "name": "Leveling",
+                "value": "(1) Revives once with 50% heatlh. \n(2) Gains one more revive",
                 "inline": false
             }
         ]
 	},
     "la borra": {
-        "title": "Beta Content",
-        "description": "||Evolved Santa Water. Damaging zones follow the character||",
+        "title": "La Borra",
+        "description": "Evolved Santa Water. Damaging zones follow the character",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1417,8 +1417,8 @@
         },
         "fields": [
             {
-                "name": "||Notes||",
-                "value": "||Requires *Attractorb** for evolution.||",
+                "name": "Notes",
+                "value": "Requires *Attractorb** for evolution.",
                 "inline": false
             }
         ]
