@@ -19,6 +19,7 @@
     "santawater": "santa water",
     "water": "santa water",
     "holy water": "santa water",
+    "santa": "santa water",
     "rune tracer": "runetracer",
     "lightningring": "lightning ring",
     "ring": "lightning ring",
@@ -40,5 +41,11 @@
     "spell binder": "spellbinder",
     "attract orb": "attractorb",
     "mask": "stone mask",
-    "stonemask": "stone mask"
+    "stonemask": "stone mask",
+    "laborra": "la borra",
+    "borra": "la borra",
+    "la bora": "la borra",
+    "bora": "la borra",
+    "tiramisu": "tiragisu",
+    "tiragisú": "tiragisu"
 }

@@ -491,8 +491,8 @@
                 "inline": false
             },
             {
-                "name": "Evolution",
-                "value": "Does not evolve (yet...?)",
+                "name": "Evolution - Beta Content",
+                "value": "||Evolves at level 8 with **Attractorb** To make **La Borra** ||",
                 "inline": false
             },
             {
@@ -1400,6 +1400,25 @@
             {
                 "name": "||Leveling||",
                 "value": "||(1) Revives once with 50% heatlh. \n(2) Gains one more revive||",
+                "inline": false
+            }
+        ]
+	},
+    "la borra": {
+        "title": "Beta Content",
+        "description": "||Evolved Santa Water. Damaging zones follow the character||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a806ff6c-f8c1-4197-90cf-f1b4e13d4f42/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "||Notes||",
+                "value": "||Requires *Attractorb** for evolution.||",
                 "inline": false
             }
         ]
