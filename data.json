@@ -502,6 +502,25 @@
             }
         ]
     },
+    "la borra": {
+        "title": "La Borra",
+        "description": "Evolved Santa Water. Damaging zones follow the character",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a806ff6c-f8c1-4197-90cf-f1b4e13d4f42/-/resize/256x/"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "Requires **Attractorb** for evolution.",
+                "inline": false
+            }
+        ]
+	},
     "runetracer": {
         "title": "Runetracer",
         "description": "Bounces around and passes through enemies.",
@@ -554,8 +573,8 @@
                 "inline": false
             },
             {
-                "name": "Evolution",
-                "value": "Does not evolve (yet...?)",
+                "name": "Beta Content ||Evolution||",
+                "value": "||Evolves at level 8 with **Duplicator** To make **Thunder Loop**||",
                 "inline": false
             },
             {
@@ -570,6 +589,25 @@
             }
         ]
     },
+    "thunder loop": {
+        "title": "Beta Content",
+        "description": "||Evolved Lightning Ring. Projectiles strike twice.||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "3decee04-ac31-4da8-8c0c-00595f7283fd"
+        },
+        "fields": [
+            {
+                "name": "||Notes||",
+                "value": "||Requires **Duplicator** for evolution.||",
+                "inline": false
+            }
+        ]
+	},
     "garlic": {
         "title": "Garlic",
         "description": "Damages enemies that come within its radius.",
@@ -1409,21 +1447,31 @@
             }
         ]
 	},
-    "la borra": {
-        "title": "La Borra",
-        "description": "Evolved Santa Water. Damaging zones follow the character",
+    "red death": {
+        "title": "Red Death",
+        "description": "Secret Character",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
             "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/a806ff6c-f8c1-4197-90cf-f1b4e13d4f42/-/resize/256x/"
+            "url": "09deb3c2-8996-4440-b276-cf643785a6ff"
         },
         "fields": [
             {
-                "name": "Notes",
-                "value": "Requires **Attractorb** for evolution.",
+                "name": "Starting Weapon",
+                "value": "||Death Spiral (Evolved Axe)||",
+                "inline": false
+            },
+			{
+                "name": "Ability",
+                "value": "||Starts with randomized stats||",
+                "inline": false
+            },
+            {
+                "name": "Unlock",
+                "value": "||Unlocked by killing death||",
                 "inline": false
             }
         ]
