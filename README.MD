@@ -22,6 +22,7 @@ Set the tokens and twitch username using environment variables or create a `.env
 TWITCH_TOKEN=<yourtwitchtoken>
 DISCORD_TOKEN=<yourdiscordtoken>
 TWITCH_NAME=<yourtwitchname>
+OWNER_ID=<yourdiscordid>
 ```
 
 Now run the bot using:

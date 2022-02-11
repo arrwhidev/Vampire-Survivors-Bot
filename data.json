@@ -584,7 +584,7 @@
         "fields": [
             {
                 "name": "Notes",
-                "value": "Ignores cooldown, duration, speed.",
+                "value": "Ignores duration, speed.",
                 "inline": false
             },
             {
@@ -724,7 +724,7 @@
             },
             {
                 "name": "Unlocks",
-                "value": "Only usable by **Mortaccia** (starting weapon).",
+                "value": "Very rarely appears after unlocking **Mortaccio**",
                 "inline": false
             },
             {
@@ -962,6 +962,11 @@
             {
                 "name": "Unlocks",
                 "value": "Unlocked by: Find a Vacuum (drops from breaking light sources)",
+                "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Required to evolve **Santa Water** to **La Borra**",
                 "inline": false
             }
         ]
@@ -1418,7 +1423,7 @@
         "fields": [
             {
                 "name": "Notes",
-                "value": "Requires *Attractorb** for evolution.",
+                "value": "Requires **Attractorb** for evolution.",
                 "inline": false
             }
         ]
