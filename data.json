@@ -1448,7 +1448,7 @@
         ]
 	},
     "red death": {
-        "title": "Red Death",
+        "title": "Mask of the Red Death",
         "description": "Secret Character",
         "color": 12846604,
         "footer": {
@@ -1466,12 +1466,12 @@
             },
 			{
                 "name": "Ability",
-                "value": "||Starts with randomized stats||",
+                "value": "||Permanent +100% Movespeed, +20% Damage, Health 255||",
                 "inline": false
             },
             {
                 "name": "Unlock",
-                "value": "||Unlocked by killing death||",
+                "value": "||Unlocked by killing Death||",
                 "inline": false
             }
         ]
