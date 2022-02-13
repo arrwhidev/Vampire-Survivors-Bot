@@ -685,7 +685,7 @@
             },
             {
                 "name": "Leveling",
-                "value": "(1) Base \n(2) Cooldown -10 \n(3) 20% not to erase \n(4) Cooldown -10 \n(5) 40% not to erase \n(6) Cooldown -10 \n(7) 60% not to erase",
+                "value": "(1) Base \n(2) Cooldown -10 \n(3) 25% not to erase \n(4) Cooldown -10 \n(5) 45% not to erase \n(6) Cooldown -10 \n(7) 65% not to erase",
                 "inline": false
             }
         ]
