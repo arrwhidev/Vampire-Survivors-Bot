@@ -1480,5 +1480,24 @@
                 "inline": false
             }
         ]
+	},
+    "evolutions": {
+        "title": "Weapon Evolution Guide",
+        "description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses), and only from a boss that spawned at the 10-minute mark or later.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/39129ea1-4ab3-4d5c-96ef-a00fcc14e559/Evolutions.png"
+        },
+        "fields": [
+            {
+                "name": "Evolution List (Version 0.2.12)",
+                "value": "||Axe + Candelabrador = Death Spiral\nCross + Clover = Heaven Sword\nFire Wand + Spinach = Hellfire\nGarlic + Pummarola = Soul Eater\nKing Bible = Unholy Vespers\nKnife + Bracer = Thousand Edge\nLightning Ring + Duplicator = Thunder Loop\nMagic Wand + Empty Tome = Holy Wand\nPeachone + Ebony Wings = Vandalier\nSanta Water + Attractorb = La Borra\nWhip + Hollow Heart = Bloody Tear||",
+                "inline": false
+            }
+        ]
 	}
 }
