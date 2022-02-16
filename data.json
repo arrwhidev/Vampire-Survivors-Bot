@@ -18,6 +18,11 @@
                 "inline": false
             },
             {
+                "name": "List of items",
+                "value": "Use `!items` to see a list of all items.",
+                "inline": false
+            },
+            {
                 "name": "Found an issue?",
                 "value": "We all make mistakes! Open an issue on the [GitHub](https://github.com/SHA65536/Vampire-Survivors-Bot) to let us know!",
                 "inline": false
@@ -1497,6 +1502,35 @@
                 "name": "Evolution List (Version 0.2.12)",
                 "value": "||Axe + Candelabrador = Death Spiral\nCross + Clover = Heaven Sword\nFire Wand + Spinach = Hellfire\nGarlic + Pummarola = Soul Eater\nKing Bible = Unholy Vespers\nKnife + Bracer = Thousand Edge\nLightning Ring + Duplicator = Thunder Loop\nMagic Wand + Empty Tome = Holy Wand\nPeachone + Ebony Wings = Vandalier\nSanta Water + Attractorb = La Borra\nWhip + Hollow Heart = Bloody Tear||",
                 "inline": false
+            }
+        ]
+	},
+    "items": {
+        "title": "Weapon and Item list",
+        "description":"If you want more information about a specific item, use **!itemname**",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/34125e25-4a90-4d20-b063-57e77bb5957a/Books.png"
+        },
+        "fields": [
+            {
+                "name": "Weapons",
+                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone",
+                "inline": true
+            },
+            {
+                "name": "Passives",
+                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandleabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu",
+                "inline": true
+            },
+            {
+                "name": "Evolutions",
+                "value": "||Bloody Tear\nHoly Wand\nThousand Edge\nDeath Spiral\nHeaven Sword\nUnholy Vespers\nHellfire\nSoul Eater\nVandalier\nLa Borra\nThunder Loop||",
+                "inline": true
             }
         ]
 	}

@@ -54,5 +54,12 @@
     "thunder": "thunder loop",
     "loop": "thunder loop",
     "reddeath": "red death",
-    "death": "red death"
+    "death": "red death",
+    "evolution":"evolutions",
+    "evo":"evolutions",
+    "evos":"evolutions",
+    "weapons":"items",
+    "passive":"items",
+    "passives":"items",
+    "commands":"items"
 }
