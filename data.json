@@ -963,6 +963,11 @@
                 "name": "Unlocks",
                 "value": "Unlocked by: Get **Magic Wand** to Level 7.",
                 "inline": false
+            },
+            {
+                "name": "Evolution",
+                "value": "Required to evolve **Lightning Ring** to **Thunder Loop**",
+                "inline": false
             }
         ]
     },
@@ -1235,7 +1240,7 @@
             },
 			{
                 "name": "Ability",
-                "value": "Permanent +30% area. Starts with temporarily reduced cooldown (so Lightning Ring kills faster)",
+                "value": "Permanent +30% area. Starts with a temporarily reduced cooldown (so Lightning Ring kills faster)",
                 "inline": false
             },
             {
