@@ -1486,6 +1486,122 @@
             }
         ]
 	},
+    "cavallo": {
+        "title": "Beta Content",
+        "description": "||Yatta Cavallo||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a2621e57-aef9-495c-ba65-543675cedf0b/Cavallo.png"
+        },
+        "fields": [
+            {
+                "name": "||Starting Weapon||",
+                "value": "||Cherry Bomb||",
+                "inline": false
+            },
+			{
+                "name": "||Ability||",
+                "value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||",
+                "inline": false
+            },
+            {
+                "name": "||Unlock||",
+                "value": "||Defeat a total of 3000 Lion Heads.||",
+                "inline": false
+            }
+        ]
+	},
+    "lama": {
+        "title": "Beta Content",
+        "description": "||Lama Ladonna||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/3a8bbcdc-c088-4d90-a641-ab26b23dfc2c/Lama.png"
+        },
+        "fields": [
+            {
+                "name": "||Starting Weapon||",
+                "value": "||Axe||",
+                "inline": false
+            },
+			{
+                "name": "||Ability||",
+                "value": "||Gains +5% Damage, MoveSpeed and Curse every 10 levels. (max +20%)||",
+                "inline": false
+            },
+            {
+                "name": "||Unlock||",
+                "value": "||Survive 20 minutes with at least +10% Curse.||",
+                "inline": false
+            }
+        ]
+	},
+    "cherry bomb": {
+        "title": "Beta Contant",
+        "description": "||Throws a bouncing projectile. Explodes, sometimes.",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/31c5dee0-f0bc-4c5c-bd06-5da2d2cc6e30/CherryBomb.png"
+        },
+        "fields": [
+            {
+                "name": "||Notes||",
+                "value": "||Best with: Luck.||",
+                "inline": false
+            },
+            {
+                "name": "||Evolution||",
+                "value": "||Does not evolve (yet...?)||",
+                "inline": false
+            },
+            {
+                "name": "||Unlocks||",
+                "value": "||Very rarely appears after unlocking **Yatta Cavallo**||",
+                "inline": false
+            },
+            {
+                "name": "||Leveling||",
+                "value": "||(1) Base \n(2) Area +25%, Speed +30% \n(3) 50% to Explode \n(4) Fires 1 more projectile \n(5) Area +25%, Damage +5 \n(6) 60% to Explode \n(7) Area +25%, Speed +30% \n(8) Area +25%, Damage +5||",
+                "inline": false
+            }
+        ]
+    },
+    "skull o'maniac": {
+        "title": "Beta Content",
+        "description": "||Increases enemy speed, quantity, health and frequency by 10%||",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/7439a04e-3580-4a74-a809-9d7aef7c88d4/Skull.png"
+        },
+        "fields": [
+            {
+                "name": "||Evolution||",
+                "value": "||Does not evolve (yet...?)||",
+                "inline": false
+            },
+            {
+                "name": "||Unlocks||",
+                "value": "||Survive 20 minutes with **Krochi**||",
+                "inline": false
+            }
+        ]
+	},
     "evolutions": {
         "title": "Weapon Evolution Guide",
         "description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses), and only from a boss that spawned at the 10-minute mark or later.",
@@ -1519,17 +1635,17 @@
         "fields": [
             {
                 "name": "Weapons",
-                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone",
+                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone\nCherry Bomb",
                 "inline": true
             },
             {
                 "name": "Passives",
-                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu",
+                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu\nSkull O'Maniac",
                 "inline": true
             },
             {
                 "name": "Evolutions",
-                "value": "||Bloody Tear\nHoly Wand\nThousand Edge\nDeath Spiral\nHeaven Sword\nUnholy Vespers\nHellfire\nSoul Eater\nVandalier\nLa Borra\nThunder Loop||",
+                "value": "||Bloody Tear\nHoly Wand\nThousand Edge\nDeath Spiral\nHeaven Sword\nUnholy Vespers\nHellfire\nSoul Eater\nVandalier\nLa Borra\nThunder Loop\nCherry Bomb||",
                 "inline": true
             }
         ]
