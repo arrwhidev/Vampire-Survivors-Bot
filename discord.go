@@ -40,7 +40,7 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 				return
 			}
 			if alias, ok := aliases[strings.ToLower(args)]; ok {
-				embd, _ := library[alias]
+				embd := library[alias]
 				err := SendEmbed(s, m.ChannelID, embd)
 				if err != nil {
 					consoleLog.Printf("[CMD] Command %s Failed! %v", args, err)

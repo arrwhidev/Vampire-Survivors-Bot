@@ -12,11 +12,12 @@ import (
 //Handles incoming twitch messages
 func twitchMessage(m twitch.PrivateMessage) {
 	//Checking self channel for join requests
-	if strings.ToLower(m.Channel) == strings.ToLower(os.Getenv("TWITCH_NAME")) {
+	if strings.EqualFold(m.Channel, os.Getenv("TWITCH_NAME")) {
 		if m.Message == "!biteme" || m.Message == "!setvamp" {
 			ch, _ := CreateChan(strings.ToLower(m.User.Name), "!")
 			channels[strings.ToLower(m.User.Name)] = ch
 			tclient.Join(strings.ToLower(m.User.Name))
+			tclient.Say(m.Channel, fmt.Sprintf("Ouch! You've been bitten! I will now respond to commands in %v!", m.User.Name))
 		}
 		return
 	}
@@ -27,6 +28,13 @@ func twitchMessage(m twitch.PrivateMessage) {
 			if embd, ok := library[strings.ToLower(args)]; ok {
 				tclient.Say(m.Channel, createResponse(embd))
 				consoleLog.Printf("[CMD] Command %s Successful!", args)
+				return
+			}
+			if alias, ok := aliases[strings.ToLower(args)]; ok {
+				embd := library[alias]
+				tclient.Say(m.Channel, createResponse(embd))
+				consoleLog.Printf("[CMD] Command %s Successful!", args)
+				return
 			}
 		}
 		return
@@ -40,5 +48,6 @@ func createResponse(content discordgo.MessageEmbed) string {
 		fields = fields + fmt.Sprintf("%s. ", embed_f.Value)
 	}
 	fields = strings.Replace(fields, "\n", " ", -1)
-	return fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
+	result := fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
+	return strings.Replace(result, "||", "", -1)
 }
