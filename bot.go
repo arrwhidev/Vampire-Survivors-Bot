@@ -8,8 +8,8 @@ import (
 
 	"github.com/boltdb/bolt"
 	"github.com/bwmarrin/discordgo"
-	"github.com/joho/godotenv"
 	"github.com/gempir/go-twitch-irc/v3"
+	"github.com/joho/godotenv"
 )
 
 var (
@@ -63,7 +63,7 @@ func main() {
 
 	//Gracefully close from console
 	sc := make(chan os.Signal, 1)
-	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
+	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt)
 	<-sc
 
 	consoleLog.Println("[SETUP] Shutting down...")
