@@ -810,7 +810,7 @@
     },
     "hollow heart": {
         "title": "Hollow Heart",
-        "description": "Augments max health by 10%.",
+        "description": "Augments max health by 20%.",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -834,7 +834,7 @@
     },
     "pummarola": {
         "title": "Pummarola",
-        "description": "Character recovers 0.1 HP per second.",
+        "description": "Character recovers 0.2 HP per second.",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1546,7 +1546,7 @@
 	},
     "cherry bomb": {
         "title": "Beta Contant",
-        "description": "||Throws a bouncing projectile. Explodes, sometimes.",
+        "description": "||Throws a bouncing projectile. Explodes, sometimes.||",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
