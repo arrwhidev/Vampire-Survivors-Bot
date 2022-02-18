@@ -1597,7 +1597,7 @@
             },
             {
                 "name": "||Unlocks||",
-                "value": "||Survive 20 minutes with **Krochi**||",
+                "value": "||Survive 30 minutes with **Lama**||",
                 "inline": false
             }
         ]
@@ -1635,17 +1635,17 @@
         "fields": [
             {
                 "name": "Weapons",
-                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone\nCherry Bomb",
+                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone\n||Cherry Bomb||",
                 "inline": true
             },
             {
                 "name": "Passives",
-                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu\nSkull O'Maniac",
+                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu\n||Skull O'Maniac||",
                 "inline": true
             },
             {
                 "name": "Evolutions",
-                "value": "||Bloody Tear\nHoly Wand\nThousand Edge\nDeath Spiral\nHeaven Sword\nUnholy Vespers\nHellfire\nSoul Eater\nVandalier\nLa Borra\nThunder Loop\nCherry Bomb||",
+                "value": "||Bloody Tear\nHoly Wand\nThousand Edge\nDeath Spiral\nHeaven Sword\nUnholy Vespers\nHellfire\nSoul Eater\nVandalier\nLa Borra\nThunder Loop||",
                 "inline": true
             }
         ]
