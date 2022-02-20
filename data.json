@@ -1487,8 +1487,8 @@
         ]
 	},
     "cavallo": {
-        "title": "Beta Content",
-        "description": "||Yatta Cavallo||",
+        "title": "Yatta",
+        "description": "Yatta Cavallo",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1499,25 +1499,25 @@
         },
         "fields": [
             {
-                "name": "||Starting Weapon||",
-                "value": "||Cherry Bomb||",
+                "name": "Starting Weapon",
+                "value": "Cherry Bomb",
                 "inline": false
             },
 			{
-                "name": "||Ability||",
-                "value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||",
+                "name": "Ability",
+                "value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)",
                 "inline": false
             },
             {
-                "name": "||Unlock||",
-                "value": "||Defeat a total of 3000 Lion Heads.||",
+                "name": "Unlock",
+                "value": "Defeat a total of 3000 **Lionheads**.",
                 "inline": false
             }
         ]
 	},
     "lama": {
-        "title": "Beta Content",
-        "description": "||Lama Ladonna||",
+        "title": "Lama",
+        "description": "Lama Ladonna",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1528,25 +1528,25 @@
         },
         "fields": [
             {
-                "name": "||Starting Weapon||",
-                "value": "||Axe||",
+                "name": "Starting Weapon",
+                "value": "Axe",
                 "inline": false
             },
 			{
-                "name": "||Ability||",
-                "value": "||Gains +5% Damage, MoveSpeed and Curse every 10 levels. (max +20%)||",
+                "name": "Ability",
+                "value": "Gains +5% Damage, MoveSpeed and Curse every 10 levels. (max +20%)",
                 "inline": false
             },
             {
-                "name": "||Unlock||",
-                "value": "||Survive 20 minutes with at least +10% Curse.||",
+                "name": "Unlock",
+                "value": "Survive 20 minutes with at least +10% Curse.",
                 "inline": false
             }
         ]
 	},
     "cherry bomb": {
-        "title": "Beta Contant",
-        "description": "||Throws a bouncing projectile. Explodes, sometimes.||",
+        "title": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1557,30 +1557,30 @@
         },
         "fields": [
             {
-                "name": "||Notes||",
-                "value": "||Best with: Luck.||",
+                "name": "Notes",
+                "value": "Best with: Luck.",
                 "inline": false
             },
             {
-                "name": "||Evolution||",
-                "value": "||Does not evolve (yet...?)||",
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
                 "inline": false
             },
             {
-                "name": "||Unlocks||",
-                "value": "||Very rarely appears after unlocking **Yatta Cavallo**||",
+                "name": "Unlocks",
+                "value": "Very rarely appears after unlocking **Yatta Cavallo**",
                 "inline": false
             },
             {
-                "name": "||Leveling||",
-                "value": "||(1) Base \n(2) Area +25%, Speed +30% \n(3) 50% to Explode \n(4) Fires 1 more projectile \n(5) Area +25%, Damage +5 \n(6) 60% to Explode \n(7) Area +25%, Speed +30% \n(8) Area +25%, Damage +5||",
+                "name": "Leveling",
+                "value": "(1) Base \n(2) Area +25%, Speed +30% \n(3) 50% to Explode \n(4) Fires 1 more projectile \n(5) Area +25%, Damage +5 \n(6) 60% to Explode \n(7) Area +25%, Speed +30% \n(8) Area +25%, Damage +5",
                 "inline": false
             }
         ]
     },
     "skull o'maniac": {
-        "title": "Beta Content",
-        "description": "||Increases enemy speed, quantity, health and frequency by 10%||",
+        "title": "Skull O'Maniac",
+        "description": "Increases enemy speed, quantity, health and frequency by 10%",
         "color": 12846604,
         "footer": {
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
@@ -1591,13 +1591,13 @@
         },
         "fields": [
             {
-                "name": "||Evolution||",
-                "value": "||Does not evolve (yet...?)||",
+                "name": "Evolution",
+                "value": "Does not evolve (yet...?)",
                 "inline": false
             },
             {
-                "name": "||Unlocks||",
-                "value": "||Survive 30 minutes with **Lama**||",
+                "name": "Unlocks",
+                "value": "Survive 30 minutes with **Lama**",
                 "inline": false
             }
         ]
@@ -1635,12 +1635,12 @@
         "fields": [
             {
                 "name": "Weapons",
-                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone\n||Cherry Bomb||",
+                "value": "Whip\nMagic Wand\nKnife\nAxe\nCross\nKing Bible\nFire Wand\nGarlic\nPeachone\nEbony Wings\nSanta Water\nLightning Ring\nRunetracer\nPentagram\nClock Lancet\nLaurel\nBone\nCherry Bomb",
                 "inline": true
             },
             {
                 "name": "Passives",
-                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu\n||Skull O'Maniac||",
+                "value": "Spinach\nArmor\nHollow Heart\nPummarola\nEmpty Tome\nCandelabrador\nBracer\nSpellbinder\nDuplicator\nWings\nAttractorb\nClover\nCrown\nStone Mask\nTiragisu\nSkull O'Maniac",
                 "inline": true
             },
             {
@@ -1649,5 +1649,24 @@
                 "inline": true
             }
         ]
-	}
+	},
+    "lionhead": {
+        "title": "Lionhead",
+        "description":"Enemy",
+        "color": 12846604,
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/08831eab-41ff-4c44-8738-3faec5ba367b/Lionhead.png"
+        },
+        "fields": [
+            {
+                "name": "Notes",
+                "value": "To unlock **Yatta Cavallo** A player needs to kill 3000 of these.",
+                "inline": true
+            }
+        ]
+    }
 }
