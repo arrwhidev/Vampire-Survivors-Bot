@@ -6,7 +6,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Permanently enables the map in the pause menu. (toggleable map pickup pins)",
+		"description": "||Permanently enables the map in the pause menu. (toggleable map pickup pins)||",
 		"fields": [
 			{
 				"inline": true,

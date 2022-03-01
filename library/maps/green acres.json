@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "green acres",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "A place where mortals are not allowed. Fate changes every minute.",
+        "fields": [
+            {
+				"inline": false,
+				"name": "Hyper",
+				"value": "Enemy health +50%\n50% Gold Bonus 10% Luck Bonus\nUnlock Hyper mode for 2 stages"
+			},
+            {
+            	"inline": false,
+				"name": "Unlock",
+				"value": "???"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fbf82410-3179-4cf7-8da5-f3359989725b/GreenAcres.png"
+		},
+		"title": "Green Acres"
+	}
+}

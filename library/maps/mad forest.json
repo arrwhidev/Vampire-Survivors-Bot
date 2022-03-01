@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "mad forest",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "The Castle is a lie, but there's still free roast chicken here, so it's all good.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Available Items",
+				"value": "Skull O'Maniac, Hollow Heart, Spinach, Pummarola, Clover (x2)"
+			},
+            {
+				"inline": false,
+				"name": "Hyper",
+				"value": "50% Gold Bonus | Unlocked by defeating the 25 minute boss"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a49687fe-138b-473f-a939-cd2c6b5ed0fa/MadForest.png"
+		},
+		"title": "Mad Forest"
+	}
+}

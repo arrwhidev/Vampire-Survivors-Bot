@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "inlaid library",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "This quiet, long library is the ideal place to rest, meditate, and forage for roast chicken. But what's a stone mask doing here?",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Available Items",
+				"value": "Empty Tome, Stone Mask"
+			},
+            {
+				"inline": false,
+				"name": "Hyper",
+				"value": "50% Gold Bonus 10% Luck Bonus | Unlocked by defeating the 25 minute boss"
+			},
+            {
+            	"inline": false,
+				"name": "Unlock",
+				"value": "Reach level 20 in **Mad Forest**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/8ff98d3b-b3d5-4d0f-86f3-6a8d04832993/InlaidLibrary.png"
+		},
+		"title": "Inlaid Library"
+	}
+}

@@ -16,7 +16,7 @@
             {
 				"inline": true,
 				"name": "||Spawning||",
-				"value": "||Spawns in Dairy Plant. Chances are affected by luck\n1% at minute 0\n30% at 8 minutes\n100% at 21 minutes||"
+				"value": "||Spawns in Dairy Plant. Chances are affected by luck\n1% at minute 0\n30% at 8 minutes||"
 			}
 		],
 		"footer": {
