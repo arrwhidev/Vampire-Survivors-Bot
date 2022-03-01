@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "stone mask",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Character earns 10% more coins.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Find a Stone Mask (Found in Library in top alcove sections rarely)"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e5259f04-63a7-45ed-90e7-d8aa6a5c3542/StoneMask.png"
+		},
+		"title": "Stone Mask"
+	}
+}

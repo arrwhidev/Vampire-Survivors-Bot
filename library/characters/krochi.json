@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "krochi",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Krochi Freetto",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Cross"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Starts with 1 **Revival**. Gains 1 more **Revival** at level 33"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat a total of 100,000 enemies"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/b4c08eea-a0b9-4199-aa16-8444451480d8/Krochi.gif"
+		},
+		"title": "Krochi"
+	}
+}

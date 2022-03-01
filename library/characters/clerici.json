@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "clerici",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Suor Clerici",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Santa Water"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Permanent +0.5 HP/s and +30 Max Health. Starts with temporary area bonus."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Heal a total of 1000 health."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/56859245-e4d1-4178-8a6e-040a3cea6661/Suor.gif"
+		},
+		"title": "Clerici"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "garlic",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Damages enemies that come within its radius.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration, speed."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Pummarola** to make **Soul Eater**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by finding five Floor Chickens."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Area +40%, Damage +2 \n(3) Cooldown -0.1, Damage +1 \n(4) Area +20%, Damage +1 \n(5) Cooldown -0.1, Damage +2 \n(6) Area +20%, Damage +1 \n(7) Cooldown -0.1, Damage +2 \n(8) Area +20%, Damage +2"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/22f80fe8-6d46-413f-8bd2-9fcab1ec897c/Garlic.png"
+		},
+		"title": "Garlic"
+	}
+}

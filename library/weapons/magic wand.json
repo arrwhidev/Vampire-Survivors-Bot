@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "magic wand",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Its projectiles are fired at the nearest enemy.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Empty Tome** to make **Holy Wand**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Fires 1 more projectile \n(3) Cooldown reduced by 0.2 \n(4) Fires 1 more projectile \n(5) Damage up by 10 \n(6) Fires 1 more projectile \n(7) Pierces 1 more enemy \n(8) Damage up by 10"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/eafc000e-5ca5-4c0d-89d1-7334537b167d/MagicWand.png"
+		},
+		"title": "Magic Wand"
+	}
+}

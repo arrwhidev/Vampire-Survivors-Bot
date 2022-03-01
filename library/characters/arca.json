@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "arca",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Arca Ladonna",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Fire Wand"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Weapon cooldown is reduced by 5% every 10 levels. (max -15%) (Lvl 30)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Getting Fire Wand to level 4 + purchasing with 750 gold"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/b65dcb47-d62b-4bcd-b293-bd89a1a50c8a/Arca.gif"
+		},
+		"title": "Arca"
+	}
+}

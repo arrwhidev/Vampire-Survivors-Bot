@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "cavallo",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Yatta Cavallo",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Cherry Bomb"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat a total of 3000 **Lionheads**."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/045bd1c5-bc22-4f47-a8a1-eeb901ac3b4e/Cavallo.gif"
+		},
+		"title": "Yatta"
+	}
+}

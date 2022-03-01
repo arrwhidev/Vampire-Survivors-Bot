@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "red death",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "||Death Spiral (Evolved Axe)||"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "||Permanent +100% Movespeed, +20% Damage, Health 255||"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Unlocked by killing Death||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/7a3ed2b7-ce5d-42b2-8093-83ce09a04f2e/RedDeath.gif"
+		},
+		"title": "Mask of the Red Death"
+	}
+}

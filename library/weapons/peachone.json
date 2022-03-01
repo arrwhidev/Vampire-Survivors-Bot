@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "peachone",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Creates a series of bombs on a circular area.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Area orbits clockwise around the player."
+			},
+			{
+				"inline": false,
+				"name": "Union",
+				"value": "Evolves at level 8 with **Ebony Wing** at level 8 to make **Vandalier**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Can be unlocked by surviving for at least 10 minutes, using any character."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Projectiles +1, Area +40% \n(3) Projectiles +1, Damage +10% \n(4) Projectiles +1, Cooldown -0.3 \n(5) Projectiles +1, Area +40 \n(6) Projectiles +1, Damage +10% \n(7) Projectiles +1, Cooldown -0.3 \n(8) Projectiles +1, Area +40%"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/36d46bfc-5067-4a1e-8048-9390c6b988f0/Peachone.png"
+		},
+		"title": "Peachone"
+	}
+}

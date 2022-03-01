@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "ebony wings",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Creates a series of bombs on a circular area.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Area orbits counter-clockwise around the player."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Peachone** at level 8 to make **Vandalier**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by getting the Peachone to level 7."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Projectiles +1, Area +40% \n(3) Projectiles +1, Damage +10% \n(4) Projectiles +1, Cooldown -0.3 \n(5) Projectiles +1, Area +40 \n(6) Projectiles +1, Damage +10% \n(7) Projectiles +1, Cooldown -0.3 \n(8) Projectiles +1, Area +40%"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/4816ceb7-2feb-4178-8d5b-e9e20664ba8e/EbonyWings.png"
+		},
+		"title": "Ebony Wings"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"metadata": {
+		"name": "mortaccio",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Bone"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeating a total of 3000 skeletons"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c514f602-a26d-42dc-8f48-9040b78eadc1/Mortaccio.gif"
+		},
+		"title": "Mortaccio"
+	}
+}

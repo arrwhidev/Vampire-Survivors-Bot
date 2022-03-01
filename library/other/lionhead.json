@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "lionhead",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemy",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "To unlock **Yatta Cavallo** A player needs to kill 3000 of these."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/266972bf-7e8d-4245-8c7c-f67aae797fe9/Lionhead.gif"
+		},
+		"title": "Lionhead"
+	}
+}

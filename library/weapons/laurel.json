@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "laurel",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Protects the player from damage when active.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Best with: Cooldown only."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Cooldown -0.5, Duration +0.2 \n(3) Cooldown -0.5, Duration +0.2 \n(4) Charge +1 \n(5) Cooldown -0.5, Duration +0.2 \n(6) Cooldown -0.5, Duration +0.2 \n(7) Charge +1"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/3362f040-f769-46e8-904a-9598d55e7173/Laurel.png"
+		},
+		"title": "Laurel"
+	}
+}

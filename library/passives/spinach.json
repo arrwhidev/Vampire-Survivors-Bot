@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "spinach",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Raises inflicted damage by 10%.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Fire Wand** to **Hellfire**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/7219fecb-d2d9-43f7-b7ad-544805021e69/Spinach.png"
+		},
+		"title": "Spinach"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "gennaro",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Gennaro Belpaese",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Knife"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Permanent +1 projectile (all weapons)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Purchasing with 600 gold (minimum value)"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/16ebc443-543e-49a0-8c64-2c03fae5d3b5/Gennaro.gif"
+		},
+		"title": "Gennaro"
+	}
+}

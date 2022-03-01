@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "holy wand",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Magic Wand. Its projectiles have no delay.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires the Empty Tome for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/207c148f-82c0-4bee-a593-3feb03407ecc/HolyWand.png"
+		},
+		"title": "Holy Wand"
+	}
+}

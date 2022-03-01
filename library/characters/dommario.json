@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "dommario",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Dommario",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "King Bible"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Permanent +40% duration, +40% projectile speed. -40% Moving speed."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Earn 5000 coins in a single run."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/036df895-0f02-4d11-b95c-1f08ecfc913f/Dommario.gif"
+		},
+		"title": "Dommario"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "imelda",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Imelda Belpaese",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Magic Wand"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gains 10% more experience every 5 levels (max +30%). (Lvl 15)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Purchased with 10 gold"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a528e40d-dcc2-4d94-9462-295bf0a39451/Imelda.gif"
+		},
+		"title": "Imelda"
+	}
+}

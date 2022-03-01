@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "exdash",
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "||Ebony Wings||"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "||Permanent +100% Luck, -33 Max Health, -10% MoveSpeed, -10% Area, -50% Speed, -10% Duration, +10% Cooldown.||"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Typing 'x-x1viiq' in main menu.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e0179194-ce75-4753-81ef-a9ab2087d928/Exdash.gif"
+		},
+		"title": "Exdash"
+	}
+}

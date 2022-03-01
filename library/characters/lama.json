@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "lama",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Lama Ladonna",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Axe"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gains +5% Damage, MoveSpeed and Curse every 10 levels. (max +20%)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive 20 minutes with at least +10% Curse."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/3a8bbcdc-c088-4d90-a641-ab26b23dfc2c/Lama.png"
+		},
+		"title": "Lama"
+	}
+}

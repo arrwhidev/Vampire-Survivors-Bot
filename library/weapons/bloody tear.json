@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "bloody tear",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Whip. It can deal critical damage and absorb HP.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires the Hollow Heart for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/892ee9c8-ccd2-4de7-a11a-d6ae7c4326bd/BloodyTear.png"
+		},
+		"title": "Bloody Tear"
+	}
+}

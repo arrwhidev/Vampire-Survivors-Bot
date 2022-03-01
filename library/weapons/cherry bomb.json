@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "cherry bomb",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Throws a bouncing projectile. Explodes, sometimes.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Best with: Luck."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Does not evolve (yet...?)"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Very rarely appears after unlocking **Yatta Cavallo**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Area +25%, Speed +30% \n(3) 50% to Explode \n(4) Fires 1 more projectile \n(5) Area +25%, Damage +5 \n(6) 60% to Explode \n(7) Area +25%, Speed +30% \n(8) Area +25%, Damage +5"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/31c5dee0-f0bc-4c5c-bd06-5da2d2cc6e30/CherryBomb.png"
+		},
+		"title": "Cherry Bomb"
+	}
+}

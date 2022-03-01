@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "porta",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Porta Ladonna",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Lightning Ring"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Permanent +30% area. Starts with a temporarily reduced cooldown (so Lightning Ring kills faster)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Getting Lightning Ring to level 4 + purchasing with 750 gold"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/d13e16b8-fc5e-4601-92bb-0fe5d3c05d16/Porta.gif"
+		},
+		"title": "Porta"
+	}
+}

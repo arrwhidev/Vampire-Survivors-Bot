@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "hellfire",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Fire Wand. It can pass through enemies.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Spinach for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ad7c90c2-9bbf-4313-b3ba-9cae830d1af5/Hellfire.png"
+		},
+		"title": "Hellfire"
+	}
+}

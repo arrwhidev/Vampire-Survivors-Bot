@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "poe",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Poe Ratcho",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Garlic"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Permanent +25% pickup radius. -30 max health."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Getting Garlic to level 7 + purchasing with 800 gold."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/7d28af99-517e-463e-a256-f92b01647bae/Poe.gif"
+		},
+		"title": "Poe"
+	}
+}

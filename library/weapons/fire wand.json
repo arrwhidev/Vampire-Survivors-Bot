@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "fire wand",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Can fire heavy damage at a random enemy.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Spinach** to make **Hellfire**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Can be unlocked by destroying 20 light sources."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Damage +10 \n(3) Damage +10, speed + 20% \n(4) Damage +10 \n(5) Damage +10, speed + 20% \n(6) Damage +10 \n(7) Damage +10, speed + 20% \n(8) Damage +10"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ca578aee-2cb3-4fef-a077-be29ce50ef73/FireWand.png"
+		},
+		"title": "Fire Wand"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "whip",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "This weapon can attack horizontally and pass through enemies.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration and speed."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Hollow Heart** to make **Bloody Tear**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5 \n(4) Damage +5, Area +10% \n(5) Damage +5 \n(6) Damage +5, Area +10% \n(7) Damage +5 \n(8) Damage +5 "
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/d0a8ab07-9d03-4164-87c8-90cb39a10888/Whip.png"
+		},
+		"title": "Whip"
+	}
+}

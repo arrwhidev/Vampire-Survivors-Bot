@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "clover",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Character gets 10% luckier.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Cross** to **Heaven Sword**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Find a Little Clover (drops from breaking light sources)"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e43d1554-90a0-4db1-a89e-f5d33a97a063/Clover.png"
+		},
+		"title": "Clover"
+	}
+}

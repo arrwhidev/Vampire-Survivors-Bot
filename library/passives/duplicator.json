@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "duplicator",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Weapons fire more projectiles.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Get **Magic Wand** to Level 7."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Lightning Ring** to **Thunder Loop**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e3718ae2-7ca1-4d22-98ac-c724942df127/Duplicator.png"
+		},
+		"title": "Duplicator"
+	}
+}

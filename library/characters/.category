@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "Characters are controlled by the player. After a character is unlocked, it will appear in your menu where it will need to be purchased. Each character has a starting weapon and an ability. To learn more about a character, use **!name**",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of characters",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/43b9c00c-0ea6-4675-87d8-b976e7cb0f86/XLArmorSword_i0.gif"
+    },
+    "title": "Characters"
+}

@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "This is a collection of miscellaneous commands. Use **!<command>** to see more info",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of commands",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/d2474f57-2760-42cc-bb82-d07d3f3fb387/QuestionMark.png"
+    },
+    "title": "Miscellaneous"
+}

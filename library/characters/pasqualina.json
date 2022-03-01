@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "pasqualina",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Pasqualina Belpaese",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Runetracer"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Projectiles get 10% faster every 5 levels (max +30%) (Lvl 30)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Purchasing with 100 gold (minimum value)"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/76c9e58c-08c4-4b5b-a307-5c31a724497b/Pasqualina.gif"
+		},
+		"title": "Pasqualina"
+	}
+}
