@@ -22,6 +22,9 @@ type DatabaseHandler struct {
 func MakeDatabaseHandler(bot *VampBot, path string) *DatabaseHandler {
 	db := &DatabaseHandler{Bot: bot}
 	db.Bolt, _ = bolt.Open(path, 0600, nil)
+	db.CreateBuckets()
+	db.LoadChannels()
+	db.LoadGuilds()
 	return db
 }
 

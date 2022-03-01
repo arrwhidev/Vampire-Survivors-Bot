@@ -57,6 +57,7 @@ func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 
 func (handler *LibraryHandler) LoadLibrary() {
 	handler.Library = make(map[string]Embeder)
+	handler.Categories = make(map[string]Embeder)
 	dirs, err := ioutil.ReadDir(handler.Path)
 	if err != nil {
 		handler.Bot.Logger.Fatal(err)
@@ -114,7 +115,7 @@ func (handler *LibraryHandler) LoadAliases() {
 
 func (handler *LibraryHandler) LoadHelp() {
 	help := &DbItem{}
-	fobj, err := os.Open(fmt.Sprintf("%s/aliases.json", handler.Path))
+	fobj, err := os.Open(fmt.Sprintf("%s/help.json", handler.Path))
 	if err != nil {
 		handler.Bot.Logger.Fatal(err)
 	}
