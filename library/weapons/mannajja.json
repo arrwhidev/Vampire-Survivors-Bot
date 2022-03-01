@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "mannajja",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Evolved version of Song of Mana. Chance to slow enemies.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Requires **Skull O'Maniac** for evolution.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/83e06f84-8400-4976-9f41-c67b326d7582/Song2.png"
+		},
+		"title": "Mannajja - Beta Content"
+	}
+}

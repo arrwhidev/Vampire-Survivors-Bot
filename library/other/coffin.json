@@ -1,0 +1,19 @@
+{
+	"metadata": {
+		"name": "coffin",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||An Object that spawns in **Diary Plant** Guarded by monsters. Open the coffin to unlock **Poppea**||",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/21819fe5-f51e-440e-ab44-ce9a4852463c/Coffin.gif"
+		},
+		"title": "Coffin - Beta Content"
+	}
+}

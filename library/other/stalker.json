@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "stalker",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemy",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Stalks the player for 2 minutes, then leaves after.\nDeals 50 damage and moves sporadically.\nImmune to damage and freeze. Vulnerable to Pentagram and Rosary.\nCan drop a chest with evolution||"
+			},
+            {
+				"inline": true,
+				"name": "||Spawning||",
+				"value": "||Spawns in Dairy Plant. Chances are affected by luck\n1% at minute 0\n30% at 8 minutes\n100% at 21 minutes||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/792e6ab1-0431-43d5-9738-902ef071ab3a/Stalker.gif"
+		},
+		"title": "Stalker - Beta Content"
+	}
+}
