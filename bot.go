@@ -2,8 +2,6 @@ package main
 
 import (
 	"log"
-
-	"github.com/joho/godotenv"
 )
 
 type Config struct {
@@ -43,7 +41,4 @@ func (bot *VampBot) Stop() {
 	bot.Logger.Println("[SETUP] Shutting down...")
 	bot.Discord.Stop()
 	bot.Twitch.Stop()
-}
-func init() {
-	godotenv.Load()
 }

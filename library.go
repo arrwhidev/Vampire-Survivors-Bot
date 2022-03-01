@@ -49,6 +49,8 @@ type LibraryHandler struct {
 
 func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 	handler := &LibraryHandler{Path: "library"}
+	handler.LoadLibrary()
+	handler.LoadAliases()
 	return handler
 }
 
@@ -93,6 +95,19 @@ func (handler *LibraryHandler) LoadLibrary() {
 		handler.Library[category.Name] = category
 		handler.Categories[category.Name] = category
 	}
+}
+
+func (handler *LibraryHandler) LoadAliases() {
+	handler.Aliases = make(map[string]string)
+	fobj, err := os.Open(fmt.Sprintf("%s/aliases.json", handler.Path))
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	data, err := ioutil.ReadAll(fobj)
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	json.Unmarshal(data, &handler.Aliases)
 }
 
 func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, bool) {
