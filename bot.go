@@ -41,4 +41,5 @@ func (bot *VampBot) Stop() {
 	bot.Logger.Println("[SETUP] Shutting down...")
 	bot.Discord.Stop()
 	bot.Twitch.Stop()
+	bot.Database.Bolt.Close()
 }
