@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "poppea",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Poppea Pecorina||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Song of Mana||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Gains +1% Duration every level, +20% Movespeed||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by opening the **Coffin** in the **Dairy Plant**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f42c8a00-fc01-4301-9e8e-4a8a03ddba91/Poppea.gif"
+		},
+		"title": "Poppea - Beta Content"
+	}
+}

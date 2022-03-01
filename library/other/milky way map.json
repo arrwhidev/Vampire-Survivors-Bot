@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "milky way map",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Permanently enables the map in the pause menu. (toggleable map pickup pins)",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Picked up in the Dairy Plant||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/200ba1e7-ef4a-4a0f-927b-6cf3c05278f1/Map.png"
+		},
+		"title": "Milky Way Map - Beta Content"
+	}
+}

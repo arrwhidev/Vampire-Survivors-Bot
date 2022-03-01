@@ -12,6 +12,7 @@ import (
 
 type Embeder interface {
 	Embed() *discordgo.MessageEmbed
+	Beta() bool
 }
 
 type Category struct {
@@ -22,6 +23,10 @@ type Category struct {
 
 func (cat *Category) Embed() *discordgo.MessageEmbed {
 	return cat.Content
+}
+
+func (cat *Category) Beta() bool {
+	return false
 }
 
 type Metadata struct {
@@ -38,6 +43,9 @@ type DbItem struct {
 func (item *DbItem) Embed() *discordgo.MessageEmbed {
 	return item.Content
 }
+func (item *DbItem) Beta() bool {
+	return item.Metadata.Beta
+}
 
 type LibraryHandler struct {
 	Bot        *VampBot
@@ -52,6 +60,7 @@ func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 	handler.LoadLibrary()
 	handler.LoadAliases()
 	handler.LoadHelp()
+	handler.LoadBeta()
 	return handler
 }
 
@@ -127,8 +136,29 @@ func (handler *LibraryHandler) LoadHelp() {
 	for name := range handler.Categories {
 		help.Content.Fields[1].Value += fmt.Sprintf("%s, ", name)
 	}
-	help.Content.Fields[1].Value += "help"
+	help.Content.Fields[1].Value += "beta"
 	handler.Library["help"] = help
+	fobj.Close()
+}
+
+func (handler *LibraryHandler) LoadBeta() {
+	beta := &DbItem{}
+	fobj, err := os.Open(fmt.Sprintf("%s/beta.json", handler.Path))
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	data, err := ioutil.ReadAll(fobj)
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	json.Unmarshal(data, beta)
+	for name, value := range handler.Library {
+		if value.Beta() {
+			beta.Content.Fields[0].Value += fmt.Sprintf("%s\n", name)
+		}
+	}
+	beta.Content.Fields[0].Value += "||"
+	handler.Library["beta"] = beta
 	fobj.Close()
 }
 

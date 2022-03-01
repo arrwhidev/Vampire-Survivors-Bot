@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "beta",
+        "spoiler": false,
+        "beta": true
+    },
+    "content": {
+        "color": 12846604,
+        "description": "This is a list of items that have changed in the current beta (0.2.13g)",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Articles",
+                "value": "||"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b3b82b42-77de-4fb1-bac1-a9e001b24053/-/resize/256x/"
+        },
+        "title": "Vampire Survivors",
+        "url": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+    }
+}
