@@ -15,7 +15,7 @@ type TwitchHandler struct {
 }
 
 func MakeTwitchHandler(bot *VampBot) *TwitchHandler {
-	handler := &TwitchHandler{}
+	handler := &TwitchHandler{Bot: bot}
 	handler.Session = twitch.NewClient(bot.Creds.TName, bot.Creds.TToken)
 	handler.Session.OnPrivateMessage(handler.twitchMessage)
 	handler.JoinInitialChans()
