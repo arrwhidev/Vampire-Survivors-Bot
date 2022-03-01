@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "help",
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "This is a library bot made for Vampire Survivors",
+        "fields": [
+            {
+                "inline": false,
+                "name": "How To Use",
+                "value": "Use `!itemname` To search for that item.\nThe default prefix is ! but it can be changed by an admin.\nTo get information about a category, use `!categoryname`"
+            },
+            {
+                "inline": false,
+                "name": "Category List",
+                "value": ""
+            },
+            {
+                "inline": false,
+                "name": "Found an issue?",
+                "value": "We all make mistakes! Open an issue on the [GitHub](https://github.com/SHA65536/Vampire-Survivors-Bot) to let us know!"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b3b82b42-77de-4fb1-bac1-a9e001b24053/-/resize/256x/"
+        },
+        "title": "Vampire Survivors",
+        "url": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+    }
+}

@@ -51,6 +51,7 @@ func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 	handler := &LibraryHandler{Path: "library"}
 	handler.LoadLibrary()
 	handler.LoadAliases()
+	handler.LoadHelp()
 	return handler
 }
 
@@ -108,9 +109,35 @@ func (handler *LibraryHandler) LoadAliases() {
 		handler.Bot.Logger.Fatal(err)
 	}
 	json.Unmarshal(data, &handler.Aliases)
+	fobj.Close()
+}
+
+func (handler *LibraryHandler) LoadHelp() {
+	help := &DbItem{}
+	fobj, err := os.Open(fmt.Sprintf("%s/aliases.json", handler.Path))
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	data, err := ioutil.ReadAll(fobj)
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	json.Unmarshal(data, help)
+	for name := range handler.Categories {
+		help.Content.Fields[1].Value += fmt.Sprintf("%s, ", name)
+	}
+	help.Content.Fields[1].Value += "help"
+	handler.Library["help"] = help
+	fobj.Close()
 }
 
 func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, bool) {
-	ret := discordgo.MessageEmbed{}
-	return ret, true
+	if embed, ok := handler.Library[args]; ok {
+		return *embed.Embed(), true
+	}
+	if key, ok := handler.Aliases[args]; ok {
+		embed := handler.Library[key]
+		return *embed.Embed(), true
+	}
+	return discordgo.MessageEmbed{}, false
 }
