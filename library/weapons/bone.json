@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "bone",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Throws a bouncing projectile.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Best with: Duration, Speed."
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Very rarely appears after unlocking **Mortaccio**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Duration +0.2, Area +20% \n(3) Damage +20, Projectiles +1 \n(4) Speed +50%, Area +20% \n(5) Damage +20, Projectiles +1 \n(6) Duration +0.2 \n(7) Damage +20 \n(8) Duration +0.2, Speed +50% "
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f1922a13-1aa0-476c-9d7b-3df452e97de8/Bone.png"
+		},
+		"title": "Bone"
+	}
+}

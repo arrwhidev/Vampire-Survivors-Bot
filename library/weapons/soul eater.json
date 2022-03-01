@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "soul eater",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved Version of Garlic. Steals hearts.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Pummarola for evolution. Power increases when recovering HP."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e2015278-d4b6-4dd2-b4d7-2e7b6d77ac78/SoulEater.png"
+		},
+		"title": "Soul Eater"
+	}
+}

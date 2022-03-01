@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "death spiral",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Axe. It can pass through enemies.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires the Candelabrador for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6d4ee1ae-508d-409a-a533-71f851b45130/DeathSpiral.png"
+		},
+		"title": "Death Spiral"
+	}
+}

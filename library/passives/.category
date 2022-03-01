@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "Passives are items that augment your stats. They can be obtained from level up / picked up from the ground. You have 6 passive slots. To see more about an item, use **!itemname**",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of Passive Items",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/2a339019-aa92-470e-841f-7d3f375ba8e2/Jelly_i0.gif"
+    },
+    "title": "Passive Items"
+}

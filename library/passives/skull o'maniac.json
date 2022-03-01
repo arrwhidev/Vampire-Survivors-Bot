@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "skull o'maniac",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Increases enemy speed, quantity, health and frequency by 10%",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Does not evolve (yet...?)"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Survive 30 minutes with **Lama**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/7439a04e-3580-4a74-a809-9d7aef7c88d4/Skull.png"
+		},
+		"title": "Skull O'Maniac"
+	}
+}

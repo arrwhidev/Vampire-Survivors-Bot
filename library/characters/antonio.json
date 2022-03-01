@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "antonio",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Antonio Belpaese",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Whip"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Attacks deal 10% more damage every 10 levels (max +50%) (Lvl 50)"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Free"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/9ff0db25-582d-471f-bd78-e317fa23578a/Antonio.gif"
+		},
+		"title": "Antonio"
+	}
+}

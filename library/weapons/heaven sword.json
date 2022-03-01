@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "heaven sword",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Cross. It can deal critical damage.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Clover for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/841b0c78-af0e-477c-9432-abe67e3672b0/HeavenSword.png"
+		},
+		"title": "Heaven Sword"
+	}
+}

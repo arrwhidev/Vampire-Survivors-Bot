@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "hollow heart",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Augments max health by 20%.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Whip** to **Bloody Tear**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Survive 1 minute with any character."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/2a3a1e98-16f5-412f-a7ce-2d97f3cab2e7/HollowHeart.png"
+		},
+		"title": "Hollow Heart"
+	}
+}

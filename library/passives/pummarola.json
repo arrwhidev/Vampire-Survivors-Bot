@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "pummarola",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Character recovers 0.2 HP per second.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Garlic** to **Soul Eater**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Survive 5 minutes with **Gennaro**."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/8464ef00-2ffd-4381-b1da-40bfa61e1399/Pummarola.png"
+		},
+		"title": "Pummarola"
+	}
+}

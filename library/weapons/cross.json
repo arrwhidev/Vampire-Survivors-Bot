@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "cross",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Can aim at the nearest enemy and act like a boomerang.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Clover** to make **Heaven Sword**"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Can be unlocked by finding a Rosary, which drops from breaking light sources."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Damage +10 \n(3) Speed +25%, Area +10% \n(4) Projectiles +1 \n(5) Damage +10 \n(6) Speed +25, Area +10% \n(7) Projectiles +1 \n(8) Damage +10 "
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/347ebdb8-9638-40c7-b724-dbc61df59c37/Cross.png"
+		},
+		"title": "Cross"
+	}
+}

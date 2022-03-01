@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "la borra",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved Santa Water. Damaging zones follow the character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires **Attractorb** for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f01814b2-3865-402a-8ad8-01b79bd036b8/LaBorra.png"
+		},
+		"title": "La Borra"
+	}
+}

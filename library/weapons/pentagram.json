@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "pentagram",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Erases everything on the screen.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Best with: Cooldown and Luck only."
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Can be unlocked by surviving for at least 20 minutes, using any character."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Cooldown -10 \n(3) 25% not to erase \n(4) Cooldown -10 \n(5) 45% not to erase \n(6) Cooldown -10 \n(7) 65% not to erase"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/dc2c1041-aed0-4938-9a72-1ba38743db0f/Pentagram.png"
+		},
+		"title": "Pentagram"
+	}
+}

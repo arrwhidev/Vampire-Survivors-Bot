@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "knife",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Quickly fires in a specific direction.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores duration."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Bracer** to make **Thousand Edge**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Fires 1 more projectile \n(3) Fires 1 more projectile, Damage + 5 \n(4) Fires 1 more projectile \n(5) Pierces 1 more enemy \n(6) Fires 1 more projectile \n(7) Fires 1 more projectile, Damage + 5 \n(8) Pierces 1 more enemy"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/aed66522-928b-4bf3-913c-02cecd48ce04/Knife.png"
+		},
+		"title": "Knife"
+	}
+}

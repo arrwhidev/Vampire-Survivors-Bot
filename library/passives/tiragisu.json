@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "tiragisu",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Revives once with 50% heatlh.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Does not evolve (yet...?)"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Survive 20 minutes with **Krochi**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Revives once with 50% heatlh. \n(2) Gains one more revive"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fdc77d85-bbda-4bfb-acb0-132921f6faf7/Tiragis_.png"
+		},
+		"title": "Tiragisu"
+	}
+}

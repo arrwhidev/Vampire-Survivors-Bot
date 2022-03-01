@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "Weapons are items that use your stats to have an affect in game. Not all weapons are affected by all stats. To get more info about a weapon use **!weaponname**",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of Weapons",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/f0b1ba44-52bd-47ab-8c13-5b7d398beeb7/Skull.gif"
+    },
+    "title": "Weapons"
+}

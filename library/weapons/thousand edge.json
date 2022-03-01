@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "thousand edge",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Knife. It can be used without delay.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires the Bracer for evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/83c721a0-3f9e-41b5-baaa-2c91d77da51a/ThousandEdge.png"
+		},
+		"title": "Thousand Edge"
+	}
+}

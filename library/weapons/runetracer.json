@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "runetracer",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Bounces around and passes through enemies.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Bounces on screen edges."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Does not evolve (yet...?)"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by surviving five minutes using Pasqualina."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Damage +5, Speed + 20% \n(3) Damage +5, Duration + 0.3 \n(4) Fires 1 more projectile \n(5) Damage +5, Speed + 20% \n(6) Damage +5, Duration + 0.3 \n(7) Fires 1 more projectile \n(8) Duration + 0.5"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/9e8db2ab-0f41-492b-bdff-549cdd26c086/Runetracer.png"
+		},
+		"title": "Runetracer"
+	}
+}

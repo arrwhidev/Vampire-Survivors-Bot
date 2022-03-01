@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "clock lancet",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Has a chance of freezing the enemies' time.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores power, speed, amount, and area."
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by finding an Orologion (which is dropped from breaking light sources."
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Duration +1 \n(3) Cooldown -0.5 \n(4)  Duration +1 \n(5) Duration +1 \n(6) Cooldown -0.5 \n(7) Duration +1"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c8154631-b568-4c77-9147-e0b80244025d/ClockLancet.png"
+		},
+		"title": "Clock Lancet"
+	}
+}
