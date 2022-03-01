@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "Playable Maps",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of maps",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/8b3386e9-bf86-4571-8949-01d8258be0df/arrow.gif"
+    },
+    "title": "Miscellaneous"
+}
