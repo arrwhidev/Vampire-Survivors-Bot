@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "red death",
-		"spoiler": false,
+		"spoiler": true,
 		"beta": false
 	},
 	"content": {
