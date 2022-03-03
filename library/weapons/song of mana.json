@@ -2,31 +2,31 @@
 	"metadata": {
 		"name": "song of mana",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Attacks vertically, passes through enemies.||",
+		"description": "Attacks vertically, passes through enemies.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Ignores: amount, speed.||"
+				"name": "Notes",
+				"value": "Ignores: amount, speed."
 			},
 			{
 				"inline": false,
-				"name": "||Evolution||",
-				"value": "||Evolves at level 8 with **Skull O' Maniac** to make **Mannajja**||"
+				"name": "Evolution",
+				"value": "Evolves at level 8 with **Skull O' Maniac** to make **Mannajja**"
 			},
 			{
 				"inline": false,
-				"name": "||Leveling||",
-				"value": "||(1) Base \n(2) Area +100% \n(3) Cooldown -0.8, Duration +0.5 \n(4) Damage +10, Area +25% \n(5) Cooldown -0.8, Duration +0.5 \n(6) Damage +10, Area +25% \n(7) Cooldown -0.8, Duration +0.5 \n(8) Damage +10, Area +25%||"
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Area +100% \n(3) Cooldown -0.8, Duration +0.5 \n(4) Damage +10, Area +25% \n(5) Cooldown -0.8, Duration +0.5 \n(6) Damage +10, Area +25% \n(7) Cooldown -0.8, Duration +0.5 \n(8) Damage +10, Area +25%"
 			},
             {
 				"inline": false,
-				"name": "||Unlocks||",
-				"value": "||Unlocked by surviving 15 minutes as **Poppea**||"
+				"name": "Unlocks",
+				"value": "Unlocked by surviving 15 minutes as **Poppea**"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/e5a9a2a6-204c-485b-bd63-771996d1257b/Song.png"
 		},
-		"title": "Song of Mana - Beta Content"
+		"title": "Song of Mana"
 	}
 }

@@ -2,16 +2,16 @@
 	"metadata": {
 		"name": "milky way map",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Permanently enables the map in the pause menu. (toggleable map pickup pins)||",
+		"description": "Permanently enables the map in the pause menu. (toggleable map pickup pins)",
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Picked up in the Dairy Plant||"
+				"name": "Notes",
+				"value": "Picked up in the Dairy Plant"
 			}
 		],
 		"footer": {
@@ -21,6 +21,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/200ba1e7-ef4a-4a0f-927b-6cf3c05278f1/Map.png"
 		},
-		"title": "Milky Way Map - Beta Content"
+		"title": "Milky Way Map"
 	}
 }

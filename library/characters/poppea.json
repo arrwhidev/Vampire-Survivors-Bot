@@ -2,26 +2,26 @@
 	"metadata": {
 		"name": "poppea",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Poppea Pecorina||",
+		"description": "Poppea Pecorina",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||Song of Mana||"
+				"name": "Starting Weapon",
+				"value": "Song of Mana"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gains +1% Duration every level, +20% Movespeed||"
+				"name": "Ability",
+				"value": "Gains +1% Duration every level, +20% Movespeed"
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by opening the **Coffin** in the **Dairy Plant**||"
+				"name": "Unlock",
+				"value": "Unlocked by opening the **Coffin** in the **Dairy Plant**"
 			}
 		],
 		"footer": {
@@ -31,6 +31,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/f42c8a00-fc01-4301-9e8e-4a8a03ddba91/Poppea.gif"
 		},
-		"title": "Poppea - Beta Content"
+		"title": "Poppea"
 	}
 }

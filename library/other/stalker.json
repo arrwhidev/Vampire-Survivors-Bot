@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "stalker",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -10,13 +10,13 @@
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Stalks the player for 2 minutes, then leaves.\nDeals 50 damage and moves sporadically.\nImmune to damage and freeze. Vulnerable to Pentagram and Rosary.\nCan drop a chest with evolution||"
+				"name": "Notes",
+				"value": "Stalks the player for 2 minutes, then leaves.\nDeals 50 damage and moves sporadically.\nImmune to damage and freeze. Vulnerable to Pentagram and Rosary.\nCan drop a chest with evolution"
 			},
             {
 				"inline": true,
-				"name": "||Spawning||",
-				"value": "||Spawns in Dairy Plant and rarely in Green Acres.\nChances are affected by luck\n1% at minute 0\n30% at 8 minutes\n30% at 12 minutes||"
+				"name": "Spawning",
+				"value": "Spawns in Dairy Plant and rarely in Green Acres.\nChances are affected by luck\n1% at minute 0\n30% at 8 minutes\n30% at 12 minutes"
 			}
 		],
 		"footer": {
@@ -26,6 +26,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/792e6ab1-0431-43d5-9738-902ef071ab3a/Stalker.gif"
 		},
-		"title": "Stalker - Beta Content"
+		"title": "Stalker"
 	}
 }

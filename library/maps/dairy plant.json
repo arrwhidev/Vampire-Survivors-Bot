@@ -2,31 +2,31 @@
 	"metadata": {
 		"name": "dairy plant",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.||",
+		"description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "fields": [
 			{
 				"inline": false,
-				"name": "||Available Items||",
-				"value": "||Attractorb, Wings, Armor, Candelabrador||"
+				"name": "Available Items",
+				"value": "Attractorb, Wings, Armor, Candelabrador"
 			},
             {
 				"inline": false,
-				"name": "||Hyper||",
-				"value": "||50% Gold Bonus 10% Luck Bonus | Unlocked by defeating the 25 minute boss||"
+				"name": "Hyper",
+				"value": "50% Gold Bonus 10% Luck Bonus | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,
-				"name": "||Unlock||",
-				"value": "||Reach level 40 in **Inlaid Library**||"
+				"name": "Unlock",
+				"value": "Reach level 40 in **Inlaid Library**"
 			},
             {
             	"inline": false,
-				"name": "||Other||",
-				"value": "||This map contains **Coffin** used to unlocking **Poppea**\nThis map contains **Milky Way Map**||"
+				"name": "Other",
+				"value": "This map contains **Coffin** used to unlocking **Poppea**\nThis map contains **Milky Way Map**"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/e6eb2a23-6847-4c85-a0e2-2543b58aad45/DiaryPlant.png"
 		},
-		"title": "Dairy Plant - Beta Content"
+		"title": "Dairy Plant"
 	}
 }

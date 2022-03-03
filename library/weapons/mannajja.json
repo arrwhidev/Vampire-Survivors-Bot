@@ -2,16 +2,16 @@
 	"metadata": {
 		"name": "mannajja",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Evolved version of Song of Mana. Chance to slow enemies.||",
+		"description": "Evolved version of Song of Mana. Chance to slow enemies.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Requires **Skull O'Maniac** for evolution.||"
+				"name": "Notes",
+				"value": "Requires **Skull O'Maniac** for evolution."
 			}
 		],
 		"footer": {
@@ -21,6 +21,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/83e06f84-8400-4976-9f41-c67b326d7582/Song2.png"
 		},
-		"title": "Mannajja - Beta Content"
+		"title": "Mannajja"
 	}
 }

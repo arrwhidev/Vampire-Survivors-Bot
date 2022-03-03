@@ -10,8 +10,8 @@
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Evolution||",
-				"value": "||Required to evolve **Song of Mana** to **Mannajja**||"
+				"name": "Evolution",
+				"value": "Required to evolve **Song of Mana** to **Mannajja**"
 			},
 			{
 				"inline": false,
