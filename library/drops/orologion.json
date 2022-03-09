@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "orologion",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Freezs all enemies for 10 seconds.\nAffected by duration.\nDrops from light sources.\nDroprate affected by Luck.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Unlocks **Clock Lancet**"
+			}
+        ],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/9f6f80ce-92cc-45e3-9e57-79e6cceef97b/PocketWatch.gif"
+		},
+		"title": "Orologion"
+	}
+}

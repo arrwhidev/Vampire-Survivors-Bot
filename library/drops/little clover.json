@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "little clover",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Pick up to get 10% Luckier\nDrops from light sources.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Unlocks **Clover**"
+			}
+        ],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/59b374a2-48db-4ad9-8c09-7827bccfc119/LittleClover.png"
+		},
+		"title": "Little Clover"
+	}
+}

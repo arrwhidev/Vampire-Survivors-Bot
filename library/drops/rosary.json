@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "rosary",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Destroys all enemies in sight.\nDrops from lightsources\nDroprate affected by Luck.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Unlocks **Cross**."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/1cf4cae0-6567-4e2d-9e26-b38ef746abd3/Rosary.gif"
+		},
+		"title": "Rosary"
+	}
+}

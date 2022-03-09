@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "This is a list of items tha drop from light sources.\nDrops are affected by luck: More luck = More drops and better drops",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of drops",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/6db5ecac-3ef4-4f3d-ae11-91d846ffe3d6/Brazier.gif"
+    },
+    "title": "Item Drops"
+}

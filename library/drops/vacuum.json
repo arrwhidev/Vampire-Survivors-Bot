@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "vacuum",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Gathers all experience gems left on the ground.\nDrops from light sources.\nDroprate affected by Luck.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Unlocks **Attractorb**"
+			}
+        ],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fa39762e-f324-45e3-8c96-48df42963673/Vacuum.gif"
+		},
+		"title": "Vacuum"
+	}
+}
