@@ -12,6 +12,11 @@
 				"inline": false,
 				"name": "Unlocks",
 				"value": "Unlocked by: Reaching Level 10 with any character."
+			},
+			{
+				"inline": false,
+				"name": "||Evolution||",
+				"value": "||Required to evolve **Pentagram** to **Gorgeous Moon**||"
 			}
 		],
 		"footer": {

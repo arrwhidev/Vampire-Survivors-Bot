@@ -1,0 +1,30 @@
+{
+	"metadata": {
+		"name": "il molise",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||There exists places that don't exists. Come to relax and enjoy life, but respect nature. See you in the country.||",
+        "fields": [
+            {
+            	"inline": false,
+				"name": "||Other||",
+				"value": "||Reaper comes at 15 minutes||"
+			},
+            {	"inline": false,
+				"name": "||Hyper||",
+				"value": "||50% Gold Bonus 20% Luck Bonus 60% Enemy Health | Unlocked by unlocking hyper for 3 different stages||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e6eb2a23-6847-4c85-a0e2-2543b58aad45/DiaryPlant.png"
+		},
+		"title": "Beta Content"
+	}
+}

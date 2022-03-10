@@ -1,6 +1,6 @@
 {
     "color": 12846604,
-    "description": "This is a list of items tha drop from light sources.\nDrops are affected by luck: More luck = More drops and better drops",
+    "description": "This is a list of items that drop from light sources.\nDrops are affected by luck: More luck = More drops and better drops",
     "fields": [
         {
             "inline": false,
