@@ -16,6 +16,10 @@
             {	"inline": false,
 				"name": "||Hyper||",
 				"value": "||50% Gold Bonus 20% Luck Bonus 60% Enemy Health | Unlocked by unlocking hyper for 3 different stages||"
+			},
+			{	"inline": false,
+				"name": "||Spoiler Warning!||",
+				"value": "||If you survive to 21 minutes, the map will be filled with artifacts that drop gold until 22 minutes.||"
 			}
 		],
 		"footer": {
