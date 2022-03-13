@@ -2,23 +2,23 @@
 	"metadata": {
 		"name": "il molise",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||There exists places that don't exists. Come to relax and enjoy life, but respect nature. See you in the country.||",
+		"description": "There exists places that don't exists. Come to relax and enjoy life, but respect nature. See you in the country.",
         "fields": [
             {
             	"inline": false,
-				"name": "||Other||",
-				"value": "||Reaper comes at 15 minutes||"
+				"name": "Other",
+				"value": "Reaper comes at 15 minutes"
 			},
             {	"inline": false,
-				"name": "||Hyper||",
-				"value": "||50% Gold Bonus 20% Luck Bonus 60% Enemy Health | Unlocked by unlocking hyper for 3 different stages||"
+				"name": "Hyper",
+				"value": "50% Gold Bonus 20% Luck Bonus 60% Enemy Health | Unlocked by unlocking hyper for 3 different stages"
 			},
 			{	"inline": false,
-				"name": "||Spoiler Warning!||",
+				"name": "Spoiler Warning!",
 				"value": "||If you survive to 21 minutes, the map will be filled with artifacts that drop gold until 22 minutes.||"
 			}
 		],
@@ -29,6 +29,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/34e735d5-77e7-479b-8634-6ce80fe30862/stage_molise.png"
 		},
-		"title": "Beta Content"
+		"title": "Il Molise"
 	}
 }

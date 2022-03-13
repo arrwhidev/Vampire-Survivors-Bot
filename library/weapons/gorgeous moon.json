@@ -2,16 +2,16 @@
 	"metadata": {
 		"name": "gorgeous moon",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Evolved Pentagram. Generates extra Gems and gathers all of them.||",
+		"description": "Evolved Pentagram. Generates extra Gems and gathers all of them.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Requires Crown for evolution.||"
+				"name": "Notes",
+				"value": "Requires Crown for evolution."
 			}
 		],
 		"footer": {
@@ -21,6 +21,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/569412bc-1e39-45c1-a149-7ae72540385e/Moon.png"
 		},
-		"title": "Beta Conent"
+		"title": "Gorgeous Moon"
 	}
 }
