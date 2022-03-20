@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "phieraggi",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Union of phiera Der Tuphello and Eight The Sparrow.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Unlocked by Getting both **Der Tuphello** and **Eight The Sparrow** to level 8. Combined via a chest with **Tiragisu**. Frees up a weapon slot\nScales with revives||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a967cbd3-5e6d-48f9-bcaa-02b31c6b94a6/Guns3.png"
+		},
+		"title": "||Phieraggi|| Beta Content"
+	}
+}

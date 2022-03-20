@@ -17,6 +17,11 @@
 				"inline": false,
 				"name": "Hyper",
 				"value": "50% Gold Bonus | Unlocked by defeating the 25 minute boss"
+			},
+			{
+            	"inline": false,
+				"name": "Beta Content",
+				"value": "||This map contains **Coffin** used to unlocking **Pugnala**||"
 			}
 		],
 		"footer": {

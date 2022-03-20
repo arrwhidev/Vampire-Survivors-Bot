@@ -6,11 +6,23 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "An Object that spawns in **Dairy Plant** Guarded by monsters. Open the coffin to unlock **Poppea**",
+		"description": "Unlock characters by opening the coffin!",
 		"footer": {
 			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "Dairy Plant",
+				"value": "Open the coffin on **Dairy Plant** to unlock **Poppea**"
+			},
+			{
+				"inline": false,
+				"name": "||Mad Forest|| Beta Content",
+				"value": "||Open the coffin on **Mad Forest** to unlock **Pugnala Provola**||"
+			}
+		],
 		"thumbnail": {
 			"url": "https://ucarecdn.com/72437880-cccb-4e16-b8c2-12baf26621d4/Coffin.gif"
 		},

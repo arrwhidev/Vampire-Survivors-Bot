@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "pugnala",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Pugnala Provola||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||**Phiera Der Tuphello** and **Eight The Sparrow**||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Gains +1% Might every level||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by opening the **Coffin** in the **Mad Forest**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/4331e803-69cd-42e2-aaa5-77d5141ce3d9/Pugnala.gif"
+		},
+		"title": "||Pugnala|| Beta Content"
+	}
+}
