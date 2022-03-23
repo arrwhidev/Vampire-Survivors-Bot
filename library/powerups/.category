@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "Powerups are upgrades purchasable with gold",
+    "fields": [
+        {
+            "inline": false,
+            "name": "List of Powerups",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/fbb1124a-6c22-4ab5-8a98-978359f48512/ProjectileSpin.png"
+    },
+    "title": "Powerups"
+}

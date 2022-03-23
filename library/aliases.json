@@ -155,5 +155,18 @@
     "pugnalaprovola":"pugnala",
     "pugnala provola":"pugnala",
     "puganla":"pugnala",
-    "puganala":"pugnala"
+    "puganala":"pugnala",
+    "ammount":"amount",
+    "armorupgrade":"armor upgrade",
+    "armor powerup":"armor upgrade",
+    "armor power up":"armor upgrade",
+    "armor power":"armor upgrade",
+    "armorpowerup":"armor upgrade",
+    "armorpower":"armor upgrade",
+    "maxhealth":"max health",
+    "max hp":"max health",
+    "maxhp":"max health",
+    "move speed":"movespeed",
+    "regen":"recovery",
+    "re roll":"reroll"
 }

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "skip",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Once per rank, allows to skip level up choices and get Experience instead",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Skip",
+				"value": "2"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "200 Coins"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Rank 1: Survive 30 miuntes in **Green Acres**\nRank 2: Survive 15 miuntes in **Molise**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fdc77d85-bbda-4bfb-acb0-132921f6faf7/Tiragis_.png"
+		},
+		"title": "Skip"
+	}
+}

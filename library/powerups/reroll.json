@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "reroll",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Once per rank, allows to get different choices when leveling up",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Reroll",
+				"value": "2"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "5000 Coins"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Rank 1: Reach level 100 with **Mortaccio**\nRank 2: Reach level 100 with **Yatta Cavallo**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fdc77d85-bbda-4bfb-acb0-132921f6faf7/Tiragis_.png"
+		},
+		"title": "Reroll"
+	}
+}

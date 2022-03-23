@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "revival",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Revives once with 50% health",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Max Rank",
+				"value": "1"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "10000 Coins"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fdc77d85-bbda-4bfb-acb0-132921f6faf7/Tiragis_.png"
+		},
+		"title": "Revival"
+	}
+}
