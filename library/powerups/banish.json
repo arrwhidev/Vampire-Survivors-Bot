@@ -2,26 +2,26 @@
 	"metadata": {
 		"name": "banish",
 		"spoiler": false,
-		"beta": false
+		"beta": true
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Once per rank, allows to remove an item from level up choices, for the rest of the run",
+		"description": "||Once per rank, allows to remove an item from level up choices, for the rest of the run||",
 		"fields": [
 			{
 				"inline": false,
-				"name": "Max Rank",
-				"value": "1"
+				"name": "||Max Rank||",
+				"value": "||1||"
 			},
 			{
 				"inline": false,
-				"name": "Base Price",
-				"value": "200 Coins"
+				"name": "||Base Price||",
+				"value": "||200 Coins||"
 			},
 			{
 				"inline": false,
-				"name": "Unlock",
-				"value": "Fill out 50 entries in the Collection"
+				"name": "||Unlock||",
+				"value": "||Fill out 50 entries in the Collection||"
 			}
 		],
 		"footer": {
@@ -29,8 +29,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/fdc77d85-bbda-4bfb-acb0-132921f6faf7/Tiragis_.png"
+			"url": "https://ucarecdn.com/9af97bf6-2a1b-4e7c-ad0e-137a40c5727a/Banish.png"
 		},
-		"title": "Banish"
+		"title": "||Banish|| Beta Content"
 	}
 }
