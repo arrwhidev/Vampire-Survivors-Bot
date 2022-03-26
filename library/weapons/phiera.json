@@ -2,31 +2,31 @@
 	"metadata": {
 		"name": "phiera",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Fires quickly in four fixed directions.||",
+		"description": "Fires quickly in four fixed directions.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Ignores Duration||"
+				"name": "Notes",
+				"value": "Ignores Duration"
 			},
 			{
 				"inline": false,
-				"name": "||Union||",
-				"value": "||Evolves at level 8 with **Eight The Sparrow** and **Tiragisu** at level 8 to make **Phieraggi**||"
+				"name": "Union",
+				"value": "Evolves at level 8 with **Eight The Sparrow** and **Tiragisu** at level 8 to make **Phieraggi**"
 			},
 			{
 				"inline": false,
-				"name": "||Unlocks||",
-				"value": "||Can be unlocked by surviving for 10 minutes with Pugnala.||"
+				"name": "Unlocks",
+				"value": "Can be unlocked by surviving for 10 minutes with Pugnala."
 			},
 			{
 				"inline": false,
-				"name": "||Leveling||",
-				"value": "||(1) Base \n(2) +1 Projectiles \n(3) Passes through 2 more enemies\n(4) +1 Projectiles \n(5) Damage +5 \n(6) Passes through 2 more enemies \n(7) +1 Projectiles, Damage +5 \n(8) Passes through 2 more enemies||"
+				"name": "Leveling",
+				"value": "(1) Base \n(2) +1 Projectiles \n(3) Passes through 2 more enemies\n(4) +1 Projectiles \n(5) Damage +5 \n(6) Passes through 2 more enemies \n(7) +1 Projectiles, Damage +5 \n(8) Passes through 2 more enemies"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/3e6d523a-9e4c-4e5c-9b4b-07d5f5764989/Guns.png"
 		},
-		"title": "||Phiera Der Tuphello|| Beta Content"
+		"title": "Phiera Der Tuphello"
 	}
 }

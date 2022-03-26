@@ -2,16 +2,16 @@
 	"metadata": {
 		"name": "phieraggi",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Union of **Phiera Der Tuphello** and **Eight The Sparrow**||",
+		"description": "Union of **Phiera Der Tuphello** and **Eight The Sparrow**",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Unlocked by Getting both **Der Tuphello** and **Eight The Sparrow** to level 8. Combined via a chest with **Tiragisu**. Frees up a weapon slot\nScales with revives||"
+				"name": "Notes",
+				"value": "Unlocked by Getting both **Der Tuphello** and **Eight The Sparrow** to level 8. Combined via a chest with **Tiragisu**. Frees up a weapon slot\nScales with revives"
 			}
 		],
 		"footer": {
@@ -21,6 +21,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/a967cbd3-5e6d-48f9-bcaa-02b31c6b94a6/Guns3.png"
 		},
-		"title": "||Phieraggi|| Beta Content"
+		"title": "Phieraggi"
 	}
 }

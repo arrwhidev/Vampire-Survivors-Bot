@@ -2,26 +2,26 @@
 	"metadata": {
 		"name": "pugnala",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Pugnala Provola||",
+		"description": "Pugnala Provola",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||**Phiera Der Tuphello** and **Eight The Sparrow**||"
+				"name": "Starting Weapon",
+				"value": "**Phiera Der Tuphello** and **Eight The Sparrow**"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gains +1% Might every level||"
+				"name": "Ability",
+				"value": "Gains +1% Might every level"
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by opening the **Coffin** in the **Mad Forest**||"
+				"name": "Unlock",
+				"value": "Unlocked by opening the **Coffin** in the **Mad Forest**"
 			}
 		],
 		"footer": {
@@ -31,6 +31,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/4331e803-69cd-42e2-aaa5-77d5141ce3d9/Pugnala.gif"
 		},
-		"title": "||Pugnala|| Beta Content"
+		"title": "Pugnala"
 	}
 }
