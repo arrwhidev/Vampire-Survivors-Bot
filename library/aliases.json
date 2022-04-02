@@ -172,5 +172,8 @@
     "projectilespeed":"speed",
     "projectile speed":"speed",
     "projspeed":"speed",
-    "proj speed":"speed"
+    "proj speed":"speed",
+    "suggestion":"contribute",
+    "bug":"contribute",
+    "feedback":"contribute"
 }

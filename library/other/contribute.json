@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "contribute",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "This bot is 100% community made! If you want to update the content, please open an issue on GitHub!",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "The library is open source on GitHub!",
+				"value": "Click [GitHub](https://github.com/SHA65536/Vampire-Survivors-Bot) to see the code and open issues!"
+			}
+		],
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6b0bff9d-7aa1-487b-ad03-5531dc3e9cfb/Flower2_i0.gif"
+		},
+		"title": "Help make me better! Report issues, suggest features!",
+		"url": "https://github.com/SHA65536/Vampire-Survivors-Bot"
+	}
+}

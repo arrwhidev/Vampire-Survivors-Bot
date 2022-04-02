@@ -6,7 +6,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses), and only from a boss that spawned at the 10-minute mark or later.",
+		"description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses), and **usually** from a boss that spawned after the 10-minute mark.",
 		"fields": [
 			{
 				"inline": false,
