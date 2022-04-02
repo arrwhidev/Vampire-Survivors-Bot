@@ -22,6 +22,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) Fires 1 more projectile \n(3) Cooldown reduced by 0.2 \n(4) Fires 1 more projectile \n(5) Damage up by 10 \n(6) Fires 1 more projectile \n(7) Pierces 1 more enemy \n(8) Damage up by 10"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:bracerVS:956590483482771588> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {

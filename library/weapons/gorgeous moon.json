@@ -12,6 +12,11 @@
 				"inline": false,
 				"name": "Notes",
 				"value": "Requires Crown for evolution."
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:crownVS:943584187645067314>"
 			}
 		],
 		"footer": {

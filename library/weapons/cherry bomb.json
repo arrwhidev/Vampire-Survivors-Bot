@@ -27,6 +27,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) Area +25%, Speed +30% \n(3) 50% to Explode \n(4) Fires 1 more projectile \n(5) Area +25%, Damage +5 \n(6) 60% to Explode \n(7) Area +25%, Speed +30% \n(8) Area +25%, Damage +5"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:cloverVS:955859382674014218> <:bracerVS:956590483482771588> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {

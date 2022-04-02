@@ -17,6 +17,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) Cooldown -0.5, Duration +0.2 \n(3) Cooldown -0.5, Duration +0.2 \n(4) Charge +1 \n(5) Cooldown -0.5, Duration +0.2 \n(6) Cooldown -0.5, Duration +0.2 \n(7) Charge +1"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997>"
 			}
 		],
 		"footer": {

@@ -27,6 +27,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) +1 Projectiles \n(3) Passes through 2 more enemies\n(4) +1 Projectiles \n(5) Damage +5 \n(6) Passes through 2 more enemies \n(7) +1 Projectiles, Damage +5 \n(8) Passes through 2 more enemies"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:bracerVS:956590483482771588> <:cloverVS:955859382674014218> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {

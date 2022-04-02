@@ -22,6 +22,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) Projectiles +1, Area + 20% \n(3) Damage +10, Duration +0.5 \n(4) Projectiles +1, Area + 20% \n(5) Damage +10, Duration +0.3 \n(6) Projectiles +1, Area + 20% \n(7) Damage +10, Duration +0.3 \n(8) Damage +5, Area + 20%"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {

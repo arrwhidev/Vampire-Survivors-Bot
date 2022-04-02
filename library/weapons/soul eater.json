@@ -12,6 +12,11 @@
 				"inline": false,
 				"name": "Notes",
 				"value": "Requires Pummarola for evolution. Power increases when recovering HP."
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<:hollowheartVS:943584187653455912> <:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:spinachVS:943584187368230993> <:pummarolaVS:943584187607314432>"
 			}
 		],
 		"footer": {
