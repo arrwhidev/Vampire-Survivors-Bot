@@ -6,11 +6,11 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses), and **usually** from a boss that spawned after the 10-minute mark.",
+		"description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses) which **usually** drop from a boss that spawned after the 10-minute mark.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "Evolution List (Version 0.3.1b)",
+				"name": "Evolution List (Version 0.3.2c)",
 				"value": "||Axe + Candelabrador = Death Spiral\nCross + Clover = Heaven Sword\nFire Wand + Spinach = Hellfire\nGarlic + Pummarola = Soul Eater\nKing Bible = Unholy Vespers\nKnife + Bracer = Thousand Edge\nLightning Ring + Duplicator = Thunder Loop\nMagic Wand + Empty Tome = Holy Wand\nPeachone + Ebony Wings = Vandalier\nSanta Water + Attractorb = La Borra\nWhip + Hollow Heart = Bloody Tear\nSong of Mana + Skull O'Maniac = Mannajja\nPentagram + Crown = Gorgeous Moon\nPhiera Der Tuphello + Eight The Sparrow + Tiragisu = Phieraggi||"
 			}
 		],
