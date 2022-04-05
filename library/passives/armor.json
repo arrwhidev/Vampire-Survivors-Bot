@@ -10,8 +10,8 @@
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Evolution|| Beta Content",
-				"value": "||Required to evolve **Runetracer** to **NO FUTURE**||"
+				"name": "Evolution",
+				"value": "Required to evolve **Runetracer** to **NO FUTURE**"
 			}
 		],
 		"footer": {

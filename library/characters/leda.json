@@ -6,7 +6,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Secret Character|| - Beta Content",
+		"description": "Secret Character",
 		"fields": [
 			{
 				"inline": false,
@@ -21,7 +21,7 @@
 			{
 				"inline": false,
 				"name": "||Unlock||",
-				"value": "||Unlocked by defeating him in Gallo Tower, 32 tilesets down. Immune to Lancet, Rosary, Pentagram. 4444 HP||"
+				"value": "||Unlocked by defeating him in Gallo Tower, 32-40 tilesets down. Immune to Lancet, Rosary, Pentagram. 4444 HP||"
 			}
 		],
 		"footer": {
@@ -31,6 +31,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/c719f97f-0f8d-4a15-af9f-5dbd740648a8/XLLeda_i0.gif"
 		},
-		"title": "Leda - Beta Content"
+		"title": "Leda"
 	}
 }

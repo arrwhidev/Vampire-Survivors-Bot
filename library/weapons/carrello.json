@@ -2,31 +2,31 @@
 	"metadata": {
 		"name": "carrello",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Throws a bouncing projectile. Number of bounces affected by Amount.||",
+		"description": "Throws a bouncing projectile. Number of bounces affected by Amount.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Evolution||",
-				"value": "||Does not evolve (yet...?)||"
+				"name": "Evolution",
+				"value": "Does not evolve (yet...?)"
 			},
 			{
 				"inline": false,
-				"name": "||Unlocks||",
-				"value": "||Very rarely appears after unlocking **Bianca Ramba**||"
+				"name": "Unlocks",
+				"value": "Very rarely appears after unlocking **Bianca Ramba**"
 			},
 			{
 				"inline": false,
-				"name": "||Leveling||",
-				"value": "||(1) Base \n(2) Area +20% \n(3) Damage +30, Cooldown -0.5 \n(4) Speed +50% \n(5) Damage +30, Cooldown -0.5 \n(6) Area +20% \n(7) Damage +30, Cooldown -0.5 \n(8) Speed +50%||"
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Area +20% \n(3) Damage +30, Cooldown -0.5 \n(4) Speed +50% \n(5) Damage +30, Cooldown -0.5 \n(6) Area +20% \n(7) Damage +30, Cooldown -0.5 \n(8) Speed +50%"
 			},
 			{
 				"inline": false,
-				"name": "||Synergy With||",
-				"value": "||<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:bracerVS:956590483482771588> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>||"
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:bracerVS:956590483482771588> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/95b096f0-27e2-4ad3-a534-61423c8ff130/CartWheel.png"
 		},
-		"title": "Carrello - Beta Content"
+		"title": "Carrello"
 	}
 }

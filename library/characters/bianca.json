@@ -2,26 +2,26 @@
 	"metadata": {
 		"name": "bianca",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Bianca Ramba||",
+		"description": "Bianca Ramba",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||Carrello||"
+				"name": "Starting Weapon",
+				"value": "Carrello"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||"
+				"name": "Ability",
+				"value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)"
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Defeat a total of 3000 **Milk Elementals**||"
+				"name": "Unlock",
+				"value": "Defeat a total of 3000 **Milk Elementals**"
 			}
 		],
 		"footer": {
@@ -31,6 +31,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/53d8020d-5ede-48d3-8abb-46184326d5e2/Ramba.gif"
 		},
-		"title": "Bainca - Beta Content"
+		"title": "Bainca"
 	}
 }

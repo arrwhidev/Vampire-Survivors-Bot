@@ -179,6 +179,7 @@
     "bianca ramba":"bianca",
     "biancaramba":"bainca",
     "caramba":"bianca",
+    "ramba":"bianca",
     "gallo":"gallo tower",
     "tower":"gallo tower",
     "gallotower":"gallo tower",
@@ -203,5 +204,7 @@
     "future":"no future",
     "milkelemental":"milk elemental",
     "milk elementals":"milk elemental",
-    "milkelementals":"milk elemental"
+    "milkelementals":"milk elemental",
+    "hurry mode":"hurry",
+    "hurrymode":"hurry"
 }

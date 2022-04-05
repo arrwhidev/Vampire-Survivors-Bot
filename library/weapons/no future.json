@@ -2,21 +2,21 @@
 	"metadata": {
 		"name": "no future",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Evolved version of **Runetracer**. Explodes when bouncing and in retaliation||",
+		"description": "Evolved version of **Runetracer**. Explodes when bouncing and in retaliation",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Requires **Armor** for evolution.||"
+				"name": "Notes",
+				"value": "Requires **Armor** for evolution."
 			},
 			{
 				"inline": false,
-				"name": "||Synergy With||",
-				"value": "||<:emptytomeVS:943584187645054997> <:bracerVS:956590483482771588> <:candelabradorVS:943584187624087593> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>||"
+				"name": "Synergy With",
+				"value": "<:emptytomeVS:943584187645054997> <:bracerVS:956590483482771588> <:candelabradorVS:943584187624087593> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>"
 			}
 		],
 		"footer": {
@@ -26,6 +26,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/a7a0b07e-c96d-4973-b78f-37fe1756492a/NOFUTURE.png"
 		},
-		"title": "NO FUTURE - Beta Content"
+		"title": "NO FUTURE"
 	}
 }

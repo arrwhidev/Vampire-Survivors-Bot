@@ -8,14 +8,14 @@
 		"color": 12846604,
 		"description": "There exists places that don't exists. Come to relax and enjoy life, but respect nature. See you in the country.",
         "fields": [
-            {
-            	"inline": false,
-				"name": "Other",
-				"value": "Reaper comes at 15 minutes | 3 Chest drops on 9, 11, and 13 minutes"
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Enemies don't move\nReaper comes at 15 minutes \n 3 Chest drops on 9, 11, and 13 minutes"
 			},
             {	"inline": false,
 				"name": "Hyper",
-				"value": "50% Gold Bonus 20% Luck Bonus 60% Enemy Health | Unlocked by unlocking hyper for any normal stages"
+				"value": "+50% Gold, +20% Luck, +65% Speed, Enemy Health +60% | Unlocked by unlocking hyper for any normal stages"
 			},
 			{	"inline": false,
 				"name": "Spoiler Warning!",

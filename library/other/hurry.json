@@ -1,0 +1,26 @@
+{
+	"metadata": {
+		"name": "hurry",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Selecting Hurry Mode on the stage selection screen, will make the timer go twice as fast ingame",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Pick up the **Sorecress' Tears** on **Gallo Tower**"
+			}
+		],
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c9d651de-00c2-4e69-8fb6-b6b7cd6bc1c8/Star2.png"
+		},
+		"title": "Hurry Mode"
+	}
+}

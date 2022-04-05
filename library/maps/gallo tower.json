@@ -2,31 +2,31 @@
 	"metadata": {
 		"name": "gallo tower",
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||This tower hides great magical artifacts and historically accurate monsters.||",
+		"description": "This tower hides great magical artifacts and historically accurate monsters.",
         "fields": [
 			{
 				"inline": false,
-				"name": "||Available Items||",
-				"value": "||Bracer, Spellbinder||"
+				"name": "Available Items",
+				"value": "Bracer, Spellbinder"
 			},
             {
 				"inline": false,
-				"name": "||Hyper||",
-				"value": "||50% Gold Bonus 10% Luck Bonus | Unlocked by defeating the 25 minute boss||"
+				"name": "Hyper",
+				"value": "50% Gold, +10% Luck, +65% Speed | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,
-				"name": "||Unlock||",
-				"value": "||Reach level 60 in **Dairy Plant**||"
+				"name": "Unlock",
+				"value": "Reach level 60 in **Dairy Plant**"
 			},
             {
             	"inline": false,
-				"name": "||Other||",
-				"value": "||This map contains **Sorceress' Tears**||"
+				"name": "Other",
+				"value": "This map contains **Sorceress' Tears**"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/80090cfc-4173-42f2-ac55-b25a6c17bae2/stage_tower.png"
 		},
-		"title": "Gallo Tower - Beta Content"
+		"title": "Gallo Tower"
 	}
 }

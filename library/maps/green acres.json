@@ -8,15 +8,15 @@
 		"color": 12846604,
 		"description": "A place where mortals are not allowed. Fate changes every minute.",
         "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Enemy health +50%"
+			},
             {
 				"inline": false,
 				"name": "Hyper",
-				"value": "Enemy health +50%\n50% Gold Bonus 10% Luck Bonus\nUnlock Hyper mode for 2 stages"
-			},
-            {
-            	"inline": false,
-				"name": "Unlock",
-				"value": "???"
+				"value": "+50% Gold, +10% Luck, +65% Speed | Unlock Hyper mode for 2 stages"
 			}
 		],
 		"footer": {
