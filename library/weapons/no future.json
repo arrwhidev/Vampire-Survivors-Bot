@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "no future",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Evolved version of **Runetracer**. Explodes when bouncing and in retaliation|",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Requires **Armor** for evolution.||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993>||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/83e06f84-8400-4976-9f41-c67b326d7582/Song2.png"
+		},
+		"title": "NO FUTURE - Beta Content"
+	}
+}

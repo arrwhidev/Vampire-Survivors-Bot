@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "gallo tower",
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||This tower hides great magical artifacts and historically accurate monsters.||",
+        "fields": [
+			{
+				"inline": false,
+				"name": "||Available Items||",
+				"value": "||Bracer, Spellbinder||"
+			},
+            {
+				"inline": false,
+				"name": "||Hyper||",
+				"value": "||50% Gold Bonus 10% Luck Bonus | Unlocked by defeating the 25 minute boss||"
+			},
+            {
+            	"inline": false,
+				"name": "||Unlock||",
+				"value": "||Reach level 60 in **Dairy Plant**||"
+			},
+            {
+            	"inline": false,
+				"name": "||Other||",
+				"value": "||This map contains **Sorceress' Tears**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e6eb2a23-6847-4c85-a0e2-2543b58aad45/DiaryPlant.png"
+		},
+		"title": "Gallo Tower - Beta Content"
+	}
+}
