@@ -1,27 +1,27 @@
 {
 	"metadata": {
-		"name": "bianca",
-		"spoiler": false,
+		"name": "leda",
+		"spoiler": true,
 		"beta": true
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Bianca Ramba||",
+		"description": "||Secret Character|| - Beta Content",
 		"fields": [
 			{
 				"inline": false,
 				"name": "||Starting Weapon||",
-				"value": "||Carrello||"
+				"value": "||Holy Wand||"
 			},
 			{
 				"inline": false,
 				"name": "||Ability||",
-				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||"
+				"value": "||Starts with Holy Wand, +5 Armor, -20% Speed, +100% Damage, +10% Area, -10% Cooldown||"
 			},
 			{
 				"inline": false,
 				"name": "||Unlock||",
-				"value": "||Defeat a total of 3000 **Milk Elementals**||"
+				"value": "||Unlocked by defeating him in Gallo Tower, 32 tilesets down. Immune to Lancet, Rosary, Pentagram. 4444 HP||"
 			}
 		],
 		"footer": {
@@ -29,8 +29,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/53d8020d-5ede-48d3-8abb-46184326d5e2/Ramba.gif"
+			"url": "https://ucarecdn.com/c719f97f-0f8d-4a15-af9f-5dbd740648a8/XLLeda_i0.gif"
 		},
-		"title": "Bainca - Beta Content"
+		"title": "Leda - Beta Content"
 	}
 }

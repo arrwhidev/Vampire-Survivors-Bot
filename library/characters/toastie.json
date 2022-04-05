@@ -1,27 +1,27 @@
 {
 	"metadata": {
-		"name": "bianca",
-		"spoiler": false,
+		"name": "toastie",
+		"spoiler": true,
 		"beta": true
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Bianca Ramba||",
+		"description": "||Secret Character|| - Beta Content",
 		"fields": [
 			{
 				"inline": false,
 				"name": "||Starting Weapon||",
-				"value": "||Carrello||"
+				"value": "||Peachone||"
 			},
 			{
 				"inline": false,
 				"name": "||Ability||",
-				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||"
+				"value": "||Starts with Peachone and 1 HP, +20ms, +100% luck, -10% might/area/duration, +10% cooldown, gains 20% luck every 10 levels [max +100%], +9998 HP at level 100, +65520 armor at level 200||"
 			},
 			{
 				"inline": false,
 				"name": "||Unlock||",
-				"value": "||Defeat a total of 3000 **Milk Elementals**||"
+				"value": "||unknown|"
 			}
 		],
 		"footer": {
@@ -29,8 +29,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/53d8020d-5ede-48d3-8abb-46184326d5e2/Ramba.gif"
+			"url": "https://ucarecdn.com/74ed72c8-a7a0-41da-b0b3-3082fe19f86f/uExdash.gif"
 		},
-		"title": "Bainca - Beta Content"
+		"title": "Toastie - Beta Content"
 	}
 }
