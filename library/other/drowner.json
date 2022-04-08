@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"name": "drowner",
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemy",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "The Drowner is an enemy appearing in **Gallo Tower**. It attacks the player with magic attack."
+			},
+            {
+				"inline": true,
+				"name": "Spawning",
+				"value": "1. The Drowner may be summoned by the 25 minute boss. This version can be killed with a rosary or gorgeous moon and drops a chest.\n2. The Drowner spawns on the 30 minute mark 100% of the time. This version cannot be killed."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f068230d-ad3f-42ee-b640-d1029adc01f5/XLDrowner_i0.gif"
+		},
+		"title": "Drowner"
+	}
+}
