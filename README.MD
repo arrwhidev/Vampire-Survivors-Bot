@@ -33,5 +33,8 @@ go run .
 ## Contribute
 This is a community project, everyone is welcome to suggest and make changes, feel free to open issues / pull requests with your proposed changes.
 
+The data folder is split into categories, each category has a .category file that contains description of it.
+Each item has an item.json file containing an embed structure, the name of the file corresponds to the command name. To add aliases for an item, edit aliases.json in the data folder.
+
 ## Repository Management
 As this is the first repository that I manage, I am looking for feedback/suggestions and potentially someone to help me manage this.
