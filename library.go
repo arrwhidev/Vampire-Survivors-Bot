@@ -8,6 +8,7 @@ import (
 	"strings"
 
 	"github.com/bwmarrin/discordgo"
+	"github.com/sahilm/fuzzy"
 )
 
 type Embeder interface {
@@ -53,6 +54,7 @@ type LibraryHandler struct {
 	Library    map[string]Embeder
 	Categories map[string]Embeder
 	Aliases    map[string]string
+	Fuzzy      []string
 }
 
 func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
@@ -67,6 +69,7 @@ func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 func (handler *LibraryHandler) LoadLibrary() {
 	handler.Library = make(map[string]Embeder)
 	handler.Categories = make(map[string]Embeder)
+	handler.Fuzzy = make([]string, 0)
 	dirs, err := ioutil.ReadDir(handler.Path)
 	if err != nil {
 		handler.Bot.Logger.Fatal(err)
@@ -95,6 +98,7 @@ func (handler *LibraryHandler) LoadLibrary() {
 				item := &DbItem{}
 				json.Unmarshal(data, item)
 				handler.Library[item.Metadata.Name] = item
+				handler.Fuzzy = append(handler.Fuzzy, item.Metadata.Name)
 				if item.Metadata.Spoiler || item.Metadata.Beta {
 					category.Content.Fields[0].Value += fmt.Sprintf("||%s||, ", item.Metadata.Name)
 				} else {
@@ -170,5 +174,18 @@ func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, boo
 		embed := handler.Library[key]
 		return *embed.Embed(), true
 	}
+	if key := handler.FuzzySearch(args); key != "" {
+		embed := handler.Library[key].Embed()
+		embed.Title = fmt.Sprintf("Did you mean: %s?", embed.Title)
+		return *embed, true
+	}
 	return discordgo.MessageEmbed{}, false
+}
+
+func (handler *LibraryHandler) FuzzySearch(args string) (name string) {
+	matches := fuzzy.Find(args, handler.Fuzzy)
+	if len(matches) > 0 {
+		return matches[0].Str
+	}
+	return ""
 }
