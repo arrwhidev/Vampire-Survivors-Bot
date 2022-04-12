@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "vacuum",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},

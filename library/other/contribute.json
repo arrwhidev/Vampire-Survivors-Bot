@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "contribute",
+		"aliases":["feedback"],
 		"spoiler": false,
 		"beta": false
 	},

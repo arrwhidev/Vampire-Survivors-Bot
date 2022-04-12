@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "wings",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},

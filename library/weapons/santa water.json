@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "santa water",
+		"aliases":["saint"],
 		"spoiler": false,
 		"beta": false
 	},
@@ -16,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Evolution",
-				"value": "Evolves at level 8 with **Attractorb** To make **La Borra** "
+				"value": "Evolves at level 8 with **Attractorb** To make **La Borra**"
 			},
 			{
 				"inline": false,

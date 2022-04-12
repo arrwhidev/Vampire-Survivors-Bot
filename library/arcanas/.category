@@ -1,0 +1,19 @@
+{
+    "color": 12846604,
+    "description": "||Arcanas are special upgrades that can change each run. You can unlock Arcanas by getting **Randomazzo** on the top of **Gallo Tower**. After that you will have more unlocks in the achivement list, each one unlocks a different Arcana. When you start a run you will be able to choose 1 Arcana from all unlocked to start your run with. You can hold up to 3 Arcanas and they appear in chests||",
+    "fields": [
+        {
+            "inline": false,
+            "name": "||List of Arcanas||",
+            "value": ""
+        }
+    ],
+    "footer": {
+        "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+        "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+    },
+    "thumbnail": {
+        "url": "https://ucarecdn.com/fbb1124a-6c22-4ab5-8a98-978359f48512/ProjectileSpin.png"
+    },
+    "title": "Arcanas - Beta Content"
+}

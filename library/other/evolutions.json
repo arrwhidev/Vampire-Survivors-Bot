@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "evolutions",
+		"aliases":["combos"],
 		"spoiler": false,
 		"beta": false
 	},

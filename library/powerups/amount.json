@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "amount",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},

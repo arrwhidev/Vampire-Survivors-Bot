@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "xix - heart of fire",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Set projectiles explode on impact. Light sources explode. Character explodes when damaged.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching level 99 with **Arca**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Fire wand** and **Hellfire**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/37df6e74-26f3-4917-b966-0d5f16c058b7/19.png"
+		},
+		"title": "XIX - Heart of Fire | Beta Content"
+	}
+}

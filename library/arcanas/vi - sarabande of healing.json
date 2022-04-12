@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "vi - sarabande of healing",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Healing is doubled. Recovering HP damages nearby enemies for the same amount.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by finding the **Randomazzo**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ebbf6dd0-a1bf-4322-962c-6dc263750d27/06.png"
+		},
+		"title": "VI - Sarabande of Healing | Beta Content"
+	}
+}

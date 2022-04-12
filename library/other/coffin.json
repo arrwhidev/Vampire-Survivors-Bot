@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "coffin",
+		"aliases":["grave"],
 		"spoiler": false,
 		"beta": false
 	},
@@ -14,13 +15,18 @@
 		"fields": [
 			{
 				"inline": false,
-				"name": "Dairy Plant",
-				"value": "Open the coffin on **Dairy Plant** to unlock **Poppea**"
+				"name": "Mad Forest",
+				"value": "Open the coffin on **Mad Forest** to unlock **Pugnala Provola**"
 			},
 			{
 				"inline": false,
-				"name": "Mad Forest",
-				"value": "Open the coffin on **Mad Forest** to unlock **Pugnala Provola**"
+				"name": "Beta Content",
+				"value": "||Open the coffin on **Inlaid Library** to unlock **Giovanna**||"
+			},
+			{
+				"inline": false,
+				"name": "Dairy Plant",
+				"value": "Open the coffin on **Dairy Plant** to unlock **Poppea**"
 			}
 		],
 		"thumbnail": {

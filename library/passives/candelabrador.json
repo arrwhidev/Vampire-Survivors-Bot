@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "candelabrador",
+		"aliases":["candle"],
 		"spoiler": false,
 		"beta": false
 	},

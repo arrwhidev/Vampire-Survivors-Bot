@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "might",
+		"aliases":["damage"],
 		"spoiler": false,
 		"beta": false
 	},

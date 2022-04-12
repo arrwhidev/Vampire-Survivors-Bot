@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "xvi - slash",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Enables critical hits for set weapons. Doubles overall critical damage.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching level 99 with **Lama**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Knife**, **Thousand Edge**, **Whip**, **Bloody Tear**, **Axes**, **Death Spiral**, **Heaven Sword**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f7781898-1e56-4e06-b17a-b69a64656e89/16.png"
+		},
+		"title": "XVI - Slash | Beta Content"
+	}
+}

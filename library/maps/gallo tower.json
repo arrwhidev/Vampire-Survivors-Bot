@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "gallo tower",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,6 +28,11 @@
             	"inline": false,
 				"name": "Other",
 				"value": "This map contains **Sorceress' Tears**"
+			},
+            {
+            	"inline": false,
+				"name": "Beta Content",
+				"value": "||This map also contains **Randomazzo**||"
 			}
 		],
 		"footer": {

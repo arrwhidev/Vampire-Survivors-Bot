@@ -1,12 +1,13 @@
 {
 	"metadata": {
 		"name": "skip",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Once per rank, allows to skip level up choices and get Experience instead",
+		"description": "Twice per rank, allows to skip level up choices and get Experience instead",
 		"fields": [
 			{
 				"inline": false,

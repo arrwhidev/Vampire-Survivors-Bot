@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "banish",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
@@ -11,7 +12,7 @@
 			{
 				"inline": false,
 				"name": "Max Rank",
-				"value": "1"
+				"value": "3"
 			},
 			{
 				"inline": false,
@@ -21,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Rank 1: Fill out 50 entries in the Collection\nRank 2: Fill out 60 entries in the Collection"
+				"value": "Rank 1: Fill out 50 entries in the Collection\nRank 2: Fill out 60 entries in the Collection\nRank 3: Fill out 70 entries in the Collection"
 			}
 		],
 		"footer": {

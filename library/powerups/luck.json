@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "luck",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},

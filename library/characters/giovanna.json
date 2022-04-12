@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "giovanna",
+		"aliases":["grana","witch"],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Giovanna Grana||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Gatti Amari||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Gains +1% Projectile Speed every level||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by opening the **Coffin** in the **Inlaid Library**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/41c30d22-7d52-4502-ace7-f6700bcb755e/Lama.gif"
+		},
+		"title": "Giovanna - Beta Content"
+	}
+}

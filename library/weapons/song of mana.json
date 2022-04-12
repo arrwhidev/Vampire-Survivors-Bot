@@ -7,6 +7,7 @@
 	"content": {
 		"color": 12846604,
 		"description": "Attacks vertically, passes through enemies.",
+		"aliases":[],
 		"fields": [
 			{
 				"inline": false,

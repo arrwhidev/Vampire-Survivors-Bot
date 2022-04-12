@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "inlaid library",
+		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
@@ -22,6 +23,11 @@
             	"inline": false,
 				"name": "Unlock",
 				"value": "Reach level 20 in **Mad Forest**"
+			},
+            {
+            	"inline": false,
+				"name": "Other - Beta Content",
+				"value": "||This map contains **Coffin** used to unlocking **Giovanna**||"
 			}
 		],
 		"footer": {

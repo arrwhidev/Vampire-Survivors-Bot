@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "randomazzo",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Unlocks **Arcanas**||",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Find the Randomazzo at the top of the Gallo Tower stage||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/98e86cab-02ab-40a2-a645-e3366c53fd53/Tear.png"
+		},
+		"title": "Randomazzo - Beta Content"
+	}
+}

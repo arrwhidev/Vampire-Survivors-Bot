@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "v - chaos in the dark night",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Overall Projectile Speed continuously changes between -50% and +200% over 10 seconds.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching level 99 with **Giovanna**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/aba61e4a-1746-4ac5-8f84-7c831ef59211/05.png"
+		},
+		"title": "V - Chaos in the Dark Night | Beta Content"
+	}
+}

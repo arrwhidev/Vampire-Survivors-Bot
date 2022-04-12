@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "toastie",
+		"aliases":["panini"],
 		"spoiler": true,
 		"beta": false
 	},

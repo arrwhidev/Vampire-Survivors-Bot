@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "carrello",
+		"aliases":["carts"],
 		"spoiler": false,
 		"beta": false
 	},
