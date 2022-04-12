@@ -107,6 +107,7 @@ func (handler *LibraryHandler) LoadLibrary() {
 			}
 			fobj.Close()
 		}
+		handler.Fuzzy = append(handler.Fuzzy, category.Name)
 		handler.Library[category.Name] = category
 		handler.Categories[category.Name] = category
 	}
