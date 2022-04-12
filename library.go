@@ -175,9 +175,9 @@ func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, boo
 		return *embed.Embed(), true
 	}
 	if key := handler.FuzzySearch(args); key != "" {
-		embed := handler.Library[key].Embed()
+		embed := *handler.Library[key].Embed()
 		embed.Title = fmt.Sprintf("Did you mean: %s?", embed.Title)
-		return *embed, true
+		return embed, true
 	}
 	return discordgo.MessageEmbed{}, false
 }
