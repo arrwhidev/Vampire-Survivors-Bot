@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Set projectiles explode on impact. Light sources explode. Character explodes when damaged.||",
+		"description": "||Fire weapons projectiles explode on impact. Light sources explode. Character explodes when damaged.||",
 		"fields": [
 			{
 				"inline": false,
