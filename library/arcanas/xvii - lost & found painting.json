@@ -1,18 +1,18 @@
 {
 	"metadata": {
-		"name": "xvii - lost & found painting.json",
+		"name": "xvii - lost & found painting",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Overall Duration continuously changes between -50% and +200% over 10 seconds||",
+		"description": "Overall Duration continuously changes between -50% and +200% over 10 seconds",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reaching level 99 with **Poppea**||"
+				"name": "Unlock",
+				"value": "Unlocked by reaching level 99 with **Poppea**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/ae3fa19c-07a2-4c3d-8526-54c6b52a4eb2/17.png"
 		},
-		"title": "XVII - Lost & Found Painting | Beta Content"
+		"title": "XVII - Lost & Found Painting"
 	}
 }

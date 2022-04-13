@@ -26,8 +26,8 @@
 			},
             {
             	"inline": false,
-				"name": "Other - Beta Content",
-				"value": "||This map contains **Coffin** used to unlocking **Giovanna**||"
+				"name": "Other",
+				"value": "This map contains a **Coffin** used to unlocking **Giovanna**"
 			}
 		],
 		"footer": {

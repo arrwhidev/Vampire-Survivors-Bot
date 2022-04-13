@@ -27,12 +27,7 @@
             {
             	"inline": false,
 				"name": "Other",
-				"value": "This map contains **Sorceress' Tears**"
-			},
-            {
-            	"inline": false,
-				"name": "Beta Content",
-				"value": "||This map also contains **Randomazzo**||"
+				"value": "This map contains **Sorceress' Tears** and **Randomazzo**"
 			}
 		],
 		"footer": {

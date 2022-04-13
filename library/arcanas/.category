@@ -1,10 +1,10 @@
 {
     "color": 12846604,
-    "description": "||Arcanas are special upgrades that can change each run. You can unlock Arcanas by getting **Randomazzo** on the top of **Gallo Tower**. After that you will have more unlocks in the achivement list, each one unlocks a different Arcana. When you start a run you will be able to choose 1 Arcana from all unlocked to start your run with. You can hold up to 3 Arcanas and they appear in chests||",
+    "description": "Arcanas are special upgrades that can change each run. You can unlock Arcanas by getting **Randomazzo** on the top of **Gallo Tower**. After that you will have more unlocks in the achivement list, each one unlocks a different Arcana. When you start a run you will be able to choose 1 Arcana from all unlocked to start your run with. You can hold up to 3 Arcanas and they appear in chests",
     "fields": [
         {
             "inline": false,
-            "name": "||List of Arcanas||",
+            "name": "List of Arcanas",
             "value": ""
         }
     ],
@@ -15,5 +15,5 @@
     "thumbnail": {
         "url": "https://ucarecdn.com/a5e89bc8-672a-4b66-93d5-e2de496d1878/inner2.png"
     },
-    "title": "Arcanas - Beta Content"
+    "title": "Arcanas"
 }

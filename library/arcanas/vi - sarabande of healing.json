@@ -3,16 +3,16 @@
 		"name": "vi - sarabande of healing",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Healing is doubled. Recovering HP damages nearby enemies for the same amount.||",
+		"description": "Healing is doubled. Recovering HP damages nearby enemies for the same amount.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by finding the **Randomazzo**||"
+				"name": "Unlock",
+				"value": "Unlocked by finding the **Randomazzo**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/ebbf6dd0-a1bf-4322-962c-6dc263750d27/06.png"
 		},
-		"title": "VI - Sarabande of Healing | Beta Content"
+		"title": "VI - Sarabande of Healing"
 	}
 }

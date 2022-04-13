@@ -3,21 +3,21 @@
 		"name": "xvi - slash",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Enables critical hits for set weapons. Doubles overall critical damage.||",
+		"description": "Enables critical hits for set weapons. Doubles overall critical damage.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reaching level 99 with **Lama**||"
+				"name": "Unlock",
+				"value": "Unlocked by reaching level 99 with **Lama**"
 			},
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Works with **Knife**, **Thousand Edge**, **Whip**, **Bloody Tear**, **Axes**, **Death Spiral**, **Heaven Sword**||"
+				"name": "Notes",
+				"value": "Works with **Knife**, **Thousand Edge**, **Whip**, **Bloody Tear**, **Axes**, **Death Spiral**, **Heaven Sword**"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/f7781898-1e56-4e06-b17a-b69a64656e89/16.png"
 		},
-		"title": "XVI - Slash | Beta Content"
+		"title": "XVI - Slash"
 	}
 }

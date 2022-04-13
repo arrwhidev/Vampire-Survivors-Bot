@@ -3,16 +3,16 @@
 		"name": "iv - awake",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Gives +3 Revivals. Consuming a Revival gives +10% Max HP, +1 Armor, and +5% Damage, Area, Duration and speed.||",
+		"description": "Gives +3 Revivals. Consuming a Revival gives +10% Max HP, +1 Armor, and +5% Damage, Area, Duration and speed.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reaching level 99 with **Krochi**||"
+				"name": "Unlock",
+				"value": "Unlocked by reaching level 99 with **Krochi**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/3bf72a27-9a00-4d02-87f8-b35c1b01fd92/04.png"
 		},
-		"title": "IV - Awake | Beta Content"
+		"title": "IV - Awake"
 	}
 }

@@ -3,26 +3,26 @@
 		"name": "giovanna",
 		"aliases":["grana","witch"],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Giovanna Grana||",
+		"description": "Giovanna Grana",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||Gatti Amari||"
+				"name": "Starting Weapon",
+				"value": "Gatti Amari"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gains +1% Projectile Speed every level||"
+				"name": "Ability",
+				"value": "Gains +1% Projectile Speed every level"
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by opening the **Coffin** in the **Inlaid Library**||"
+				"name": "Unlock",
+				"value": "Unlocked by opening the **Coffin** in the **Inlaid Library**"
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/afc29780-b952-4501-ace5-9ca7be5d5145/Giovanna.gif"
 		},
-		"title": "Giovanna - Beta Content"
+		"title": "Giovanna"
 	}
 }
