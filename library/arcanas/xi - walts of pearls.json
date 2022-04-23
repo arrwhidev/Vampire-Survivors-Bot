@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "xi - walts of pearls",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Listed weapon projectiles gain up to 3 bounces.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reachomg Level 99 with **Imelda**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Magic Wand**, **Holy Wand**, **Fire Wand**, **Hellfire**, **Cross**, **Heaven Sword**, **Carrello**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/64c5ac15-27e6-457f-b24e-7b7db7a431a8/11.png"
+		},
+		"title": "XI - Walts of Pearls | Beta Content"
+	}
+}

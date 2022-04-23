@@ -11,8 +11,8 @@
 		"fields": [
 			{
 				"inline": false,
-				"name": "Reroll",
-				"value": "2"
+				"name": "Max Rank",
+				"value": "4"
 			},
 			{
 				"inline": false,
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Rank 1: Reach level 100 with **Mortaccio**\nRank 2: Reach level 100 with **Yatta Cavallo**\nRank 3: Reach level 100 with **Bianca Ramba**"
+				"value": "Rank 1: Reach level 100 with **Mortaccio**\nRank 2: Reach level 100 with **Yatta Cavallo**\nRank 3: Reach level 100 with **Bianca Ramba**\nRank 4: Reach level 100 with **O'Sole Meeo**"
 			}
 		],
 		"footer": {

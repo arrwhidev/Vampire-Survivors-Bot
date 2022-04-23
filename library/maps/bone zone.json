@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "bone zone",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Come over here and say your unholy vespers.||",
+        "fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||No Pickups. Enemie grow stronger over time. +50% Gold||"
+			},
+            {
+				"inline": false,
+				"name": "||Hyper||",
+				"value": "||+100% Gold | Unlock Hyper mode for 3 stages||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/1e91a868-3dc1-4075-8328-45e1ae11b88d/BoneZone.png"
+		},
+		"title": "The Bone Zone - Beta Content"
+	}
+}

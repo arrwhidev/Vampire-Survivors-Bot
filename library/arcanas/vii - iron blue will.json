@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "vii - iron blue will",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Listed weapon projectiles gain up to 3 bounces and pass through enemies and walls.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reachomg Level 99 with **Gennaro**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Knife**, **Thousand Edge**, **Axe**, **Death Spiral**, **Sparrow The Eight**, **Phiera**, **Carrello**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/0726f731-0fcc-4df6-8bfb-b6c39b43ab39/07.png"
+		},
+		"title": "VII - Iron Blue Will | Beta Content"
+	}
+}

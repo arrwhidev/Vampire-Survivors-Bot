@@ -12,7 +12,7 @@
 			{
 				"inline": false,
 				"name": "Skip",
-				"value": "2"
+				"value": "3"
 			},
 			{
 				"inline": false,
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Rank 1: Survive 30 miuntes in **Green Acres**\nRank 2: Survive 15 miuntes in **Molise**"
+				"value": "Rank 1: Survive 30 miuntes in **Green Acres**\nRank 2: Survive 15 miuntes in **Molise**\nRank 3: Survive 30 miuntes in **The Bone Zone**"
 			}
 		],
 		"footer": {

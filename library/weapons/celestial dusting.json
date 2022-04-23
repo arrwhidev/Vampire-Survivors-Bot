@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "celestial dusting",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Throws a bouncing projectiles. Cooldown reduces when moving.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Best with: Move Speed||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlocks||",
+				"value": "||Very rarely appears after unlocking **O'Sole Meeo**||"
+			},
+			{
+				"inline": false,
+				"name": "||Leveling||",
+				"value": "||(1) Base \n(2) Effect Duration +1s \n(3) Speed +30% \n(4) Damage +5 \n(5) Speed +30% \n(6) Projectiles +1 \n(7) Speed +30% \n(8) Dedeated enemies might drop hearts.||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||<:emptytomeVS:943584187645054997> <:candelabradorVS:943584187624087593> <:bracerVS:956590483482771588> <:wingsVS:943584187779285003> <:spellbinderVS:943584187607314462> <:spinachVS:943584187368230993> <:duplicatorVS:943584187615678494>||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f4ae4c3c-f90a-4f2b-be51-cd110ac7bdc8/Celestial.png"
+		},
+		"title": "Celestial Dusting - Beta Content"
+	}
+}
