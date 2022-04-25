@@ -3,21 +3,21 @@
 		"name": "vii - iron blue will",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Listed weapon projectiles gain up to 3 bounces and pass through enemies and walls.||",
+		"description": "Listed weapon projectiles gain up to 3 bounces and pass through enemies and walls.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reachomg Level 99 with **Gennaro**||"
+				"name": "Unlock",
+				"value": "Unlocked by reachomg Level 99 with **Gennaro**"
 			},
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Works with **Knife**, **Thousand Edge**, **Axe**, **Death Spiral**, **Sparrow The Eight**, **Phiera**, **Carrello**||"
+				"name": "Notes",
+				"value": "Works with **Knife**, **Thousand Edge**, **Axe**, **Death Spiral**, **Sparrow The Eight**, **Phiera**, **Carrello**"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/0726f731-0fcc-4df6-8bfb-b6c39b43ab39/07.png"
 		},
-		"title": "VII - Iron Blue Will | Beta Content"
+		"title": "VII - Iron Blue Will"
 	}
 }

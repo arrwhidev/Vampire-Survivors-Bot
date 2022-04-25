@@ -3,26 +3,26 @@
 		"name": "osole",
 		"aliases":["o'sole", "meeo", "meow"],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||O'Sole Meeo||",
+		"description": "O'Sole Meeo",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||Celestial Dusting||"
+				"name": "Starting Weapon",
+				"value": "Celestial Dusting"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60)||"
+				"name": "Ability",
+				"value": "Gets more projectiles every 20 levels (max+3) (Lvl 60)"
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Defeating a total of 3000 **Dragon Shrimps**||"
+				"name": "Unlock",
+				"value": "Defeating a total of 3000 **Dragon Shrimps**"
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/41fac5bb-eee5-461b-b065-9a810314dc17/Osole.gif"
 		},
-		"title": "O'Sole - Beta Content"
+		"title": "O'Sole"
 	}
 }

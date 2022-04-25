@@ -3,7 +3,7 @@
 		"name": "dragon shrimp",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -11,8 +11,8 @@
 		"fields": [
 			{
 				"inline": true,
-				"name": "Notes - Beta Content",
-				"value": "||Found in the **Gallo Tower**\nTo unlock **O'Sole Meeo** A player needs to kill 3000 of these.||"
+				"name": "Notes",
+				"value": "Found in the **Gallo Tower**\nTo unlock **O'Sole Meeo** A player needs to kill 3000 of these."
 			}
 		],
 		"footer": {
