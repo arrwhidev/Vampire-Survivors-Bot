@@ -67,7 +67,11 @@ func createResponse(content discordgo.MessageEmbed) string {
 	}
 	fields = strings.Replace(fields, "\n", " ", -1)
 	result := fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
-	return strings.Replace(result, "||", "", -1)
+	result = strings.Replace(result, "||", "", -1)
+	if len(result) >= 500 {
+		result = result[:496] + "..."
+	}
+	return result
 }
 
 //Joining initial twitch channels
