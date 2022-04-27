@@ -55,6 +55,7 @@ type LibraryHandler struct {
 	Categories map[string]Embeder
 	Aliases    map[string]string
 	Fuzzy      []string
+	Emotes     map[string]string
 }
 
 func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
@@ -63,6 +64,7 @@ func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 	handler.LoadAliases()
 	handler.LoadHelp()
 	handler.LoadBeta()
+	handler.LoadEmotes()
 	return handler
 }
 
@@ -165,6 +167,20 @@ func (handler *LibraryHandler) LoadBeta() {
 	beta.Content.Fields[0].Value += "||"
 	handler.Library["beta"] = beta
 	fobj.Close()
+}
+
+func (handler *LibraryHandler) LoadEmotes() {
+	emotes := make(map[string]string)
+	fobj, err := os.Open(fmt.Sprintf("%s/emotes.json", handler.Path))
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	data, err := ioutil.ReadAll(fobj)
+	if err != nil {
+		handler.Bot.Logger.Fatal(err)
+	}
+	json.Unmarshal(data, &emotes)
+	handler.Emotes = emotes
 }
 
 func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, bool) {

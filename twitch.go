@@ -50,7 +50,7 @@ func (handler *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 		if strings.HasPrefix(m.Message, ch.Prefix) {
 			args := m.Message[len(ch.Prefix):]
 			if embd, ok := handler.Bot.Library.GetItem(strings.ToLower(args)); ok {
-				handler.Session.Say(m.Channel, createResponse(embd))
+				handler.Session.Say(m.Channel, handler.createResponse(embd))
 				handler.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
 				return
 			}
@@ -60,7 +60,7 @@ func (handler *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 }
 
 //Converts library content to Twitch appropriate message
-func createResponse(content discordgo.MessageEmbed) string {
+func (handler *TwitchHandler) createResponse(content discordgo.MessageEmbed) string {
 	var fields string
 	for _, embed_f := range content.Fields {
 		fields = fields + fmt.Sprintf("%s: %s. ", embed_f.Name, embed_f.Value)
@@ -68,10 +68,19 @@ func createResponse(content discordgo.MessageEmbed) string {
 	fields = strings.Replace(fields, "\n", " ", -1)
 	result := fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
 	result = strings.Replace(result, "||", "", -1)
+	result = handler.convertEmoteToText(result)
 	if len(result) >= 500 {
 		result = result[:496] + "..."
 	}
 	return result
+}
+
+//Converts discord emotes to text for twtich
+func (handler *TwitchHandler) convertEmoteToText(message string) string {
+	for emote, text := range handler.Bot.Library.Emotes {
+		message = strings.Replace(message, emote, text, -1)
+	}
+	return message
 }
 
 //Joining initial twitch channels
