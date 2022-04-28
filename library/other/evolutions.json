@@ -10,12 +10,12 @@
 		"description": "To evolve a weapon, you must have the weapon at max level (level 8) and the associated passive item (any level).\nWeapon evolutions can only be found in chests (dropped by bosses) which **usually** drop from a boss that spawned after the 10-minute mark.",
 		"fields": [
 			{
-				"inline": false,
+				"inline": true,
 				"name": "Evolution List",
 				"value": "||<:axeVS:943585483366232124>+<:candelabradorVS:943584187624087593>=<:deathspiralVS:943844261558906971>\n<:crossVS:943844261164613675>+<:cloverVS:955859382674014218>=<:heavenswordVS:943844261588271105>\n<:sparrowVS:957228119243227216>+<:phieraVS:957228118467313705>+<:tiragisuVS:943584187640856617>=<:phieraggiVS:957228119071285268>\n<:firewandVS:955859505294479380>+<:spinachVS:943584187368230993>=<:hellfireVS:943841866372251679>\n<:garlicVS:943585483412361216>+<:pummarolaVS:943584187607314432>=<:souleaterVS:943841867865411604>\n<:kingbibleVS:943841866972028948>+<:spellbinderVS:943584187607314462>=<:unholyvespersVS:943841868108677150>\n<:knifeVS:943841867177529405>+<:bracerVS:956590483482771588>=<:thousandedgeVS:943841868008030208>\n<:lightningringVS:943841867164958721>+<:duplicatorVS:943584187615678494>=<:thunderloopVS:943841867903160390>||"
 			},
 			{
-				"inline": false,
+				"inline": true,
 				"name": "More Evolutions",
 				"value": "||<:magicwandVS:943841867546644560>+<:emptytomeVS:943584187645054997>=<:holywandVS:943841867081060382>\n<:peachoneVS:943841867496321054>+<:ebonywingsVS:943585483387179118>=<:vandalierVS:943841746394165288>\n<:pentagramVS:943585482963558411>+<:crownVS:943584187645067314>=<:gorgeousmoonVS:951505188915667054>\n<:runetracerVS:943841867479515137>+<:armorVS:943584187611508766>=<:nofutureVS:962051355189596160>\n<:santawaterVS:943841867651514378>+<:attractorbVS:943584187670229042>=<:laborraVS:943841867089469450>\n<:manaVS:948171771964719125>+<:curseVS:946370453763670027>=<:mannajjaVS:948171772233146398>\n<:whipVS:943841868268060742>+<:hollowheartVS:943584187653455912>=<:bloodytearVS:943844261416296478>||"
 			}
