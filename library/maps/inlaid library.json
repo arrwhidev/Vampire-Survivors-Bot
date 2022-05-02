@@ -14,10 +14,15 @@
 				"name": "Available Items",
 				"value": "Empty Tome, Stone Mask"
 			},
+			{
+				"inline": false,
+				"name": "Regular",
+				"value": "+25% Speed"
+			},
             {
 				"inline": false,
 				"name": "Hyper",
-				"value": "+50% Gold, +10% Luck, +65% Speed | Unlocked by defeating the 25 minute boss"
+				"value": " +90% Speed +50% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,

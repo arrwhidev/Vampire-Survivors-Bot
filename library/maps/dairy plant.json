@@ -14,10 +14,15 @@
 				"name": "Available Items",
 				"value": "Attractorb, Wings, Armor, Candelabrador"
 			},
+			{
+				"inline": false,
+				"name": "Regular",
+				"value": "+25% Speed, +20% Gold"
+			},
             {
 				"inline": false,
 				"name": "Hyper",
-				"value": "+50% Gold, +10% Luck, +65% Speed | Unlocked by defeating the 25 minute boss"
+				"value": "+90% Speed, +70% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,

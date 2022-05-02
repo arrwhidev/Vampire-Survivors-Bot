@@ -12,12 +12,17 @@
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "No Pickups. Enemies grow stronger over time. +50% Gold"
+				"value": "No item drops. Enemies grow stronger over time."
+			},
+			{
+				"inline": false,
+				"name": "Regular",
+				"value": "+25% Speed, +50% Gold"
 			},
             {
 				"inline": false,
 				"name": "Hyper",
-				"value": "+100% Gold | Unlock Hyper mode for 3 stages"
+				"value": "+90% Speed, +100% Gold | Unlock Hyper mode for 3 stages"
 			}
 		],
 		"footer": {
