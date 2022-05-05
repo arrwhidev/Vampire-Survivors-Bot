@@ -12,12 +12,12 @@
             {
                 "inline": false,
                 "name": "Part 1:",
-                "value":"||1. Right-Click on Vampire Survivors in Steam > Properties > Local Files and click on 'Browse...' then Go to `vs/resources/app/.webpack/render`\nYou may have to turn on viewing hidden files depending on your Operating System.\n2. Create a backup of `LastRunBackup.sav` (do not mix it up with `LastRunBackup.sav`) and open `LastRunBackup.sav`\n3. Use ctrl+F to search for \"UnlockedCharacters\", where there should be an array of char names ([\"CAMILLO\",\"PORTA\",\"GERMANA\",...])\n4. Add \"FINO\" to the end of that array so it looks like [\"CAMILLO\",\"PORTA\",\"GERMANA\",...,\"FINO\"]\n5. Use ctrl+F to find \"UnlockedCharacters\" and do the same as step 4||"
+                "value":"||1. Right-Click on Vampire Survivors in Steam > Properties > Local Files and click on 'Browse...' then Go to `vs/resources/app/.webpack/render`\nYou may have to turn on viewing hidden files depending on your Operating System.\n2. Create a backup of `LastRunBackup.sav` (do not mix it up with `LastRunBackup.bak.sav`) and open `LastRunBackup.sav`\n3. Use CTRL+F to search for \"UnlockedCharacters\", where there should be an array of char names ([\"CAMILLO\",\"PORTA\",\"GERMANA\",...])\n4. Add \"FINO\" to the end of that array so it looks like [\"CAMILLO\",\"PORTA\",\"GERMANA\",...,\"FINO\"]\n5. Use CTRL+F to find \"UnlockedCharacters\" and do the same as step 4||"
             },
 			{
 				"inline": false,
                 "name": "Part 2",
-                "value": "||6. Search for \"checksum\" and remove the hexadecimal digits after it (so it looks like \"checksum\":\"\").\n7. Copy all the text in the file.\n8. Go to https://emn178.github.io/online-tools/sha256.html and paste the text into the top field.\n9. Copy the new checksum into the quotation marks where you deleted the hexadecimal string in step 6.\n10. Save the file and open Vampire Survivors.\n11. Go to options, and click restore backup.\n12. Check Character :)||"
+                "value": "||6. Search for \"checksum\" and remove the hexadecimal digits after it (so it looks like \"checksum\":\"\").\n7. Copy all the text in the file.\n8. Go to [Online Hash Tool](https://emn178.github.io/online-tools/sha256.html) and paste the text into the top field.\n9. Copy the new checksum into the quotation marks where you deleted the hexadecimal string in step 6.\n10. Save the file and open Vampire Survivors.\n11. Go to options, and click restore backup.\n12. Check Character :)||"
 			}
 		],
 		"footer": {
@@ -25,7 +25,7 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/670101e2-766c-4a19-80b3-fa58d161ada0/missingno.gif"
+			"url": "https://ucarecdn.com/670101e2-766c-4a19-80b3-fa58d161ada0/missingno.gifz"
 		},
 		"title": "Unlock missingNo"
 	}
