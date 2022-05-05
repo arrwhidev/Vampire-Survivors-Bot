@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "missingno",
+		"aliases": [],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "||Randomly Axe or Death Spiral||"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "||Character Stats are randomized each time the character menu is opened. See Stats below.||"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||You will have to modify game files, as there is no way to achieve missingNo in-game anymore.\nUse command '!unlock missingno' for instructions.||"
+			},
+			{
+				"inline": false,
+				"name": "Stats",
+				"value": "||Ranges of the Randomized Stats:\nMax Health: -3 to +97\nRecovery: -0.5 to +1.0\nArmor: +0 to +2\nMoveSpeed: -200% to 0%\nMight: -120% to +100%\nArea: -140% to +260%\nSpeed: -120% to +80%\nDuration: -130% to +170\nAmount: +0 to +2\nCooldown: -120% to +80%\nLuck: -120% to +80%\nGrowth: -120% to +80%\nGreed: -120% to +80%\nCurse: -105% to +95%\nMagnet: -20% to +180%\nRevivals: +0 to +2\n\nIf Max Health is below 0%, missingNo becomes invincible.\nIf MoveSpeed is below -100%, the controls become inverted.\nIf Growth is below -100%, missingNo cannot gain experience.\nIf Curse is below -100%, no enemies will appear at all.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/670101e2-766c-4a19-80b3-fa58d161ada0/missingno.gif"
+		},
+		"title": "missingNo"
+	}
+}

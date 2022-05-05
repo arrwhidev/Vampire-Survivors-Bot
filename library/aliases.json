@@ -226,5 +226,10 @@
     "flower":"celestial dusting",
     "flowers":"celestial dusting",
     "celestial":"celestial dusting",
-    "dusting":"celestial dusting"
+    "dusting":"celestial dusting",
+    "missingn":"missingno",
+    "missingn▯":"missingno",
+    "unlockmissing":"unlock missingno",
+    "unlockmissingn▯":"unlock missingno",
+    "unlock missingn▯":"unlock missingno"
 }
