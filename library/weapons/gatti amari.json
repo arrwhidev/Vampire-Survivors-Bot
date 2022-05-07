@@ -16,6 +16,11 @@
 			},
 			{
 				"inline": false,
+				"name": "||Evolution||",
+				"value": "||Evolves at level 8 with **Stone Mask** to make **Vicious Hunger**||"
+			},
+			{
+				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base \n(2) Speed +20% \n(3) Effect Duration +1.5s \n(4) Speed +20% \n(5) Projectiles +1 \n(6) Effect Duration +1.5s \n(7) Speed +20% \n(8) Projectiles +1"
 			},
