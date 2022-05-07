@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "valkyrie turner",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Evolved **Shadow Pinion**. Bigger, longer, faster, stronger.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Requires **Wings** for evolution.||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||  ||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6923a2e9-97a7-40c8-b2b0-18df9331755e/valkyrie.png"
+		},
+		"title": "Valkyrie Turner - Beta Content"
+	}
+}

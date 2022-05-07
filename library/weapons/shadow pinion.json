@@ -1,0 +1,47 @@
+{
+	"metadata": {
+		"name": "shadow pinion",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Generates damaging zones when moving, strikes when stopping.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Best with move speed.||"
+			},
+            {
+				"inline": false,
+				"name": "||Leveling||",
+				"value": "||(1) Base \n(2) Projectiles +1 \n(3) Damage +5 \n(4) Duration +0.5 \n(5) Damage +5 \n(6) Duration +0.5 \n(7) Damage +5 \n(8) Duration +0.5||"
+			},
+            {
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by surviving 15 minutes with **Concetta**||"
+			},
+            {
+				"inline": false,
+				"name": "||Evolution||",
+				"value": "||Evolves at level 8 with **Wings** To make **Valkyrie Turner**||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "|| ||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/36e73d90-6407-4c87-ac66-edd3de08192c/trapano.gif"
+		},
+		"title": "Shadow Pinion - Beta Content"
+	}
+}

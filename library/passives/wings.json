@@ -13,6 +13,11 @@
 				"inline": false,
 				"name": "Unlocks",
 				"value": "Unlocked by: Reaching Level 5 with any character."
+			},
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Shadow Pinion** to **Valkyrie Turner**"
 			}
 		],
 		"footer": {
@@ -20,7 +25,7 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/deb4c55b-c911-432c-9c44-103ffa3be53c/Wings.png"
+			"url": "https://ucarecdn.com/2f1979a8-0f22-4c36-9ebb-201d6369ce69/Wing.png"
 		},
 		"title": "Wings"
 	}

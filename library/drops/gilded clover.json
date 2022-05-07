@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"name": "gilded clover",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Gathers all gold left on the ground and starts a **Gold Fever**.||",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/2b3db3bc-1db2-4a38-9a1b-52fa8caa1eaf/Gilded0.png"
+		},
+		"title": "Gilded Clover - Beta Content"
+	}
+}

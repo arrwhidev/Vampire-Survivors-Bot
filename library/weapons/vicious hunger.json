@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "vicious hunger",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Evolved **Gatti Amari**. Might turn anything into gold.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Requires **Stone Mask** for evolution.||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "|| ||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6ffee0e7-e6e2-46d6-a1c1-239046e82f92/eyeanim.gif"
+		},
+		"title": "Vicious Hunger - Beta Content"
+	}
+}

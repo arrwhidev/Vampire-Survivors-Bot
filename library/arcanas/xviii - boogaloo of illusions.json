@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "xviii - boogaloo of illusions",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Overall Area continuously changes between -25% and +50% over 10 seconds.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Reach level 99 with **Concetta**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/de74461e-548d-4970-86b1-920a58eef002/18.png"
+		},
+		"title": "XVIII - Boogaloo of Illusions | Beta Content"
+	}
+}
