@@ -3,21 +3,21 @@
 		"name": "vicious hunger",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Evolved **Gatti Amari**. Might turn anything into gold.||",
+		"description": "Evolved **Gatti Amari**. Might turn anything into gold.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Requires **Stone Mask** for evolution.||"
+				"name": "Notes",
+				"value": "Requires **Stone Mask** for evolution."
 			},
 			{
 				"inline": false,
-				"name": "||Synergy With||",
-				"value": "|| ||"
+				"name": "Synergy With",
+				"value": " "
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/6ffee0e7-e6e2-46d6-a1c1-239046e82f92/eyeanim.gif"
 		},
-		"title": "Vicious Hunger - Beta Content"
+		"title": "Vicious Hunger"
 	}
 }

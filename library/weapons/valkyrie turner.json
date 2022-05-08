@@ -3,21 +3,21 @@
 		"name": "valkyrie turner",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Evolved **Shadow Pinion**. Bigger, longer, faster, stronger.||",
+		"description": "Evolved **Shadow Pinion**. Bigger, longer, faster, stronger.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Requires **Wings** for evolution.||"
+				"name": "Notes",
+				"value": "Requires **Wings** for evolution."
 			},
 			{
 				"inline": false,
-				"name": "||Synergy With||",
-				"value": "||  ||"
+				"name": "Synergy With",
+				"value": "  "
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/6923a2e9-97a7-40c8-b2b0-18df9331755e/valkyrie.png"
 		},
-		"title": "Valkyrie Turner - Beta Content"
+		"title": "Valkyrie Turner"
 	}
 }

@@ -3,11 +3,11 @@
 		"name": "gold fever",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||While active - Makes enemies you kill drop gold. Picking up gold extends duration.||",
+		"description": "While active - Makes enemies you kill drop gold. Picking up gold extends duration.",
 		"footer": {
 			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
@@ -15,13 +15,13 @@
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Starts after picking up a **Gilded Clover**\nStarts after picking up gold bags with the **XV Disco of Gold** arcana.||"
+				"name": "Notes",
+				"value": "Starts after picking up a **Gilded Clover**\nStarts after picking up gold bags with the **XV Disco of Gold** arcana."
 			}
 		],
 		"thumbnail": {
 			"url": "https://ucarecdn.com/cbae0e46-e2af-457d-8504-47d178dd235c/coinspingold.gif"
 		},
-		"title": "Gold Fever - Beta Content"
+		"title": "Gold Fever"
 	}
 }

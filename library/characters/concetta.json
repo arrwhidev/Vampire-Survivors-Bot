@@ -3,26 +3,26 @@
 		"name": "concetta",
 		"aliases":["caciotta"],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Concetta Caciotta||",
+		"description": "Concetta Caciotta",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||**Shadow Pinion**||"
+				"name": "Starting Weapon",
+				"value": "**Shadow Pinion**"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gains 1% Area every level.||"
+				"name": "Ability",
+				"value": "Gains 1% Area every level."
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by opening the **Coffin** in the **Gallo Tower**||"
+				"name": "Unlock",
+				"value": "Unlocked by opening the **Coffin** in the **Gallo Tower**"
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/69262de2-3b6c-45a3-ac76-c50ceb03884d/Concetta_i0.gif"
 		},
-		"title": "Concetta - Beta Content"
+		"title": "Concetta"
 	}
 }

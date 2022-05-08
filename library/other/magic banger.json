@@ -3,16 +3,16 @@
 		"name": "magic banger",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Permanently allows to change music in stage selection.||",
+		"description": "Permanently allows to change music in stage selection.",
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Found in the **Inlaid Library**||"
+				"name": "Notes",
+				"value": "Found in the **Inlaid Library**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/149958bb-92a9-4a13-a4dd-f46664fee7c6/banger.png"
 		},
-		"title": "Magic Banger - Beta Content"
+		"title": "Magic Banger"
 	}
 }

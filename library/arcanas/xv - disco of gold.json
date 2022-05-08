@@ -3,16 +3,16 @@
 		"name": "xv - disco of gold",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Picking up coin bags from the floor triggers Gold Fever. Obtaining gold restores as many HP.||",
+		"description": "Picking up coin bags from the floor triggers Gold Fever. Obtaining gold restores as many HP.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Reach minute 31 in the **Inlaid Library**||"
+				"name": "Unlock",
+				"value": "Reach minute 31 in the **Inlaid Library**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/f12bbd68-137e-49dd-a6b7-4b1150ed507e/15.png"
 		},
-		"title": "XV - Disco of Gold | Beta Content"
+		"title": "XV - Disco of Gold"
 	}
 }
