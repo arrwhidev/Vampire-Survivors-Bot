@@ -12,7 +12,7 @@
             {
                 "inline": false,
                 "name": "Part 1:",
-                "value":"||1. Right-Click on Vampire Survivors in Steam > Properties > Local Files and click on 'Browse...' then Go to `vs/resources/app/.webpack/render`\nYou may have to turn on viewing hidden files depending on your Operating System.\n2. Create a backup of `LastRunBackup.sav` (do not mix it up with `LastRunBackup.bak.sav`) and open `LastRunBackup.sav`\n3. Use CTRL+F to search for \"UnlockedCharacters\", where there should be an array of char names ([\"CAMILLO\",\"PORTA\",\"GERMANA\",...])\n4. Add \"FINO\" to the end of that array so it looks like [\"CAMILLO\",\"PORTA\",\"GERMANA\",...,\"FINO\"]\n5. Use CTRL+F to find \"UnlockedCharacters\" and do the same as step 4||"
+                "value":"||1. Right-Click on Vampire Survivors in Steam > Properties > Local Files and click on 'Browse...' then Go to `vs/resources/app/.webpack/render`\nYou may have to turn on viewing hidden files depending on your Operating System.\n2. Create a backup of `LastRunBackup.sav` (do not mix it up with `LastRunBackup.bak.sav`) and open `LastRunBackup.sav`\n3. Use CTRL+F to search for \"UnlockedCharacters\", where there should be an array of char names ([\"CAMILLO\",\"PORTA\",\"GERMANA\",...])\n4. Add \"FINO\" to the end of that array so it looks like [\"CAMILLO\",\"PORTA\",\"GERMANA\",...,\"FINO\"]\n5. Use CTRL+F to find \"BoughtCharacters\" and do the same as step 4||"
             },
 			{
 				"inline": false,
