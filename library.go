@@ -65,11 +65,11 @@ type LibraryHandler struct {
 func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
 	h := &LibraryHandler{Path: "library"}
 	h.EmoteRegex = regexp.MustCompile(`<&([^<>&]*)&>`)
+	h.LoadEmotes()
 	h.LoadLibrary()
 	h.LoadAliases()
 	h.LoadHelp()
 	h.LoadBeta()
-	h.LoadEmotes()
 	return h
 }
 
@@ -206,7 +206,6 @@ func (h *LibraryHandler) ConvertEmotes(input *DbItem) (discord *DbItem, twitch *
 	copier.Copy(&discord, &input)
 	discord.Content.Fields = make([]*discordgo.MessageEmbedField, 0)
 	copier.Copy(twitch, input)
-	//copier.Copy(twitch.Content, input.Content)
 	twitch.Content.Fields = make([]*discordgo.MessageEmbedField, 0)
 
 	discord.Content.Description = h.EmoteRegex.ReplaceAllStringFunc(input.Content.Description, h.EmoteDiscord)
