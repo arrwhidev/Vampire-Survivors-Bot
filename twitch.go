@@ -15,43 +15,43 @@ type TwitchHandler struct {
 }
 
 func MakeTwitchHandler(bot *VampBot) *TwitchHandler {
-	handler := &TwitchHandler{Bot: bot}
-	handler.Session = twitch.NewClient(bot.Creds.TName, bot.Creds.TToken)
-	handler.Session.OnPrivateMessage(handler.twitchMessage)
-	handler.JoinInitialChans()
-	return handler
+	h := &TwitchHandler{Bot: bot}
+	h.Session = twitch.NewClient(bot.Creds.TName, bot.Creds.TToken)
+	h.Session.OnPrivateMessage(h.twitchMessage)
+	h.JoinInitialChans()
+	return h
 }
 
-func (handler *TwitchHandler) Start() {
-	go handler.Session.Connect()
-	handler.Bot.Logger.Println("[SETUP] Connecting to Twitch")
+func (h *TwitchHandler) Start() {
+	go h.Session.Connect()
+	h.Bot.Logger.Println("[SETUP] Connecting to Twitch")
 }
 
-func (handler *TwitchHandler) Stop() {
-	handler.Session.Disconnect()
+func (h *TwitchHandler) Stop() {
+	h.Session.Disconnect()
 }
 
 var IsTChan = regexp.MustCompile(`[^0-9]`).FindString
 
 //Handles incoming twitch messages
-func (handler *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
+func (h *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 	//Checking self channel for join requests
-	if strings.EqualFold(m.Channel, handler.Bot.Creds.TName) {
+	if strings.EqualFold(m.Channel, h.Bot.Creds.TName) {
 		if m.Message == "!biteme" || m.Message == "!setvamp" {
-			ch, _ := handler.Bot.Database.CreateChan(strings.ToLower(m.User.Name), "!")
-			handler.Bot.Database.Chans[strings.ToLower(m.User.Name)] = ch
-			handler.Session.Join(strings.ToLower(m.User.Name))
-			handler.Session.Say(m.Channel, fmt.Sprintf("Ouch! You've been bitten! I will now respond to commands in %v!", m.User.Name))
+			ch, _ := h.Bot.Database.CreateChan(strings.ToLower(m.User.Name), "!")
+			h.Bot.Database.Chans[strings.ToLower(m.User.Name)] = ch
+			h.Session.Join(strings.ToLower(m.User.Name))
+			h.Session.Say(m.Channel, fmt.Sprintf("Ouch! You've been bitten! I will now respond to commands in %v!", m.User.Name))
 		}
 		return
 	}
 	//Regular commands
-	if ch, ok := handler.Bot.Database.Chans[m.Channel]; ok {
+	if ch, ok := h.Bot.Database.Chans[m.Channel]; ok {
 		if strings.HasPrefix(m.Message, ch.Prefix) {
 			args := m.Message[len(ch.Prefix):]
-			if embd, ok := handler.Bot.Library.GetItem(strings.ToLower(args)); ok {
-				handler.Session.Say(m.Channel, handler.createResponse(embd))
-				handler.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
+			if embd, ok := h.Bot.Library.GetItem(strings.ToLower(args), true); ok {
+				h.Session.Say(m.Channel, h.createResponse(embd))
+				h.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
 				return
 			}
 		}
@@ -60,7 +60,7 @@ func (handler *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 }
 
 //Converts library content to Twitch appropriate message
-func (handler *TwitchHandler) createResponse(content discordgo.MessageEmbed) string {
+func (h *TwitchHandler) createResponse(content discordgo.MessageEmbed) string {
 	var fields string
 	for _, embed_f := range content.Fields {
 		fields = fields + fmt.Sprintf("%s: %s. ", embed_f.Name, embed_f.Value)
@@ -68,29 +68,20 @@ func (handler *TwitchHandler) createResponse(content discordgo.MessageEmbed) str
 	fields = strings.Replace(fields, "\n", " ", -1)
 	result := fmt.Sprintf("%s: %s | %s", content.Title, content.Description, fields)
 	result = strings.Replace(result, "||", "", -1)
-	result = handler.convertEmoteToText(result)
 	if len(result) >= 500 {
 		result = result[:496] + "..."
 	}
 	return result
 }
 
-//Converts discord emotes to text for twtich
-func (handler *TwitchHandler) convertEmoteToText(message string) string {
-	for emote, text := range handler.Bot.Library.Emotes {
-		message = strings.Replace(message, emote, text, -1)
-	}
-	return message
-}
-
 //Joining initial twitch channels
-func (handler *TwitchHandler) JoinInitialChans() {
-	for k := range handler.Bot.Database.Chans {
+func (h *TwitchHandler) JoinInitialChans() {
+	for k := range h.Bot.Database.Chans {
 		//Trying to join non-discord channels
 		if IsTChan(k) != "" {
-			handler.Session.Join(k)
+			h.Session.Join(k)
 		}
 	}
 	//Joining self channel
-	handler.Session.Join(handler.Bot.Creds.TName)
+	h.Session.Join(h.Bot.Creds.TName)
 }

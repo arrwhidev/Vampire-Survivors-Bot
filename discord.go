@@ -18,52 +18,52 @@ func MakeDiscordHandler(bot *VampBot) *DiscordHandler {
 	if err != nil {
 		bot.Logger.Fatal(err)
 	}
-	handler := &DiscordHandler{Bot: bot, Session: dg}
-	dg.AddHandler(handler.messageCreate)
+	h := &DiscordHandler{Bot: bot, Session: dg}
+	dg.AddHandler(h.messageCreate)
 	dg.Identify.Intents = discordgo.IntentsGuilds | discordgo.IntentsGuildMembers | discordgo.IntentsGuildMessages
-	return handler
+	return h
 }
 
-func (handler *DiscordHandler) Start() {
-	err := handler.Session.Open()
+func (h *DiscordHandler) Start() {
+	err := h.Session.Open()
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
-	handler.Bot.Logger.Println("[SETUP] Connected to Discord")
+	h.Bot.Logger.Println("[SETUP] Connected to Discord")
 }
 
-func (handler *DiscordHandler) Stop() {
-	handler.Session.Close()
+func (h *DiscordHandler) Stop() {
+	h.Session.Close()
 }
 
 //Handles messages
-func (handler *DiscordHandler) messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
+func (h *DiscordHandler) messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if m.Author.ID == s.State.User.ID {
 		return
 	}
 	//Admin commands
 	if admin, _ := IsAdmin(s, m); admin {
 		if strings.HasPrefix(m.Content, "!setvamp") {
-			ch, _ := handler.Bot.Database.CreateChan(m.ChannelID, "!")
-			handler.Bot.Database.Chans[m.ChannelID] = ch
-			if _, ok := handler.Bot.Database.Guilds[m.GuildID]; !ok {
-				handler.Bot.Database.Guilds[m.GuildID] = true
-				handler.Bot.Database.CreateGuild(m.GuildID)
+			ch, _ := h.Bot.Database.CreateChan(m.ChannelID, "!")
+			h.Bot.Database.Chans[m.ChannelID] = ch
+			if _, ok := h.Bot.Database.Guilds[m.GuildID]; !ok {
+				h.Bot.Database.Guilds[m.GuildID] = true
+				h.Bot.Database.CreateGuild(m.GuildID)
 			}
 			s.ChannelMessageSend(m.ChannelID, "Hello! I will now respond to commands here! Try `!garlic`")
 			return
 		}
 	}
 	//Regular commands
-	if ch, ok := handler.Bot.Database.Chans[m.ChannelID]; ok {
+	if ch, ok := h.Bot.Database.Chans[m.ChannelID]; ok {
 		if strings.HasPrefix(m.Content, ch.Prefix) {
 			args := m.Content[len(ch.Prefix):]
-			if embd, ok := handler.Bot.Library.GetItem(strings.ToLower(args)); ok {
+			if embd, ok := h.Bot.Library.GetItem(strings.ToLower(args), false); ok {
 				err := SendEmbed(s, m.ChannelID, embd)
 				if err != nil {
-					handler.Bot.Logger.Printf("[CMD] Command %s Failed! %v", args, err)
+					h.Bot.Logger.Printf("[CMD] Command %s Failed! %v", args, err)
 				} else {
-					handler.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
+					h.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
 				}
 				return
 			}

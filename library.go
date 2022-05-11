@@ -5,9 +5,11 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"regexp"
 	"strings"
 
 	"github.com/bwmarrin/discordgo"
+	"github.com/jinzhu/copier"
 	"github.com/sahilm/fuzzy"
 )
 
@@ -51,56 +53,60 @@ func (item *DbItem) Beta() bool {
 type LibraryHandler struct {
 	Bot        *VampBot
 	Path       string
-	Library    map[string]Embeder
+	DLibrary   map[string]Embeder
+	TLibrary   map[string]Embeder
 	Categories map[string]Embeder
 	Aliases    map[string]string
 	Fuzzy      []string
 	Emotes     map[string]string
+	EmoteRegex *regexp.Regexp
 }
 
 func MakeLibraryHandler(bot *VampBot) *LibraryHandler {
-	handler := &LibraryHandler{Path: "library"}
-	handler.LoadLibrary()
-	handler.LoadAliases()
-	handler.LoadHelp()
-	handler.LoadBeta()
-	handler.LoadEmotes()
-	return handler
+	h := &LibraryHandler{Path: "library"}
+	h.EmoteRegex = regexp.MustCompile(`<&([^<>&]*)&>`)
+	h.LoadLibrary()
+	h.LoadAliases()
+	h.LoadHelp()
+	h.LoadBeta()
+	h.LoadEmotes()
+	return h
 }
 
-func (handler *LibraryHandler) LoadLibrary() {
-	handler.Library = make(map[string]Embeder)
-	handler.Categories = make(map[string]Embeder)
-	handler.Fuzzy = make([]string, 0)
-	dirs, err := ioutil.ReadDir(handler.Path)
+func (h *LibraryHandler) LoadLibrary() {
+	h.TLibrary = make(map[string]Embeder)
+	h.DLibrary = make(map[string]Embeder)
+	h.Categories = make(map[string]Embeder)
+	h.Fuzzy = make([]string, 0)
+	dirs, err := ioutil.ReadDir(h.Path)
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	for _, dir := range dirs {
 		if !dir.IsDir() || len(dir.Name()) <= 3 {
 			continue
 		}
 		category := &Category{Name: dir.Name(), Content: &discordgo.MessageEmbed{}}
-		files, err := ioutil.ReadDir(fmt.Sprintf("%s/%s", handler.Path, dir.Name()))
+		files, err := ioutil.ReadDir(fmt.Sprintf("%s/%s", h.Path, dir.Name()))
 		if err != nil {
-			handler.Bot.Logger.Fatal(err)
+			h.Bot.Logger.Fatal(err)
 		}
 		for _, file := range files {
-			fobj, err := os.Open(fmt.Sprintf("%s/%s/%s", handler.Path, dir.Name(), file.Name()))
+			fobj, err := os.Open(fmt.Sprintf("%s/%s/%s", h.Path, dir.Name(), file.Name()))
 			if err != nil {
-				handler.Bot.Logger.Fatal(err)
+				h.Bot.Logger.Fatal(err)
 			}
 			data, err := ioutil.ReadAll(fobj)
 			if err != nil {
-				handler.Bot.Logger.Fatal(err)
+				h.Bot.Logger.Fatal(err)
 			}
 			if strings.EqualFold(file.Name(), ".category") {
 				json.Unmarshal(data, category.Content)
 			} else if strings.HasSuffix(file.Name(), ".json") {
 				item := &DbItem{}
 				json.Unmarshal(data, item)
-				handler.Library[item.Metadata.Name] = item
-				handler.Fuzzy = append(handler.Fuzzy, item.Metadata.Name)
+				h.DLibrary[item.Metadata.Name], h.TLibrary[item.Metadata.Name] = h.ConvertEmotes(item)
+				h.Fuzzy = append(h.Fuzzy, item.Metadata.Name)
 				if item.Metadata.Spoiler || item.Metadata.Beta {
 					category.Content.Fields[0].Value += fmt.Sprintf("||%s||, ", item.Metadata.Name)
 				} else {
@@ -109,98 +115,154 @@ func (handler *LibraryHandler) LoadLibrary() {
 			}
 			fobj.Close()
 		}
-		handler.Fuzzy = append(handler.Fuzzy, category.Name)
-		handler.Library[category.Name] = category
-		handler.Categories[category.Name] = category
+		h.Fuzzy = append(h.Fuzzy, category.Name)
+		item := &DbItem{Content: category.Content}
+		h.DLibrary[category.Name], h.TLibrary[category.Name] = h.ConvertEmotes(item)
+		h.Categories[category.Name] = category
 	}
 }
 
-func (handler *LibraryHandler) LoadAliases() {
-	handler.Aliases = make(map[string]string)
-	fobj, err := os.Open(fmt.Sprintf("%s/aliases.json", handler.Path))
+func (h *LibraryHandler) LoadAliases() {
+	h.Aliases = make(map[string]string)
+	fobj, err := os.Open(fmt.Sprintf("%s/aliases.json", h.Path))
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	data, err := ioutil.ReadAll(fobj)
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
-	json.Unmarshal(data, &handler.Aliases)
+	json.Unmarshal(data, &h.Aliases)
 	fobj.Close()
 }
 
-func (handler *LibraryHandler) LoadHelp() {
+func (h *LibraryHandler) LoadHelp() {
 	help := &DbItem{}
-	fobj, err := os.Open(fmt.Sprintf("%s/help.json", handler.Path))
+	fobj, err := os.Open(fmt.Sprintf("%s/help.json", h.Path))
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	data, err := ioutil.ReadAll(fobj)
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	json.Unmarshal(data, help)
-	for name := range handler.Categories {
+	for name := range h.Categories {
 		help.Content.Fields[1].Value += fmt.Sprintf("%s, ", name)
 	}
 	help.Content.Fields[1].Value += "beta"
-	handler.Library["help"] = help
+	h.DLibrary["help"], h.TLibrary["help"] = h.ConvertEmotes(help)
 	fobj.Close()
 }
 
-func (handler *LibraryHandler) LoadBeta() {
+func (h *LibraryHandler) LoadBeta() {
 	beta := &DbItem{}
-	fobj, err := os.Open(fmt.Sprintf("%s/beta.json", handler.Path))
+	fobj, err := os.Open(fmt.Sprintf("%s/beta.json", h.Path))
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	data, err := ioutil.ReadAll(fobj)
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	json.Unmarshal(data, beta)
-	for name, value := range handler.Library {
+
+	dbeta, tbeta := h.ConvertEmotes(beta)
+
+	for name, value := range h.DLibrary {
 		if value.Beta() {
-			beta.Content.Fields[0].Value += fmt.Sprintf("%s\n", name)
+			dbeta.Content.Fields[0].Value += fmt.Sprintf("%s\n", name)
 		}
 	}
-	beta.Content.Fields[0].Value += "||"
-	handler.Library["beta"] = beta
+	dbeta.Content.Fields[0].Value += "||"
+	h.DLibrary["beta"] = dbeta
+
+	for name, value := range h.TLibrary {
+		if value.Beta() {
+			tbeta.Content.Fields[0].Value += fmt.Sprintf("%s\n", name)
+		}
+	}
+	tbeta.Content.Fields[0].Value += "||"
+	h.TLibrary["beta"] = tbeta
 	fobj.Close()
 }
 
-func (handler *LibraryHandler) LoadEmotes() {
+func (h *LibraryHandler) LoadEmotes() {
 	emotes := make(map[string]string)
-	fobj, err := os.Open(fmt.Sprintf("%s/emotes.json", handler.Path))
+	fobj, err := os.Open(fmt.Sprintf("%s/emotes.json", h.Path))
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	data, err := ioutil.ReadAll(fobj)
 	if err != nil {
-		handler.Bot.Logger.Fatal(err)
+		h.Bot.Logger.Fatal(err)
 	}
 	json.Unmarshal(data, &emotes)
-	handler.Emotes = emotes
+	h.Emotes = emotes
 }
 
-func (handler *LibraryHandler) GetItem(args string) (discordgo.MessageEmbed, bool) {
-	if embed, ok := handler.Library[args]; ok {
+func (h *LibraryHandler) ConvertEmotes(input *DbItem) (discord *DbItem, twitch *DbItem) {
+	discord, twitch = &DbItem{}, &DbItem{}
+	copier.Copy(&discord, &input)
+	discord.Content.Fields = make([]*discordgo.MessageEmbedField, 0)
+	copier.Copy(twitch, input)
+	//copier.Copy(twitch.Content, input.Content)
+	twitch.Content.Fields = make([]*discordgo.MessageEmbedField, 0)
+
+	discord.Content.Description = h.EmoteRegex.ReplaceAllStringFunc(input.Content.Description, h.EmoteDiscord)
+	twitch.Content.Description = h.EmoteRegex.ReplaceAllStringFunc(input.Content.Description, h.EmoteTwitch)
+
+	for _, field := range input.Content.Fields {
+		dfield := &discordgo.MessageEmbedField{
+			Name:   h.EmoteRegex.ReplaceAllStringFunc(field.Name, h.EmoteDiscord),
+			Value:  h.EmoteRegex.ReplaceAllStringFunc(field.Value, h.EmoteDiscord),
+			Inline: field.Inline,
+		}
+		tfield := &discordgo.MessageEmbedField{
+			Name:   h.EmoteRegex.ReplaceAllStringFunc(field.Name, h.EmoteTwitch),
+			Value:  h.EmoteRegex.ReplaceAllStringFunc(field.Value, h.EmoteTwitch),
+			Inline: field.Inline,
+		}
+		discord.Content.Fields = append(discord.Content.Fields, dfield)
+		twitch.Content.Fields = append(twitch.Content.Fields, tfield)
+	}
+	return
+}
+
+func (h *LibraryHandler) EmoteDiscord(input string) string {
+	stripped := input[2 : len(input)-2]
+	if res, ok := h.Emotes[stripped]; ok {
+		return res
+	}
+	return input
+}
+
+func (h *LibraryHandler) EmoteTwitch(input string) string {
+	return input[2 : len(input)-2]
+}
+
+func (h *LibraryHandler) GetItem(args string, twitch bool) (discordgo.MessageEmbed, bool) {
+	lib := &h.DLibrary
+	if twitch {
+		lib = &h.TLibrary
+	}
+	if embed, ok := (*lib)[args]; ok {
 		return *embed.Embed(), true
 	}
-	if key, ok := handler.Aliases[args]; ok {
-		embed := handler.Library[key]
+	if key, ok := h.Aliases[args]; ok {
+		embed := (*lib)[key]
 		return *embed.Embed(), true
 	}
-	if key := handler.FuzzySearch(args); key != "" {
-		embed := *handler.Library[key].Embed()
+	if key := h.FuzzySearch(args); key != "" {
+		embed := *(*lib)[key].Embed()
 		embed.Title = fmt.Sprintf("Did you mean: %s?", embed.Title)
 		return embed, true
 	}
 	return discordgo.MessageEmbed{}, false
 }
 
-func (handler *LibraryHandler) FuzzySearch(args string) (name string) {
-	matches := fuzzy.Find(args, handler.Fuzzy)
+func (h *LibraryHandler) FuzzySearch(args string) (name string) {
+	matches := fuzzy.Find(args, h.Fuzzy)
 	if len(matches) > 0 {
 		return matches[0].Str
 	}
