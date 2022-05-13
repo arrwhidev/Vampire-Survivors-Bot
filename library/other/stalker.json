@@ -12,12 +12,22 @@
 			{
 				"inline": true,
 				"name": "Notes",
-				"value": "Stalks the player for 2 minutes, then leaves.\nDeals 50 damage and moves sporadically.\nImmune to damage and freeze. Vulnerable to Pentagram, Rosary, and Carts.\nCan drop a chest with evolution"
+				"value": "Deals 50 damage and moves sporadically.\nImmune to damage and freeze. Vulnerable to Pentagram, Rosary, and Carts.\nCan drop a chest with evolution"
 			},
             {
 				"inline": true,
-				"name": "Spawning",
-				"value": "Spawns in Dairy Plant and rarely in Green Acres.\n1% at minute 0\n30% at 8 minutes\n30% at 12 minutes"
+				"name": "Dairy Plant",
+				"value": "Spawns in Dairy Plant and stalks the player for 2 minutes. Chances:\n1% at minute 0\n30% at 8 minutes\n30% at 12 minutes"
+			},
+            {
+				"inline": true,
+				"name": "The Bone Zone",
+				"value": "Spawns in The Bone Zone and stalks the player for 1 minute at 10 minutes"
+			},
+			{
+				"inline": true,
+				"name": "Luck",
+				"value": "In the Dairy Plant, chances of stalker spawning are decrease by the player's luck:\nBase Spawn / Luck"
 			}
 		],
 		"footer": {

@@ -29,6 +29,8 @@ Now run the bot using:
 ```
 go run .
 ```
+## Emotes
+In `library/emotes.json` there are emote versions of items and weapons, for Discord this automatically converts to an emotes, but for Twitch it just prints out the item name.
 
 ## Contribute
 This is a community project, everyone is welcome to suggest and make changes, feel free to open issues / pull requests with your proposed changes.
