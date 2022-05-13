@@ -10,14 +10,19 @@
 		"description": "Enemy",
 		"fields": [
 			{
-				"inline": true,
+				"inline": false,
 				"name": "Notes",
-				"value": "The Drowner is an enemy appearing in **Gallo Tower**. It attacks the player with magic attack."
+				"value": "The Drowner is an enemy attacking the player with magic attack. Can drop a chest with evolution."
 			},
             {
-				"inline": true,
+				"inline": false,
 				"name": "Spawning",
-				"value": "1. The Drowner may be summoned by the 25 minute boss. This version can be killed with a rosary or gorgeous moon and drops a chest.\n2. The Drowner spawns on the 30 minute mark 100% of the time. This version cannot be killed."
+				"value": "In Gallo Tower, The Drowner may be spawned by staying below the 25 minute boss.\nIn The Bone Zone, The Drowiner spawns on the 20 minute mark\nIn both Gallo Tower and The Bone Zone, The Drowner spawns on the 30 minute mark."
+			},
+			{
+				"inline": false,
+				"name": "Killing",
+				"value": "If the Drowner spawned before the 30 minute mark, it can be killed by either **Roasry** or **Gorgeous Moon**\nIf the Drowner spawned at the 30 minute mark, it **cannot** be killed."
 			}
 		],
 		"footer": {
