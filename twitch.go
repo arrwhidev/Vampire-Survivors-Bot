@@ -4,18 +4,22 @@ import (
 	"fmt"
 	"regexp"
 	"strings"
+	"time"
 
 	"github.com/bwmarrin/discordgo"
 	"github.com/gempir/go-twitch-irc/v3"
 )
 
+const cooldown = time.Second * 5
+
 type TwitchHandler struct {
-	Bot     *VampBot
-	Session *twitch.Client
+	Bot       *VampBot
+	Session   *twitch.Client
+	Cooldowns map[string]time.Time
 }
 
 func MakeTwitchHandler(bot *VampBot) *TwitchHandler {
-	h := &TwitchHandler{Bot: bot}
+	h := &TwitchHandler{Bot: bot, Cooldowns: make(map[string]time.Time)}
 	h.Session = twitch.NewClient(bot.Creds.TName, bot.Creds.TToken)
 	h.Session.OnPrivateMessage(h.twitchMessage)
 	h.JoinInitialChans()
@@ -47,7 +51,7 @@ func (h *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 	}
 	//Regular commands
 	if ch, ok := h.Bot.Database.Chans[m.Channel]; ok {
-		if strings.HasPrefix(m.Message, ch.Prefix) {
+		if strings.HasPrefix(m.Message, ch.Prefix) && h.CheckCooldown(m.Channel) {
 			args := m.Message[len(ch.Prefix):]
 			if embd, ok := h.Bot.Library.GetItem(strings.ToLower(args), true); ok {
 				h.Session.Say(m.Channel, h.createResponse(embd))
@@ -84,4 +88,21 @@ func (h *TwitchHandler) JoinInitialChans() {
 	}
 	//Joining self channel
 	h.Session.Join(h.Bot.Creds.TName)
+}
+
+//Checking if channel is in cooldown
+func (h *TwitchHandler) CheckCooldown(ch string) bool {
+	now := time.Now()
+	if time, ok := h.Cooldowns[ch]; ok {
+		diff := now.Sub(time)
+		if diff > cooldown {
+			h.Cooldowns[ch] = now
+			return true
+		} else {
+			return false
+		}
+	} else {
+		h.Cooldowns[ch] = now
+		return true
+	}
 }
