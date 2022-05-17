@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Unlock characters by opening the coffin!",
+		"description": "Unlock characters by opening the coffin!\nDefeat all the guards and touch the coffin to open.",
 		"footer": {
 			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
