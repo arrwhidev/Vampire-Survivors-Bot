@@ -32,7 +32,12 @@
 			{
 				"inline": false,
 				"name": "Pickups",
-				"value": "<&Floor Chicken&> - Increases damage\n<&Little Clover&> - Increases Cat Speed\n<&NFT&> - Kills Cat\n<&Orologion&> - Freezes Cat\n<&Attractorb&> - Uses Vacuum"
+				"value": "<&Floor Chicken&> - Increases damage\n<&Little Clover&> - Increases Cat Speed\n<&NFT&> - Kills Cat\n<&Orologion&> - Freezes Cat"
+			},
+			{
+				"inline": false,
+				"name": "Luck",
+				"value": "Luck affects the cats in several ways:\n- It increases the chance for the cats to attack enemies.\n- It decreases the chance for the cats to attack the player.\n- It increases the chance for them to start a scuffle.\n- It increases the chance of Pickups that aren't beneficial to the cats being used by the player instead."
 			}
 		],
 		"footer": {
