@@ -32,7 +32,7 @@
 			{
 				"inline": false,
 				"name": "Pickups",
-				"value": "**Floor Chicken** - Increases damage\n**Little Clover** - Increases Cat Speed\n**NFT** - Kills Cat\n**Orologion** - Freezes Cat"
+				"value": "<&Floor Chicken&> - Increases damage\n<&Little Clover&> - Increases Cat Speed\n<&NFT&> - Kills Cat\n<&Orologion&> - Freezes Cat\n<&Attractorb&> - Uses Vacuum"
 			}
 		],
 		"footer": {
