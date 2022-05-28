@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Freezs all enemies for 10 seconds.\nAffected by duration.\nDrops from light sources.\nDroprate affected by Luck.",
+		"description": "Freezes all enemies for 10 seconds.\nAffected by duration.\nDrops from light sources.\nDrop rate affected by Luck.",
         "fields": [
 			{
 				"inline": false,

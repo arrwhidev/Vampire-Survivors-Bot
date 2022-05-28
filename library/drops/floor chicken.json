@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Restores 30 HP.\nDrops from light sources.\nDroprate affected by Luck.",
+		"description": "Restores 30 HP.\nDrops from light sources.\nDrop rate affected by Luck.",
         "fields": [
 			{
 				"inline": false,

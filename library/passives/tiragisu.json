@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Revives once with 50% heatlh.",
+		"description": "Revives once with 50% health.",
 		"fields": [
 			{
 				"inline": false,
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Leveling",
-				"value": "(1) Revives once with 50% heatlh. \n(2) Gains one more revive"
+				"value": "(1) Revives once with 50% health. \n(2) Gains one more revive"
 			}
 		],
 		"footer": {

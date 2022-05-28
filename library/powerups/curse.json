@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Increases enemy speed, health, quantitiy, and frequency by 10% per rank (max +50%)",
+		"description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)",
 		"fields": [
 			{
 				"inline": false,

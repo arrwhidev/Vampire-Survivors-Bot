@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Destroys all enemies in sight.\nDrops from lightsources\nDroprate affected by Luck.",
+		"description": "Destroys all enemies in sight.\nDrops from light sources\nDrop rate affected by Luck.",
 		"fields": [
 			{
 				"inline": false,
