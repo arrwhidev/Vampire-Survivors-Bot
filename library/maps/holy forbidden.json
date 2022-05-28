@@ -17,7 +17,7 @@
             {
                 "inline": false,
 				"name": "||Yellow Sign||",
-				"value": "||After going all the way through the corridor the player will get **Yellow Sign**, the the player did not reach it within 5 minutes, the stage will close.||"
+				"value": "||After going all the way through the corridor the player will get **Yellow Sign**, if the player did not reach it within 5 minutes, the stage will close.||"
             }
 		],
 		"footer": {
