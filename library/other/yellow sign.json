@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "yellow sign",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Permanently allows to detect hidden items in all stages.||",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Can be found in **Holy Forbidden**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/8ca1f3b8-1596-4718-8505-b5817c7dd236/frameG.png"
+		},
+		"title": "Yellow Sign"
+	}
+}

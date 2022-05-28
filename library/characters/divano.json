@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "divano",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Divano Thelma",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Laurel"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Starts with 1 extra level. Gains +1 armor every 5 levels (max +5)."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Obtain the **Crimson Shroud**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/9a8fdc73-0e48-4429-b2e1-e721c2046dae/Divano.gif"
+		},
+		"title": "Divano"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "marrabbio",
+		"aliases":["boon"],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Thousand Edge||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Eat a total of 100 floor chickens across all runs.\nPlay Mad Forest and grab the Pummarola and Skull O'Maniac pickups on the map.\nPies should start spawning at a fixed offset from your position, but only if you have eaten the 100 chickens total.\nFollowing them should lead you to the boss akin to a breadcrumb trail.\nA dark tinted mage boss spawns to the northwest of the Skull pickup.\nKill it to unlock the new secret character.\nThe boss does not teleport after you (also similar to Leda) but will walk towards you even if you are far away.\nIt is immune to instant-kills and freezing so make sure you have decent damage output.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6c325dea-5563-44a4-8be2-100647f11017/Marrabbio.gif"
+		},
+		"title": "Boon Marrabbio"
+	}
+}

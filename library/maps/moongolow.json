@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "moongolow",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "When the moon is red and bright, the remnants of a town swallowed by the sea come back to the surface, bringing mysteries and riches.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Time Limit 15:00, Extra stage items"
+			},
+            {
+				"inline": false,
+				"name": "Available Items",
+				"value": "Hollow Heart, Pummarola, Armor, Wings, Spinach, Bracer, Spellbinder, Candelabrador, Empty Tome, Duplicator, Tiragisú, Attractorb, Clover, Crown, Stone Mask, Skull O'Maniac"
+			},
+			{
+				"inline": false,
+				"name": "Regular",
+				"value": "+35% Speed"
+			},
+            {	"inline": false,
+				"name": "Hyper",
+				"value": "+100% Speed, +50% Gold, +20% Luck, Enemy Health +60% | Unlocked by unlocking hyper for 4 normal stages"
+			},
+			{	"inline": false,
+				"name": "Spoiler Warning!",
+				"value": "||If you kill the 15 minute boss, You will unlock **Holy Forbidden** and get telported to it.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ec4c2a36-38d4-489b-b248-cf0ad7ec1bb0/stage_water.png"
+		},
+		"title": "Moongolow"
+	}
+}

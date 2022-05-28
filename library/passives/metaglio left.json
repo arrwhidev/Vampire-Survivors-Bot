@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "metaglio left",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Channels dark powers to protect the bearer.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Laurel** to **Crimson Shroud**"
+			},
+            {
+				"inline": false,
+				"name": "Notes",
+				"value": "First level gives no stats. Each other level gives +0.1 Recovery, +5% Max Health. Max 9 levels."
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "Can be picked up from the map after obtaining **Yellow Sign**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a4f17f3b-b5f7-4ce5-96a4-4cda1ef7a3ff/bsleft.png"
+		},
+		"title": "Metaglio Left"
+	}
+}

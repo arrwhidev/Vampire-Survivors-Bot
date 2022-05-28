@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "golden egg",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Permanently improves a random stat for the current character, by a tiny amount.",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Can be bought from the **Merchant** for 10,000 gold."
+			},
+            {
+				"inline": true,
+				"name": "Drops",
+				"value": "One is dropped from killing enemies that guards the four secret passive items and five are dropped from killing Death with **Infinite Corridor**."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/026d39b7-5d37-4543-a837-b599c6ca822f/goldenegg.png"
+		},
+		"title": "Golden Egg"
+	}
+}

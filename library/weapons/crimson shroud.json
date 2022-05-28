@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "crimson shroud",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of the Laurel. Caps incoming damage at 10. Retaliates when losing charges.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Requires Level 9 **Metaglio Left** and Level 9 **Metaglio Right** for evolution."
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Spinach&> <&Armor&>"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/fcc22946-de3a-47ff-9509-89f62d5e5310/cape.png"
+		},
+		"title": "Crimson Shroud"
+	}
+}

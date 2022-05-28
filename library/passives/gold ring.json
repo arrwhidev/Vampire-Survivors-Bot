@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "gold ring",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "... With ... Lancet",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Lancet** to **Infinite Corridor**"
+			},
+            {
+				"inline": false,
+				"name": "Notes",
+				"value": "First level gives no stats. Each other level gives +5% Curse. Max 9 levels."
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "Can be picked up from the map after obtaining **Yellow Sign**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/3ff6db75-6428-4b77-b30e-1391a6283b09/goldring.png"
+		},
+		"title": "Gold Ring"
+	}
+}

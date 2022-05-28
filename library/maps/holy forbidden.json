@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "holy forbidden",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Wait, you can see this too? This isn't right...||",
+        "fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||A hidden stage unlocked by killing the 15 minute boss on **Moongolow** with a non secret character. After obtaining the **Yellow Sign**, this stage is permanently inaccessible.||"
+			},
+            {
+                "inline": false,
+				"name": "||Yellow Sign||",
+				"value": "||After going all the way through the corridor the player will get **Yellow Sign**, the the player did not reach it within 5 minutes, the stage will close.||"
+            }
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/913cbca8-9c93-485f-8f7f-b3954c95a86f/stage_x.png"
+		},
+		"title": "Holy Forbidden"
+	}
+}

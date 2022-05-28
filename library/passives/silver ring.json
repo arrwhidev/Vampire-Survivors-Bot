@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "silver ring",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Wear ... Clock ...",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Lancet** to **Infinite Corridor**"
+			},
+            {
+				"inline": false,
+				"name": "Notes",
+				"value": "First level gives no stats. Each other level gives +5% Duration, +5% Area. Max 9 levels."
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "Can be picked up from the map after obtaining **Yellow Sign**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f750c0fc-bf64-4a10-bbf6-702c131c15ee/silverring.png"
+		},
+		"title": "Silver Ring"
+	}
+}

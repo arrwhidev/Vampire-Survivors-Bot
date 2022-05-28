@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "metaglio right",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Channels dark powers to curse the bearer.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Required to evolve **Laurel** to **Crimson Shroud**"
+			},
+            {
+				"inline": false,
+				"name": "Notes",
+				"value": "First level gives no stats. Each other level gives +5% Curse. Max 9 levels."
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "Can be picked up from the map after obtaining **Yellow Sign**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a7757244-6174-4904-b72d-db13d3573e09/bsright.png"
+		},
+		"title": "Metaglio Right"
+	}
+}

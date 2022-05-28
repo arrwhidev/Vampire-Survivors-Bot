@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "xii - out of bounds",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Freezing enemies generates explosions. Orologions are easier to find.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Unlocked by reaching 31 miuntes in **Gallo Tower**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ad055d6d-d78c-494f-88c0-a700fbc2e45e/12.png"
+		},
+		"title": "XII - Out of Bounds"
+	}
+}

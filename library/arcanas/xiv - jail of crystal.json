@@ -1,23 +1,23 @@
 {
 	"metadata": {
-		"name": "xix - heart of fire",
+		"name": "xiv - jail of crystal",
 		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Fire weapons projectiles explode on impact. Light sources explode. Character explodes when damaged.",
+		"description": "Listed weapons have a chance to freeze enemies.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Unlocked by reaching level 99 with **Arca**"
+				"value": "Unlocked by reachomg Level 99 with **Pasqualina**"
 			},
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "Works with **Fire wand**, **Hellfire**, **Valkyrie Turner** and **Phieraggi**"
+				"value": "Works with **Magic Wand**, **Holy Wand**, **Runetracer**, **NO FUTURE**, **"
 			}
 		],
 		"footer": {
@@ -25,8 +25,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/37df6e74-26f3-4917-b966-0d5f16c058b7/19.png"
+			"url": "https://ucarecdn.com/0e9dbc08-f222-4ffa-a22d-045676678b48/14.png"
 		},
-		"title": "XIX - Heart of Fire"
+		"title": "XIV - Jail of Crystal"
 	}
 }

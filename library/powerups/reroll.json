@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Once per rank, allows to get different choices when leveling up",
+		"description": "Once per rank, allows to get different choices when leveling up and when choosing arcanas.",
 		"fields": [
 			{
 				"inline": false,

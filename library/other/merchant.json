@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "merchant",
+		"aliases":["pantalone"],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "A merchant that sells the player items.",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "The merchant first spawns on **Moongolow**, and after buying **Glass Vizard** will appear in every map."
+			},
+            {
+                "inline":false,
+                "name":"Items",
+                "value":"Golden Egg - 10,000\nGlass Vizard - 10,000 (One time)\nBone - 1000\nCherry Bomb - 1000\nCarrello - 1000\nCelestial Dusting - 1000"
+            }
+		],
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6118dd86-d5b0-4413-aa73-310360e7ce9d/Pantalone.png"
+		},
+		"title": "Merchant"
+	}
+}
