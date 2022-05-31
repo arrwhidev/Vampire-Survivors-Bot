@@ -17,7 +17,7 @@
             {
 				"inline": false,
 				"name": "Leveling",
-				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5 \n(4) Duration +0.5 \n(5) Damage +5 \n(6) Duration +0.5 \n(7) Damage +5 \n(8) Duration +0.5"
+				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5 \n(4) Duration +0.3 \n(5) Damage +5 \n(6) Duration +0.3 \n(7) Damage +5 \n(8) Duration +0.3"
 			},
             {
 				"inline": false,
@@ -32,7 +32,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "tell me and ill put it here :)"
+				"value": "<&Spinach&> <&Spellbinder&> <&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Duplicator&>"
 			}
 		],
 		"footer": {
