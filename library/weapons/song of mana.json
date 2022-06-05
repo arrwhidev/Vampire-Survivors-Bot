@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Leveling",
-				"value": "(1) Base \n(2) Area +100% \n(3) Cooldown -0.8, Duration +0.5 \n(4) Damage +10, Area +25% \n(5) Cooldown -0.8, Duration +0.5 \n(6) Damage +10, Area +25% \n(7) Cooldown -0.8, Duration +0.5 \n(8) Damage +10, Area +25%"
+				"value": "(1) Base \n(2) Area +100% \n(3) Cooldown +0.8, Duration +0.5 \n(4) Damage +10, Area +25% \n(5) Cooldown +0.8, Duration +0.5 \n(6) Damage +10, Area +25% \n(7) Cooldown +0.8, Duration +0.5 \n(8) Damage +10, Area +25%"
 			},
             {
 				"inline": false,
