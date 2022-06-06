@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Ability",
-				"value": "||Permanent +100% Luck, -33 Max Health, -10% MoveSpeed, -10% Area, -50% Speed, -10% Duration, +10% Cooldown.||"
+				"value": "||Permanent +100% Luck, +10% Luck every 10 levels (Max +50%), -33 Max Health, -10% MoveSpeed, -10% Area, -50% Speed, -10% Duration, +10% Cooldown.||"
 			},
 			{
 				"inline": false,
