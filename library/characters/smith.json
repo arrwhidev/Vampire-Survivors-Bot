@@ -16,11 +16,6 @@
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Permanent +100% Luck, +10% Luck every 10 levels (Max +50%), -33 Max Health, -10% MoveSpeed, -10% Area, -50% Speed, -10% Duration, +10% Cooldown.||"
-			},
-			{
-				"inline": false,
 				"name": "||Unlock||",
 				"value": "||1 - Have **Exdash** and **Toastie** Unlocked\n2 - In the main menu, type 'spam' and press start\n3 - In character selection type 'spam' and enter twice\n4 - In stage selection type 'spam' and enter twice\n5 - As soon as you're in-game, type 'humbug'||"
 			}
