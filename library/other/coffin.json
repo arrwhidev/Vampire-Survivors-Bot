@@ -32,6 +32,11 @@
 				"inline": false,
 				"name": "Gallo Tower",
 				"value": "Open the coffin on **Gallo Tower** to unlock **Concetta**"
+			},
+			{
+				"inline": false,
+				"name": "Cappella Magna",
+				"value": "Open the coffin on **Cappella Magna** to unlock **Zi'Assunta**"
 			}
 		],
 		"thumbnail": {

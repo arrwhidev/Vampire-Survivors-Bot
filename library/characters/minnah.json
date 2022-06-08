@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "minnah",
+		"aliases":["mannarah"],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Bloody Tear||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Might, Projectile Speed, Duration, Area, and Cooldown change every minute.||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Recommended to unlock the **VIII - Mad Groove** arcana first.\nIn the **Dairy Plant** Find the cheese yourself or with the arcana.\nAfter picking it up, kill the 7 werewolves that spawn.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e48dbeab-8bde-43cc-a488-707a19fc6bdb/Minnah.gif"
+		},
+		"title": "Minnah Mannarah"
+	}
+}

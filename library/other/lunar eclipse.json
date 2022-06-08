@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "lunar eclipse",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "I don't know what this is",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Please tell me what to write here :D"
+			}
+		],
+		"thumbnail": {
+			"url": "https://ucarecdn.com/d87b1106-8aa1-47c4-a152-b6ea0c3382a3/HitMoon.gif"
+		},
+		"title": "Lunar Eclipse"
+	}
+}
