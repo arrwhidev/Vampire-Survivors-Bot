@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "torronas box",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Cursed item, but inceases Might, Projectile Speed, Duration, and Area",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked by: Hold 6 different weapon evolutions at once"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Increases Might, Projectile Speed, Duration, and Area by 4% \n(2-8) Increases Might, Projectile Speed, Duration, and Area by 3% \n(9)||Increases Curse by 100%||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e5259f04-63a7-45ed-90e7-d8aa6a5c3542/StoneMask.png"
+		},
+		"title": "Torrona's Box"
+	}
+}

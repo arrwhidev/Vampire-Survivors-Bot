@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "fuwalafuwaloo",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Union of **Venta Sacro** and **Bloody Tear**",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Critical hits might generate explosions."
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "Tell me what to put here! :D"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/42affade-68d8-4f5f-b760-3bc937dd74d9/Vandalier.png"
+		},
+		"title": "Fuwalafuwaloo"
+	}
+}

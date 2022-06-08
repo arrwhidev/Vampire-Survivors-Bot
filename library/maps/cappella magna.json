@@ -1,0 +1,47 @@
+{
+	"metadata": {
+		"name": "cappella magna",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Have we gone too far? Could have just camped in the forest with all that chicken, but noooo, we had to chase some random vampire instead.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Available Items",
+				"value": "Duplicator, Crown, Tiragisu"
+			},
+			{
+				"inline": false,
+				"name": "Regular",
+				"value": "+40% Speed, +40% Gold"
+			},
+            {
+				"inline": false,
+				"name": "Hyper",
+				"value": "+100% Speed, +90% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
+			},
+            {
+            	"inline": false,
+				"name": "Unlock",
+				"value": "Deal with the whole lunar eclipse even, starting from **Moongolow**"
+			},
+            {
+            	"inline": false,
+				"name": "Other",
+				"value": "This map contains a **Coffin** used to unlock **Zi'Assunta**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/80090cfc-4173-42f2-ac55-b25a6c17bae2/stage_tower.png"
+		},
+		"title": "Cappella Magna"
+	}
+}

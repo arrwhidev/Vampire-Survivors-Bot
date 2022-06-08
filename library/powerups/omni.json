@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "omni",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Increases Might, Projectile Speed, Duration, and Area by 2% per rank (max 10%)",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Max Rank",
+				"value": "5"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "1000 Coins"
+			},
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value":" Get Torrona's Box to Level 9"
+            }
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/bc81003f-342c-4460-9410-b41dea0fc776/Candelabrador.png"
+		},
+		"title": "Omni - Powerup"
+	}
+}
