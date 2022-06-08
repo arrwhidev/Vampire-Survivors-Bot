@@ -3,7 +3,7 @@
 		"name": "minnah",
 		"aliases":["mannarah"],
 		"spoiler": true,
-		"beta": false
+		"beta": true
 	},
 	"content": {
 		"color": 12846604,
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/e48dbeab-8bde-43cc-a488-707a19fc6bdb/Minnah.gif"
 		},
-		"title": "Minnah Mannarah"
+		"title": "Minnah Mannarah | Beta Content"
 	}
 }

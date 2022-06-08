@@ -7,32 +7,32 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Have we gone too far? Could have just camped in the forest with all that chicken, but noooo, we had to chase some random vampire instead.",
+		"description": "||Have we gone too far? Could have just camped in the forest with all that chicken, but noooo, we had to chase some random vampire instead.||",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
-				"value": "Duplicator, Crown, Tiragisu"
+				"value": "||Duplicator, Crown, Tiragisu||"
 			},
 			{
 				"inline": false,
 				"name": "Regular",
-				"value": "+40% Speed, +40% Gold"
+				"value": "||+40% Speed, +40% Gold||"
 			},
             {
 				"inline": false,
 				"name": "Hyper",
-				"value": "+100% Speed, +90% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
+				"value": "||+100% Speed, +90% Gold, +10% Luck | Unlocked by defeating the 25 minute boss||"
 			},
             {
             	"inline": false,
 				"name": "Unlock",
-				"value": "Deal with the whole lunar eclipse even, starting from **Moongolow**"
+				"value": "||Deal with the whole lunar eclipse even, starting from **Moongolow**||"
 			},
             {
             	"inline": false,
 				"name": "Other",
-				"value": "This map contains a **Coffin** used to unlock **Zi'Assunta**"
+				"value": "||This map contains a **Coffin** used to unlock **Zi'Assunta**||"
 			}
 		],
 		"footer": {
@@ -42,6 +42,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/cb947633-7306-4e28-a905-f0169553f918/stage_chapel.png"
 		},
-		"title": "Cappella Magna"
+		"title": "Cappella Magna | Beta Content"
 	}
 }

@@ -12,17 +12,17 @@
 			{
 				"inline": false,
 				"name": "Starting Weapon",
-				"value": "**Venta Sacro**"
+				"value": "||**Venta Sacro**||"
 			},
 			{
 				"inline": false,
 				"name": "Ability",
-				"value": "Gains +0.5% Might, Projectile Speed, Duration, and Area every level."
+				"value": "||Gains +0.5% Might, Projectile Speed, Duration, and Area every level.||"
 			},
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Unlocked by opening the **Coffin** in the **Cappella Magna**"
+				"value": "||Unlocked by opening the **Coffin** in the **Cappella Magna**||"
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/25119017-c135-4bac-9087-9f5d605cfcbc/Assunta.gif"
 		},
-		"title": "Zi'Assunta"
+		"title": "Zi'Assunta | Beta Content"
 	}
 }

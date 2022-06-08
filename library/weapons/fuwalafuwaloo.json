@@ -7,17 +7,17 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Union of **Venta Sacro** and **Bloody Tear**",
+		"description": "||Union of **Venta Sacro** and **Bloody Tear**||",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "Critical hits might generate explosions."
+				"value": "||Critical hits might generate explosions.||"
 			},
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "Tell me what to put here! :D"
+				"value": "||Tell me what to put here! :D||"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/c0b5afb6-1177-40e5-a64f-90d92b58de59/Whip4.png"
 		},
-		"title": "Fuwalafuwaloo"
+		"title": "Fuwalafuwaloo | Beta Content"
 	}
 }
