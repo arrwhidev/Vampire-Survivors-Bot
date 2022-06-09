@@ -3,36 +3,36 @@
 		"name": "venta sacro",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Stronger with continuous movement. Can deal critical damage.||",
+		"description": "Stronger with continuous movement. Can deal critical damage.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Best with: Luck, Speed.||"
+				"value": "Best with: Luck, Speed."
 			},
 			{
 				"inline": false,
 				"name": "Union",
-				"value": "||Evolves at level 8 with **Bloody Tear** at level 8 to make **Fuwalafuwaloo**||"
+				"value": "Evolves at level 8 with **Bloody Tear** at level 8 to make **Fuwalafuwaloo**"
 			},
 			{
 				"inline": false,
 				"name": "Unlocks",
-				"value": "||Survive 15 minutes with **Zi'Assunta**||"
+				"value": "Survive 15 minutes with **Zi'Assunta**"
 			},
 			{
 				"inline": false,
 				"name": "Leveling",
-				"value": "||(1) Base \n(2) Damage + 1 \n(3) Area +33%, Projectiles +1 \n(4) Damage +1 \n(5) Area +33%, Projectiles +1 \n(6) Damage +1 \n(7) Area +33%, Projectiles +1 \n(8)  Damage +1||"
+				"value": "(1) Base \n(2) Damage + 1 \n(3) Area +33%, Projectiles +1 \n(4) Damage +1 \n(5) Area +33%, Projectiles +1 \n(6) Damage +1 \n(7) Area +33%, Projectiles +1 \n(8)  Damage +1"
 			},
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "||Tell me what to put here :D||"
+				"value": "Tell me what to put here :D"
 			}
 		],
 		"footer": {
@@ -42,6 +42,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/155a5cd8-5bc1-4c09-8ec6-e7087a73f8aa/Whip3.png"
 		},
-		"title": "Venta Sacro | Beta Content"
+		"title": "Venta Sacro"
 	}
 }

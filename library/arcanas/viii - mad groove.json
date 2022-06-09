@@ -3,16 +3,16 @@
 		"name": "viii - mad groove",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Every 2 minutes attracts all standard stage items, pickups, and light sources towards the character||",
+		"description": "Every 2 minutes attracts all standard stage items, pickups, and light sources towards the character",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Unlocked by reaching minute 31 in the **Mad Forest**||"
+				"value": "Unlocked by reaching minute 31 in the **Mad Forest**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/160df5c7-8fe6-4586-9c41-f679556c1ecd/08.png"
 		},
-		"title": "VIII - Mad Groove | Beta Content"
+		"title": "VIII - Mad Groove"
 	}
 }

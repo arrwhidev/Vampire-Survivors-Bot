@@ -3,7 +3,7 @@
 		"name": "lunar eclipse",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,

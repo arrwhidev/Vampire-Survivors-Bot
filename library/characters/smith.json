@@ -3,7 +3,7 @@
 		"name": "smith",
 		"aliases":[],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/a39090cb-4610-4098-9705-673a9557e401/nExdash.gif"
 		},
-		"title": "Smith IV | Beta Content"
+		"title": "Smith IV"
 	}
 }

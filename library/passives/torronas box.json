@@ -3,21 +3,21 @@
 		"name": "torronas box",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Cursed item, but inceases Might, Projectile Speed, Duration, and Area||",
+		"description": "Cursed item, but inceases Might, Projectile Speed, Duration, and Area",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlocks",
-				"value": "||Unlocked by: Hold 6 different weapon evolutions at once||"
+				"value": "Unlocked by: Hold 6 different weapon evolutions at once"
 			},
 			{
 				"inline": false,
 				"name": "Leveling",
-				"value": "||(1) Increases Might, Projectile Speed, Duration, and Area by 4% \n(2-8) Increases Might, Projectile Speed, Duration, and Area by 3% \n(9)Increases Curse by 100%||"
+				"value": "(1) Increases Might, Projectile Speed, Duration, and Area by 4% \n(2-8) Increases Might, Projectile Speed, Duration, and Area by 3% \n(9)Increases Curse by 100%"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/79525230-ba7a-45af-bce2-2e937c9f1ee2/torrone.png"
 		},
-		"title": "Torrona's Box | Beta Content"
+		"title": "Torrona's Box"
 	}
 }

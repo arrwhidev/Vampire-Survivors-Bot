@@ -3,26 +3,26 @@
 		"name": "omni",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Increases Might, Projectile Speed, Duration, and Area by 2% per rank (max 10%)||",
+		"description": "Increases Might, Projectile Speed, Duration, and Area by 2% per rank (max 10%)",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Max Rank",
-				"value": "||5||"
+				"value": "5"
 			},
 			{
 				"inline": false,
 				"name": "Base Price",
-				"value": "||1000 Coins||"
+				"value": "1000 Coins"
 			},
             {
                 "inline": false,
                 "name": "Unlock",
-                "value":"||Get Torrona's Box to Level 9||"
+                "value":"Get Torrona's Box to Level 9"
             }
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/79525230-ba7a-45af-bce2-2e937c9f1ee2/torrone.png"
 		},
-		"title": "Omni - Powerup | Beta Content"
+		"title": "Omni - Powerup"
 	}
 }
