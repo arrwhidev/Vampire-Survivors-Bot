@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"name": "white hand",
+		"aliases":["white death"],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "The white hand spawns after killing Death with **Infinite Corridor**, It is unkillable and will end your run.",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/58635c9e-becc-4518-a935-af3d95de7ca0/WhiteHand.gif"
+		},
+		"title": "White Hand"
+	}
+}

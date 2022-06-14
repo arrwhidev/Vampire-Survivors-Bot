@@ -19,6 +19,11 @@
 				"name": "Dairy Plant",
 				"value": "Spawns in Dairy Plant and stalks the player for 2 minutes. Chances:\n1% at minute 0\n30% at 8 minutes\n30% at 12 minutes"
 			},
+			{
+				"inline": false,
+				"name": "Cappella Magna",
+				"value": "Spawns in Cappella Magna at 10 minutes and stalks the player until killed"
+			},
             {
 				"inline": false,
 				"name": "The Bone Zone",

@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "trickster",
+		"aliases":["pink death"],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemy",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "The Trickster is an enemy attacking the player by summoning fake gems that explode."
+			},
+            {
+				"inline": false,
+				"name": "Spawning",
+				"value": "Spawns in Cappella Magna at the 15 minute mark and attacks the player until killed."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/98ed0628-fc07-4698-a17e-15cac85bc4a7/Trickster.gif"
+		},
+		"title": "Trickster"
+	}
+}
