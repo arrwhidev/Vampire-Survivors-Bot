@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "||Unlock||",
-				"value": "||Eat a total of 100 floor chickens across all runs.\nPlay Mad Forest and grab the Pummarola and Skull O'Maniac pickups on the map.\nPies should start spawning at a fixed offset from your position, but only if you have eaten the 100 chickens total.\nFollowing them should lead you to the boss akin to a breadcrumb trail.\nA dark tinted mage boss spawns to the northwest of the Skull pickup.\nKill it to unlock the new secret character.\nThe boss does not teleport after you (also similar to Leda) but will walk towards you even if you are far away.\nIt is immune to instant-kills and freezing so make sure you have decent damage output.||"
+				"value": "||Prerequisite: Have **Yellow Sign**\nEat a total of 100 floor chickens across all runs.\nPlay Mad Forest and grab the Pummarola and Skull O'Maniac pickups on the map.\nPies should start spawning at a fixed offset from your position, but only if you have eaten the 100 chickens total.\nFollowing them should lead you to the boss akin to a breadcrumb trail.\nA dark tinted mage boss spawns to the northwest of the Skull pickup.\nKill it to unlock the new secret character.\nThe boss does not teleport after you (also similar to Leda) but will walk towards you even if you are far away.\nIt is immune to instant-kills and freezing so make sure you have decent damage output.||"
 			}
 		],
 		"footer": {
