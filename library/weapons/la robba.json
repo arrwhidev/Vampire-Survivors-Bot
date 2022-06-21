@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "la robba",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Generates bouncing projectiles.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Best with: Duration, Speed.||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlocks||",
+				"value": "||Very rarely appears after unlocking **Sir Ambrojoe**||"
+			},
+			{
+				"inline": false,
+				"name": "||Leveling||",
+				"value": "||(1) Base\n(2) Projectiles +1, Duration +0.3\n(3) Damage +10\n(4) Projectiles +1, Duration +0.3\n(5) Damage +10, Speed +50%\n(6) Projectiles +1, Duration +0.3\n(7) Damage +10\n(8) Projectiles +1, Duration +0.3||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||Tell me what to put here :D||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/b0623b80-572b-4d4d-a73b-cc22720898f2/larobba.png"
+		},
+		"title": "La Robba | Beta Content"
+	}
+}

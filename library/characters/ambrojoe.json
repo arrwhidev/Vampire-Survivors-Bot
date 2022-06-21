@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "ambrojoe",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Sir Ambrojoe||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||La Robba||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60). Starts with temporary Amount bonus.||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Defeat a total of 6000 **Stage Killers**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/2be9300f-f3f7-433c-a723-6c3a051ced45/Hat.gif"
+		},
+		"title": "Ambrojoe | Beta Content"
+	}
+}

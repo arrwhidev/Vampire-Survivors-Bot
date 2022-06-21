@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "iii - tragic princess",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||The cooldown of the listed weapons reduces when moving.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching Level 99 with **Porta**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Garlic**, **Soul Eater**, **Lightning Ring**, **Thunder Loop**, **Carrello**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/bed5cb76-baf5-487d-bbe1-e76d14623521/07.png"
+		},
+		"title": "III - Tragic Princess | Beta Content"
+	}
+}

@@ -1,18 +1,18 @@
 {
 	"metadata": {
-		"name": "magic banger",
+		"name": "stage killers",
 		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Permanently allows to change music in stage selection.",
+		"description": "Enemy",
 		"fields": [
 			{
 				"inline": true,
 				"name": "Notes",
-				"value": "Found in the **Green Acres**"
+				"value": "Found in Cappela Magna\nTo unlock **Sir Ambrojoe** A player needs to kill 6000 of these."
 			}
 		],
 		"footer": {
@@ -20,8 +20,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/149958bb-92a9-4a13-a4dd-f46664fee7c6/banger.png"
+			"url": "https://ucarecdn.com/28574271-8e58-4f77-9530-dff54c441baa/stagekillers.gif"
 		},
-		"title": "Magic Banger"
+		"title": "Stage Killers"
 	}
 }

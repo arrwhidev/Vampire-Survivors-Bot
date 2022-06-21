@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Selecting Hurry Mode on the stage selection screen will make the timer go twice as fast in-game",
+		"description": "Selecting Hurry Mode on the stage selection screen will make the timer go twice as fast in-game and gives +25% Growth",
 		"footer": {
 			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"

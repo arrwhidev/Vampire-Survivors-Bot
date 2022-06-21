@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "xx - silent old sanctuary",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Gives +3 Reroll, Skip, and Banish. Gives +20% Might and -8% Cooldown fo each active weapon slot left empty.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching minute 31 in the **Dairy Plant**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c2f49ebb-c292-4177-8848-52107eae1b65/04.png"
+		},
+		"title": "XX - Silent Old Sanctuary"
+	}
+}

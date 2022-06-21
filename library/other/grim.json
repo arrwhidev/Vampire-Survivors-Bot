@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "grim",
+		"aliases":["grimoire"],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Permanently allows to peek at discovered weapon evolutions and unions from the pause menu.||",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Found in the **Inlaid Library||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/a53a3e24-7b3e-48ff-a670-c36e7bb30ff6/grimoire.png"
+		},
+		"title": "Grim Grimoire | Beta Content"
+	}
+}

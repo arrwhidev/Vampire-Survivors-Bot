@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "mindbender",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Permanently allows to change character appearance (where applicable) and maximum weapon loadout.||",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Unlock||",
+				"value": "||Fill 100 entries in the Collection||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/db7e71d8-5ee5-4c86-87f0-3beb45e4e73d/mindbender.png"
+		},
+		"title": "Mindbender | Beta Content"
+	}
+}
