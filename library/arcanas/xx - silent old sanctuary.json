@@ -3,16 +3,16 @@
 		"name": "xx - silent old sanctuary",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Gives +3 Reroll, Skip, and Banish. Gives +20% Might and -8% Cooldown fo each active weapon slot left empty.||",
+		"description": "Gives +3 Reroll, Skip, and Banish. Gives +20% Might and -8% Cooldown fo each active weapon slot left empty.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reaching minute 31 in the **Dairy Plant**||"
+				"name": "Unlock",
+				"value": "Unlocked by reaching minute 31 in the **Dairy Plant**"
 			}
 		],
 		"footer": {

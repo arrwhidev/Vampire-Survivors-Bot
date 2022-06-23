@@ -3,31 +3,31 @@
 		"name": "la robba",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Generates bouncing projectiles.||",
+		"description": "Generates bouncing projectiles.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Best with: Duration, Speed.||"
+				"name": "Notes",
+				"value": "Best with: Duration, Speed."
 			},
 			{
 				"inline": false,
-				"name": "||Unlocks||",
-				"value": "||Very rarely appears after unlocking **Sir Ambrojoe**||"
+				"name": "Unlocks",
+				"value": "Very rarely appears after unlocking **Sir Ambrojoe**"
 			},
 			{
 				"inline": false,
-				"name": "||Leveling||",
-				"value": "||(1) Base\n(2) Projectiles +1, Duration +0.3\n(3) Damage +10\n(4) Projectiles +1, Duration +0.3\n(5) Damage +10, Speed +50%\n(6) Projectiles +1, Duration +0.3\n(7) Damage +10\n(8) Projectiles +1, Duration +0.3||"
+				"name": "Leveling",
+				"value": "(1) Base\n(2) Projectiles +1, Duration +0.3\n(3) Damage +10\n(4) Projectiles +1, Duration +0.3\n(5) Damage +10, Speed +50%\n(6) Projectiles +1, Duration +0.3\n(7) Damage +10\n(8) Projectiles +1, Duration +0.3"
 			},
 			{
 				"inline": false,
-				"name": "||Synergy With||",
-				"value": "||Tell me what to put here :D||"
+				"name": "Synergy With",
+				"value": "Tell me what to put here :D"
 			}
 		],
 		"footer": {
@@ -37,6 +37,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/b0623b80-572b-4d4d-a73b-cc22720898f2/larobba.png"
 		},
-		"title": "La Robba | Beta Content"
+		"title": "La Robba"
 	}
 }

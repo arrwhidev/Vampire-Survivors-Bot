@@ -3,7 +3,7 @@
 		"name": "peppino",
 		"aliases":[],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/777b8bb4-9b4e-4d98-97fd-fc0cd8ab8b80/Peppino.gif"
 		},
-		"title": "Peppino | Beta Content"
+		"title": "Peppino"
 	}
 }

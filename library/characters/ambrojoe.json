@@ -3,26 +3,26 @@
 		"name": "ambrojoe",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Sir Ambrojoe||",
+		"description": "Sir Ambrojoe",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Starting Weapon||",
-				"value": "||La Robba||"
+				"name": "Starting Weapon",
+				"value": "La Robba"
 			},
 			{
 				"inline": false,
-				"name": "||Ability||",
-				"value": "||Gets more projectiles every 20 levels (max+3) (Lvl 60). Starts with temporary Amount bonus.||"
+				"name": "Ability",
+				"value": "Gets more projectiles every 20 levels (max+3) (Lvl 60). Starts with temporary Amount bonus."
 			},
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Defeat a total of 6000 **Stage Killers**||"
+				"name": "Unlock",
+				"value": "Defeat a total of 6000 **Stage Killers**"
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/2be9300f-f3f7-433c-a723-6c3a051ced45/Hat.gif"
 		},
-		"title": "Ambrojoe | Beta Content"
+		"title": "Ambrojoe"
 	}
 }

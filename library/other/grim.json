@@ -3,16 +3,16 @@
 		"name": "grim",
 		"aliases":["grimoire"],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Permanently allows to peek at discovered weapon evolutions and unions from the pause menu.||",
+		"description": "Permanently allows to peek at discovered weapon evolutions and unions from the pause menu.",
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Found in the **Inlaid Library**||"
+				"name": "Notes",
+				"value": "Found in the **Inlaid Library**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/a53a3e24-7b3e-48ff-a670-c36e7bb30ff6/grimoire.png"
 		},
-		"title": "Grim Grimoire | Beta Content"
+		"title": "Grim Grimoire"
 	}
 }

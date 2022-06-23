@@ -3,21 +3,21 @@
 		"name": "iii - tragic princess",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||The cooldown of the listed weapons reduces when moving.||",
+		"description": "The cooldown of the listed weapons reduces when moving.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Unlock||",
-				"value": "||Unlocked by reaching Level 99 with **Porta**||"
+				"name": "Unlock",
+				"value": "Unlocked by reaching Level 99 with **Porta**"
 			},
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Works with **Garlic**, **Soul Eater**, **Lightning Ring**, **Thunder Loop**, **Carrello**||"
+				"name": "Notes",
+				"value": "Works with **Garlic**, **Soul Eater**, **Lightning Ring**, **Thunder Loop**, **Carrello**"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/bab5f883-51d4-40b0-aa9f-efdabfb0d100/03.png"
 		},
-		"title": "III - Tragic Princess | Beta Content"
+		"title": "III - Tragic Princess"
 	}
 }
