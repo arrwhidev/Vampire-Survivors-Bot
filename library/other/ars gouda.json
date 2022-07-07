@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "ars gouda",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Permanently allows to access the list of defeated enemies from the main menu||",
+		"fields": [
+			{
+				"inline": true,
+				"name": "||Notes||",
+				"value": "||Found in the **Dairy Plant**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/b5623109-07cb-401d-8c55-ccf144e0f1f6/bestiary.png"
+		},
+		"title": "Ars Gouda - Beta Content"
+	}
+}

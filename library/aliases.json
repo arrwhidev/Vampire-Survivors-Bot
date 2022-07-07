@@ -286,6 +286,9 @@
 	"xvii": "xvii - lost & found painting",
 	"xviii": "xviii - boogaloo of illusions",
 	"xx": "xx - silent old sanctuary",
+	"o": "o - game killer",
+	"0": "o - game killer",
+	"gamekiller": "o - game killer",
 	"yata": "cavallo",
 	"yatacavallo": "cavallo",
 	"yatacavalo": "cavallo",
@@ -294,5 +297,16 @@
 	"yattacavallo": "cavallo",
 	"zi'assunta": "assunta",
 	"ziassunta": "assunta",
-	"zi assunta": "assunta"
+	"zi assunta": "assunta",
+	"boros":"gains boros",
+	"gains":"gains boros",
+	"gainsboros":"gains boros",
+	"arsgouda": "ars gouda",
+	"gouda": "ars gouda",
+	"bestiary": "ars gouda",
+	"beastiary": "ars gouda",
+	"greatgospel": "great gospel",
+	"gospel": "great gospel",
+	"limit break": "great gospel",
+	"limitbreak": "great gospel"
 }

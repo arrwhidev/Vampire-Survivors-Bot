@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "o - game killer",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Unlocked by defeating the final enemy in the *Cappella Magna**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/14bf38c8-2fb3-45b4-8553-49289fc5de84/00.png"
+		},
+		"title": "O - Game Killer - Beta Content"
+	}
+}
