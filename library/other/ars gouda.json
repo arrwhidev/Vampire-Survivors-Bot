@@ -3,16 +3,16 @@
 		"name": "ars gouda",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Permanently allows to access the list of defeated enemies from the main menu||",
+		"description": "Permanently allows to access the list of defeated enemies from the main menu",
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Found in the **Dairy Plant**||"
+				"name": "Notes",
+				"value": "Found in the **Dairy Plant**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/b5623109-07cb-401d-8c55-ccf144e0f1f6/bestiary.png"
 		},
-		"title": "Ars Gouda - Beta Content"
+		"title": "Ars Gouda"
 	}
 }

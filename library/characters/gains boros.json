@@ -3,7 +3,7 @@
 		"name": "gains boros",
 		"aliases":[],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/60a98cd9-840c-4a8f-8138-2fa9e7119e24/Shrimp.gif"
 		},
-		"title": "Gains Boros - Beta Content"
+		"title": "Gains Boros"
 	}
 }

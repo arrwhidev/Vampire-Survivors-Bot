@@ -3,16 +3,16 @@
 		"name": "great gospel",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.||",
+		"description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
 		"fields": [
 			{
 				"inline": true,
-				"name": "||Notes||",
-				"value": "||Found at the end of **Cappella Magna**||"
+				"name": "Notes",
+				"value": "Found at the end of **Cappella Magna**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/7bc8470c-565d-4aa3-b76f-fde67cdffcc4/ggospel.png"
 		},
-		"title": "||Great Gospel - Beta Content||"
+		"title": "Great Gospel"
 	}
 }

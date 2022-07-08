@@ -3,16 +3,16 @@
 		"name": "o - game killer",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items.||",
+		"description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Unlocked by defeating the final enemy in the *Cappella Magna**||"
+				"value": "Unlocked by defeating the final enemy in the *Cappella Magna**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/14bf38c8-2fb3-45b4-8553-49289fc5de84/00.png"
 		},
-		"title": "O - Game Killer - Beta Content"
+		"title": "O - Game Killer"
 	}
 }
