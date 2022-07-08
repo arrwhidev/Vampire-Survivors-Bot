@@ -17,7 +17,7 @@
             {
 				"inline": false,
 				"name": "Spawning",
-				"value": "In Gallo Tower, The Drowner may be spawned by staying below the 25 minute boss.\nIn The Bone Zone, The Drowner spawns on the 20 minute mark\nIn both Gallo Tower and The Bone Zone, The Drowner spawns on the 30 minute mark.\nIn The Cappella Magna, The Drowner spawns on the 5 minute mark, and is killable."
+				"value": "In Gallo Tower, The Drowner may be spawned by staying below the 25 minute boss.\nIn The Bone Zone, The Drowner spawns on the 20 minute mark\nIn both Gallo Tower and The Bone Zone, The Drowner spawns on the 30 minute mark.\n||In The Cappella Magna, If you have not killed the **Ender**, The Drowner spawns on the 5 minute mark, and is killable.||"
 			},
 			{
 				"inline": false,

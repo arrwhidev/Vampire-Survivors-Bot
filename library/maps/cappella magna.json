@@ -33,6 +33,11 @@
             	"inline": false,
 				"name": "Other",
 				"value": "This map contains a **Coffin** used to unlock **Zi'Assunta**"
+			},
+			{
+				"inline": false,
+				"name": "||Before killing the 30 minute boss||",
+				"value": "||Before completing the level, the **Ender** will spawn on the 30 minute mark, along with the **Drowner** on minute 5, the **Stalker** on minute 10 and the **Trickster** on minute 15. Additionally your eggs will be taken away on minute 4, and the Rings and Arrows will not be available.\nAfter completing the level once, it will go back to normal.||"
 			}
 		],
 		"footer": {

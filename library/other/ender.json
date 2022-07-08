@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "ender",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Boss||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||The Ender is a boss that spawns at the end of **Cappella Magna**, after killing it, it won't spawn again and the level will revert to it's simpler form.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/2e9ea604-e2d8-43f7-9d0f-904cecc74a48/ender.gif"
+		},
+		"title": "Ender"
+	}
+}

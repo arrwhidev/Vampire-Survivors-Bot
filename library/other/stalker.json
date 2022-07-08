@@ -21,8 +21,8 @@
 			},
 			{
 				"inline": false,
-				"name": "Cappella Magna",
-				"value": "Spawns in Cappella Magna at 10 minutes and stalks the player until killed"
+				"name": "||Cappella Magna||",
+				"value": "||If you have not killed the **Ender**, Spawns in Cappella Magna at 10 minutes and stalks the player until killed||"
 			},
             {
 				"inline": false,

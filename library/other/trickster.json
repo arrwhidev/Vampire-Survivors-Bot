@@ -17,7 +17,7 @@
             {
 				"inline": false,
 				"name": "Spawning",
-				"value": "Spawns in Cappella Magna at the 15 minute mark and attacks the player until killed."
+				"value": "||If you have not killed the **Ender**, spawns in Cappella Magna at the 15 minute mark and attacks the player until killed.||"
 			}
 		],
 		"footer": {
