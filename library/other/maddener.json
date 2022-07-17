@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "maddener",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemy",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Cappella Magna",
+				"value": "The Maddener shows up at the start of Cappella Magna and acts like the **Stalker**"
+			},
+            {
+				"inline": false,
+				"name": "||Holy Forbidden||",
+				"value": "||The Maddener spawns enemies against the player, and at the end of the stage shows his true form||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/279a58ff-13e3-4a91-ade6-bf2299cee251/Maddener.gif"
+		},
+		"title": "Maddener"
+	}
+}
