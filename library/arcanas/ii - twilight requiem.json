@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "ii - twilight requiem",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Listed weapon projectiles generate explosions when they expire.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Unlocked by reaching Level 99 with **Dommario**||"
+			},
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Works with: Holy Bible, Uhholy Vespers, Peachone, Ebony Wings, Runetracer, Shadow Pinion, Bone, Celestial Dusting||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/85e8a3be-9c2d-488f-b04a-6697adb1a171/02.png"
+		},
+		"title": "II - Twilight Requiem | Beta Content"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "zhar ptysia",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Bombards in a circling zone.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Ebony Wings's Counterpart, obtained through **I - Gemini**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/753280c7-cc9f-4d42-ace7-289586585f65/Silf2_counter.png"
+		},
+		"title": "Zhar Ptysia | Beta Content"
+	}
+}

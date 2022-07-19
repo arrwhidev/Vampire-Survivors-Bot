@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "twice upon a time",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Fires quickly in four fixed directions.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Eight The Sparrow's Counterpart, obtained through **I - Gemini**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e9262cf0-ae59-4d1b-8bf7-e87cf76dee7b/Guns2_counter.png"
+		},
+		"title": "Twice Upon A Time | Beta Content"
+	}
+}

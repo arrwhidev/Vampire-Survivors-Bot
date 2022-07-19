@@ -1,0 +1,52 @@
+{
+	"metadata": {
+		"name": "bracelet",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Fires 3 projectiles at random enemies||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Can evolve 3 times||"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "||Very rarely appears after unlocking **Gyorunton**||"
+			},
+			{
+				"inline": false,
+				"name": "||Bracelet||",
+				"value": "||(1) Base\n(2) Damage +10\n(3) Passes through 1 more enemy\n(4) Projectiles +1, Area +10%\n(5) Passes through 1 more enemy\n(6) Damage +10||"
+			},
+            {
+				"inline": false,
+				"name": "||Bi-Bracelet||",
+				"value": "||(1) Base\n(2) Passes through 1 more enemy\n(3) Projectiles +1, Area +10%\n(4) Cooldown -0.2s, Duration +0.2s\n(5) Projectiles +1, Area +10%\n(6) Passes through 1 more enemy||"
+			},
+            {
+				"inline": false,
+				"name": "||Tri-Bracelet||",
+				"value": "||(1) Base\n(2) Projectiles +1, Area +10%\n(3) Cooldown -0.2s, Duration +0.2s\n(4) Projectiles +1, Damage +20%\n(5) Cooldown -0.2s, Duration +0.2s\n(6) Projectiles +1, Area +10%||"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "Tell me what to put here :D"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/91339203-9ad4-4d24-b658-804e4749a472/bracelet.gif"
+		},
+		"title": "Bracelet | Beta Content"
+	}
+}

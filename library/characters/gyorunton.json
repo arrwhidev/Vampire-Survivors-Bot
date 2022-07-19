@@ -1,28 +1,28 @@
 {
 	"metadata": {
-		"name": "clerici",
-		"aliases":["sour"],
+		"name": "gyorunton",
+		"aliases":[],
 		"spoiler": false,
-		"beta": false
+		"beta": true
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Suor Clerici",
+		"description": "Gyorunton",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Starting Weapon",
-				"value": "Santa Water"
+				"value": "||Bracelet||"
 			},
 			{
 				"inline": false,
 				"name": "Ability",
-				"value": "Permanent +0.5 HP/s and +30 Max Health. Starts with temporary area bonus."
+				"value": "||Gains +1% Curse every level, Can find evolutions in any Treaure.||"
 			},
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Heal a total of 1000 health."
+				"value": "||Survive for 15 minutes in **Boss Rash**, with only 1 active weapon.||"
 			}
 		],
 		"footer": {
@@ -30,8 +30,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/54ed0cc9-7d65-4aba-8d56-9f8b9ab1fe35/newSuora.gif"
+			"url": "https://ucarecdn.com/b2a2519d-40f2-427b-b1ea-08715172485b/Dragogion_i0.gif"
 		},
-		"title": "Clerici"
+		"title": "Gyorunton | Beta Content"
 	}
 }

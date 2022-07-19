@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "cygnus",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Bombards in a circling zone.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Peachone's Counterpart, obtained through **I - Gemini**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/3236f6c5-87c8-4d5c-91a8-8d4a5083011f/Silf1_counter.png"
+		},
+		"title": "Cygnus | Beta Content"
+	}
+}
