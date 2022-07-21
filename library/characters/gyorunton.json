@@ -3,7 +3,7 @@
 		"name": "gyorunton",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -12,17 +12,17 @@
 			{
 				"inline": false,
 				"name": "Starting Weapon",
-				"value": "||Bracelet||"
+				"value": "Bracelet"
 			},
 			{
 				"inline": false,
 				"name": "Ability",
-				"value": "||Gains +1% Curse every level, Can find evolutions in any Treaure.||"
+				"value": "Gains +1% Curse every level, Can find evolutions in any Treaure."
 			},
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Survive for 15 minutes in **Boss Rash**, with only 1 active weapon.||"
+				"value": "Survive for 15 minutes in **Boss Rash**, with only 1 active weapon."
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/b2a2519d-40f2-427b-b1ea-08715172485b/Dragogion_i0.gif"
 		},
-		"title": "Gyorunton | Beta Content"
+		"title": "Gyorunton"
 	}
 }

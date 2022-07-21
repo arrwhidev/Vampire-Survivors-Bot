@@ -3,21 +3,21 @@
 		"name": "ii - twilight requiem",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Listed weapon projectiles generate explosions when they expire.||",
+		"description": "Listed weapon projectiles generate explosions when they expire.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Unlocked by reaching Level 99 with **Dommario**||"
+				"value": "Unlocked by reaching Level 99 with **Dommario**"
 			},
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Works with: Holy Bible, Uhholy Vespers, Peachone, Ebony Wings, Runetracer, Shadow Pinion, Bone, Celestial Dusting||"
+				"value": "Works with: Holy Bible, Uhholy Vespers, Peachone, Ebony Wings, Runetracer, Shadow Pinion, Bone, Celestial Dusting"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/85e8a3be-9c2d-488f-b04a-6697adb1a171/02.png"
 		},
-		"title": "II - Twilight Requiem | Beta Content"
+		"title": "II - Twilight Requiem"
 	}
 }

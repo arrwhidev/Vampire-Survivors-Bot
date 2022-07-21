@@ -3,21 +3,21 @@
 		"name": "i - gemini",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Listed weapons come with a counterpart.||",
+		"description": "Listed weapons come with a counterpart.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Unlocked by reaching Level 99 with **Pugnala**||"
+				"value": "Unlocked by reaching Level 99 with **Pugnala**"
 			},
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Give an additional weapon to: Peachone, Ebony Wings, Vandalier, Phiera Der Tuphello, Eight The Sparrow, Phieraggi||"
+				"value": "Give an additional weapon to: Peachone, Ebony Wings, Vandalier, Phiera Der Tuphello, Eight The Sparrow, Phieraggi"
 			}
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/48ed5096-e3aa-42dd-a187-6f99a14edb05/01.png"
 		},
-		"title": "I - Gemini | Beta Content"
+		"title": "I - Gemini"
 	}
 }

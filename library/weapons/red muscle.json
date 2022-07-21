@@ -3,16 +3,16 @@
 		"name": "red muscle",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Fires quickly in four fixed directions.||",
+		"description": "Fires quickly in four fixed directions.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Phiera Der Tuphello's Counterpart, obtained through **I - Gemini**||"
+				"value": "Phiera Der Tuphello's Counterpart, obtained through **I - Gemini**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/cd593f3e-9331-4099-9776-6dde916621a5/Guns_counter.png"
 		},
-		"title": "Red Muscle | Beta Content"
+		"title": "Red Muscle"
 	}
 }

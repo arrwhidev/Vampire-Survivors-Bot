@@ -3,30 +3,30 @@
 		"name": "boss rash",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||'Distinguished guests, the moment we've all been itching for is finally here! Let's watch the survivors attempt this challenge of recycled assets!'||",
+		"description": "'Distinguished guests, the moment we've all been itching for is finally here! Let's watch the survivors attempt this challenge of recycled assets!'",
         "fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Waves include a lot of bosses from all stages.||"
+				"value": "Waves include a lot of bosses from all stages."
 			},
             {
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Unlock Hyper mode for all 5 normal stages.||"
+				"value": "Unlock Hyper mode for all 5 normal stages."
 			},
 			{
 				"inline": false,
 				"name": "Regular",
-				"value": "||+25% Speed | Enemy Health +50%||"
+				"value": "+25% Speed | Enemy Health +50%"
 			},
             {	"inline": false,
 				"name": "Hyper",
-				"value": "||+90% Speed, +50% Gold, +10% Luck, Enemy Health +60%||"
+				"value": "+90% Speed, +50% Gold, +10% Luck, Enemy Health +60%"
 			}
 		],
 		"footer": {
@@ -36,6 +36,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/e916f080-9bfc-44a4-8b07-cc7179afa144/stage_rash.png"
 		},
-		"title": "Boss Rash | Beta Content"
+		"title": "Boss Rash"
 	}
 }

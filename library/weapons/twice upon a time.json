@@ -3,16 +3,16 @@
 		"name": "twice upon a time",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Fires quickly in four fixed directions.||",
+		"description": "Fires quickly in four fixed directions.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Eight The Sparrow's Counterpart, obtained through **I - Gemini**||"
+				"value": "Eight The Sparrow's Counterpart, obtained through **I - Gemini**"
 			}
 		],
 		"footer": {
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/e9262cf0-ae59-4d1b-8bf7-e87cf76dee7b/Guns2_counter.png"
 		},
-		"title": "Twice Upon A Time | Beta Content"
+		"title": "Twice Upon A Time"
 	}
 }
