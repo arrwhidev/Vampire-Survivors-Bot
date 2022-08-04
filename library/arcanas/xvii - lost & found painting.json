@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Overall Duration continuously changes between -50% and +200% over 10 seconds",
+		"description": "Overall Duration continuously changes between -50% and +50% over 10 seconds.  The character starts gaining +1% Duration every level.",
 		"fields": [
 			{
 				"inline": false,

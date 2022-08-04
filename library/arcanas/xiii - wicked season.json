@@ -1,18 +1,18 @@
 {
 	"metadata": {
-		"name": "xviii - boogaloo of illusions",
+		"name": "xiii - wicked season",
 		"aliases":[],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Overall Area continuously changes between -25% and +25% over 10 seconds. The character starts gaining +1% Area every level.",
+		"description": "Overall Growth, Luck, Greed, and Curse are doubled at fixed intervals. The character starts gaining +1% Growth, Luck, Greed, and Curse every 2 levels.",
 		"fields": [
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Reach level 99 with **Concetta**"
+				"value": "Reach Level 99 with **Christine**"
 			}
 		],
 		"footer": {
@@ -20,8 +20,8 @@
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
 		},
 		"thumbnail": {
-			"url": "https://ucarecdn.com/82c59cfa-df23-4e0d-ad20-9b1d0639b69a/18.png"
+			"url": "https://ucarecdn.com/48774642-c20f-4c49-93c3-4c8e420899bd/13.png"
 		},
-		"title": "XVIII - Boogaloo of Illusions"
+		"title": "XIII - Wicked Season"
 	}
 }

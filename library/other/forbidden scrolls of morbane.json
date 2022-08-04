@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "forbidden scrolls of morbane",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Permanently allows you to cast spells and to access the list of secrets from the main menu.",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Found in The Bone Zone, defeat **SkullPile** to unlock."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/60f9480f-2aee-4e52-a9f5-c810ead4da63/scrolls.png"
+		},
+		"title": "Forbidden Scrolls of Morbane"
+	}
+}

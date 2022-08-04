@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "cosmo",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Starts with **Peachone** and **Ebony wings** that do not show in the weapon slots.||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Gains +1 Recovery and +1% Luck every level. Gains +1 Revival every 100 levels. Has hidden weapons.||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Go to the balcony in **Cappella Magna** below where the NFT spawns, while having both **Peachone** and **Ebony wings** on a character without golden eggs.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/54455a66-7e41-4de4-b986-e80a80928bb7/Cosmic.gif"
+		},
+		"title": "Cosmo Pavone"
+	}
+}

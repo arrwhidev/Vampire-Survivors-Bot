@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "spells",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "You can use spells to unlock certain stuff. Spells are useable after getting **Forbidden Scrolls of Morbane**",
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"fields": [
+			{
+				"inline": false,
+				"name": "Spells",
+				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton + Bracelet\nearrivatolarrotino = Unlock Big Trouser + Candybox\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
+			},
+            {
+				"inline": false,
+				"name": "More Spells",
+				"value": "||iwillneverletyouforgetaboutme = Unlock Leda\npinociampino = Unlock Peppino\nhighfive = Unlock Boros\nablasphemousmockery = Unlock Red Death\nthisshouldhavebeenunlockedbydefault  = Unlock Grimoire\nthistooshouldhavebeenunlockedbydefault = Unlock Gouda\nthankelrond = Unlock Banger\nleadmetothecheese = Unlock Map\ntimecompression = Unlock Tear\neggseggseggs = Unlock Vizard\nteleportustomars = Unlock Mindbender\nrandomazzami = Unlock Randomazzo + Sarabande of Healing\nihaveseenitihaveseenitihaveseenitihaveseenitihaveseenitihaveseenitihaveseenit = Unlock Yellow Sign\nicanhearthecriesofcaptainplanet = Unlock Great Gospel||"
+			}
+		],
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ba4cb6c5-16d9-431c-ad49-b17606ed1719/spells.gif"
+		},
+		"title": "Spells"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "purify",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Permanently removes up to 100 random Golden Egg bonuses. This cannot be undone.",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Found in the south of **Moongolow**, Only appears if your character has 5000+ eggs."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/55f02b52-5433-44b7-a33f-a1cf7a720835/flame2.png"
+		},
+		"title": "Flames of Moonspell - Purify"
+	}
+}

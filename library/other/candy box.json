@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "candy box",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Shows up in level up selection and allows you to choose any unlocked base weapon.",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Appearance in level up options affected by Luck."
+			},
+            {
+                "inline": true,
+                "name": "Unlock",
+                "value": "Unlocked after unlocking **Big Trouser**"
+            }
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/548b2da8-8f38-4c67-9ee9-4c7b8b3ca79e/candybox.png"
+		},
+		"title": "Candy Box"
+	}
+}
