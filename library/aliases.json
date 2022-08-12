@@ -329,5 +329,11 @@
 	"morbane": "forbidden scrolls of morbane",
 	"scroll": "forbidden scrolls of morbane",
 	"scrolls": "forbidden scrolls of morbane",
-	"moonspell": "purify"
+	"moonspell": "purify",
+	"big trouser": "trouser",
+	"bigtrouser": "trouser",
+	"big trousers": "trouser",
+	"bigtrousers": "trouser",
+	"trousers":"trouser",
+	"flock": "flock destroyer"
 }
