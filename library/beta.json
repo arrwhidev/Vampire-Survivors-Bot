@@ -7,7 +7,7 @@
     },
     "content": {
         "color": 12846604,
-        "description": "The bot is not updated with the beta yet.",
+        "description": "The beta is the same as the live version!",
         "fields": [
             {
                 "inline": false,
@@ -22,7 +22,7 @@
         "thumbnail": {
             "url": "https://ucarecdn.com/313116e3-e430-4fc8-bbb2-bf2872b7fd25/XLCockatrice1_i0.gif"
         },
-        "title": "The bot is not updated with the beta yet.",
+        "title": "Public Beta",
         "url": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
     }
 }

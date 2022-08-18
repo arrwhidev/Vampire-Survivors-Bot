@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "queen sigma",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "She owns everything.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Victory Sword"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Every level up: Might+1% and Growth +1%\nOn levels 2, 3, 77 and 108 Queen gets another Arcana"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Complete the collection"
+			},
+			{
+				"inline": false,
+				"name": "Stats",
+				"value": "Max Health: 333 (+233)\nArmour: 3 (+3)\nRecovery: 3 (+3)\nMove Speed: 150% (+50%)\nMight: 150% (+50%)\nCooldown: 0.75 (-25%)\nArea: 100%\nSpeed: 100%\nDuration: 150 (+50%)\nAmount: 1 (+1)\nLuck: 150% (+50%)\nGrowth: 100%\nGreed: 100%\nCurse: 110% (+10%)\nMagnet: 1 (+100)\nRevival: 1 (+1)\nReroll: 108 (+108)\nSkip: 108 (+108)\nBanish: 108 (+108)"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/863e231c-d885-4e78-baed-7f4b52773eb6/s.gif"
+		},
+		"title": "Queen Sigma"
+	}
+}

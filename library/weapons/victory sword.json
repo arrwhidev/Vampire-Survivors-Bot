@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "victory sword",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Strikes with a combo attack at the nearest enemy. Retaliates.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Ignores: Speed, Duration"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5, Area +20% \n(4) Projectiles +1 \n(5) Damage +10, Area +20 \n(6) Projectiles +1 \n(7) Damage +10, Area +20 \n(8) Enables critical hits and combo finisher \n(9) Damage +10 \n(10) Cooldown -0.3 \n(11) Cooldown -0.3 \n(12) Cooldown -0.3"
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat 100,000 enemies in a single run with **Queen Sigma**"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "Tell me what to put here! :D"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/4a7c2c56-ac3d-4fcb-94c2-b369de78447c/victory1.png"
+		},
+		"title": "Victory Sword"
+	}
+}

@@ -26,7 +26,12 @@
 			{
 				"inline": false,
 				"name": "Even More Spells",
-				"value": "||ilmatto = Unlock Game Killer\nilbagatto = Unlock Gemini\nlapapessa = Unlock Twilight Requiem\nlimperatrice = Unlock Tragic Princess\nlimperatore = Unlock Awake\nilpapa = Unlock Chaos in the Dark Night\nilcarro = Unlock Iron Blue Will\nlaforza = Unlock Mad Groove\nlaruota = Unlock Beginning\nlagiustizia = Unlock Waltz of Pearl\nlappeso = Unlock Out of Bounds\nlamorte = Unlock Wicked Season\nlatemperanza = Unlock Jail of Crystal\nildiavolo = Unlock Disco of Gold\nlatorre = Unlock Slash\nlastella = Unlock Lost & Found Painting\nlaluna = Unlock Boogaloo of Illusions\nilsole = Unlock Heart of Fire\nilgiudizio = Unlock Silent Old Sanctuary||"
+				"value": "||ilmatto = Unlock Game Killer\nilbagatto = Unlock Gemini\nlapapessa = Unlock Twilight Requiem\nlimperatrice = Unlock Tragic Princess\nlimperatore = Unlock Awake\nilpapa = Unlock Chaos in the Dark Night\nilcarro = Unlock Iron Blue Will\nlaforza = Unlock Mad Groove\nlaruota = Unlock Beginning\nlagiustizia = Unlock Waltz of Pearl\nlappeso = Unlock Out of Bounds\nlamorte = Unlock Wicked Season\nlatemperanza = Unlock Jail of Crystal\nildiavolo = Unlock Disco of Gold\nlatorre = Unlock Slash\nlastella = Unlock Lost & Found Painting\nlaluna = Unlock Boogaloo of Illusions\nilsole = Unlock Heart of Fire\nilgiudizio = Unlock Silent Old Sanctuary\nleremita = Unlock Divine Bloodline||"
+			},
+			{
+				"inline": false,
+				"name": "Even More Spells",
+				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma||"
 			}
 		],
 		"thumbnail": {
