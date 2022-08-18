@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Armor also affects listed weapons' damage and reflects enemy damage. Character gains bonus damage depending on missing health. Defeating enemies with retaliatory damage gives +1.0 Max Health.",
+		"description": "Armor also affects listed weapons' damage and reflects enemy damage. Character gains bonus damage depending on missing health. Defeating enemies with retaliatory damage gives +0.5 Max Health.",
 		"fields": [
 			{
 				"inline": false,

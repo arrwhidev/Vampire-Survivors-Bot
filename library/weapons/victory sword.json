@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Leveling",
-				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5, Area +20% \n(4) Projectiles +1 \n(5) Damage +10, Area +20 \n(6) Projectiles +1 \n(7) Damage +10, Area +20 \n(8) Enables critical hits and combo finisher \n(9) Damage +10 \n(10) Cooldown -0.3 \n(11) Cooldown -0.3 \n(12) Cooldown -0.3"
+				"value": "(1) Base \n(2) Projectiles +1 \n(3) Damage +5, Area +20% \n(4) Projectiles +1 \n(5) Damage +10, Area +20% \n(6) Projectiles +1 \n(7) Damage +10, Area +20% \n(8) Enables critical hits and combo finisher \n(9) Damage +10 \n(10) Cooldown -0.3 \n(11) Cooldown -0.3 \n(12) Cooldown -0.3"
 			},
             {
 				"inline": false,
@@ -32,7 +32,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "Tell me what to put here! :D"
+				"value": "<&Empty Tome&> <&Spinach&> <&Candelabrador&> <&Clover&>"
 			}
 		],
 		"footer": {
