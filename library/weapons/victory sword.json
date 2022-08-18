@@ -26,6 +26,11 @@
 			},
 			{
 				"inline": false,
+				"name": "Evolution",
+				"value": "Requires **Torrona's Box** at level 9 to produce **Sole Solution** (You keep Victory Sword)"
+			},
+			{
+				"inline": false,
 				"name": "Synergy With",
 				"value": "Tell me what to put here! :D"
 			}
