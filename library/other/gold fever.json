@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "While active - Makes enemies you kill drop gold. Picking up Gold Coins and Coin Bags extends the duration of Gold Fever",
+		"description": "While active - Makes enemies you kill drop gold. Picking up Gold Coins and Coin Bags extends the duration of Gold Fever. The longer a gold fever lasts, the harder it is to maintain.",
 		"footer": {
 			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
 			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
