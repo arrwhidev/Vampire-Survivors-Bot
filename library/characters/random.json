@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "random",
+		"aliases":[],
+		"spoiler": true,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Starting Weapon||",
+				"value": "||Random Weapon||"
+			},
+			{
+				"inline": false,
+				"name": "||Ability||",
+				"value": "||Random Ability||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by opening a coffin which you already opened||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/6d4756b4-bdf2-4b6f-8245-4094ceab64a2/random.gif"
+		},
+		"title": "Random - Beta Content"
+	}
+}
