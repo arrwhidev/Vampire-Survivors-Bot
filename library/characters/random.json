@@ -3,7 +3,7 @@
 		"name": "random",
 		"aliases":[],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/6d4756b4-bdf2-4b6f-8245-4094ceab64a2/random.gif"
 		},
-		"title": "Random - Beta Content"
+		"title": "Random"
 	}
 }
