@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "super candybox turbo",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Gift of Candybox. Allows to choose among a selection of advanced weapons.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Has a low Luck-based chance of appearing in place of green coin bags. The chance is 100% for 5 items treasure chests. Can only appear if a Candybox has been obtained in the current run.||"
+			},
+            {
+                "inline": false,
+                "name": "||Unlock||",
+                "value": "||Unlocked after unlocking **Big Trouser**||"
+            }
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/35eeef39-ca57-4281-bc91-49a91a4059f9/candybox2.png"
+		},
+		"title": "Super CandyBox II Turbo - Beta Content"
+	}
+}

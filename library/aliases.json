@@ -264,9 +264,6 @@
 	"tuphello": "phiera",
 	"tuphelo": "phiera",
 	"unholyvespers": "unholy vespers",
-	"unlock missingn▯": "unlock missingno",
-	"unlockmissing": "unlock missingno",
-	"unlockmissingn▯": "unlock missingno",
 	"v": "v - chaos in the dark night",
 	"vac": "vacuum",
 	"vacum": "vacuum",
@@ -322,8 +319,6 @@
 	"limit": "great gospel",
 	"the ender": "ender",
 	"theender": "ender",
-	"cheatcodes": "cheat codes",
-	"codes": "cheat codes",
 	"xiii": "xiii - wicked season",
 	"phoenix": "cosmo",
 	"morbane": "forbidden scrolls of morbane",
@@ -362,5 +357,8 @@
 	"marionello":"random",
 	"birky":"random",
 	"zylaz":"random",
-	"mi kujino":"random"
+	"mi kujino":"random",
+	"xxi":"xxi - blood astronomia",
+	"astronomia":"xxi - blood astronomia",
+	"astro":"xxi - blood astronomia"
 }

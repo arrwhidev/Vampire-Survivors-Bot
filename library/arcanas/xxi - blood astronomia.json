@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "xxi - blood astronomia",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Listed weapons also emit special damaging zones affected by Amount and Magnet. Enemies within Magnet range take damage based on Amount.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Unlocked by reaching level 99 with **Poe**||"
+			},
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Works with **Garlic**, **Soul Eater**, **Pentagram**, **Gorgeous Moon**, **Song of Mana**, **Mannajja**, **Clock Lancet**, **Laurel**||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/86980268-598c-4702-94a7-421de3203491/21.png"
+		},
+		"title": "XXI - Blood Astronomia | Beta Content"
+	}
+}
