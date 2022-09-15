@@ -3,21 +3,21 @@
 		"name": "super candybox turbo",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Gift of Candybox. Allows to choose among a selection of advanced weapons.||",
+		"description": "Gift of Candybox. Allows to choose among a selection of advanced weapons.",
 		"fields": [
 			{
 				"inline": false,
-				"name": "||Notes||",
-				"value": "||Has a low Luck-based chance of appearing in place of green coin bags. The chance is 100% for 5 items treasure chests. Can only appear if a Candybox has been obtained in the current run.||"
+				"name": "Notes",
+				"value": "Has a low Luck-based chance of appearing in place of green coin bags. The chance is 100% for 5 items treasure chests. Can only appear if a Candybox has been obtained in the current run."
 			},
             {
                 "inline": false,
-                "name": "||Unlock||",
-                "value": "||Unlocked after unlocking **Big Trouser**||"
+                "name": "Unlock",
+                "value": "Unlocked after unlocking **Big Trouser**"
             }
 		],
 		"footer": {
@@ -27,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/35eeef39-ca57-4281-bc91-49a91a4059f9/candybox2.png"
 		},
-		"title": "Super CandyBox II Turbo - Beta Content"
+		"title": "Super CandyBox II Turbo"
 	}
 }

@@ -16,7 +16,7 @@
 			{
 				"inline": false,
 				"name": "Spells",
-				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nmaybeimastallion = Unlock Smith\nigottagettotheedgeofsoul = Unlock Random\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton + Bracelet\nearrivatolarrotino = Unlock Big Trouser + Candybox\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
+				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nmaybeimastallion = Unlock Smith\nrightninetyseven = Unlock MissingNo\nigottagettotheedgeofsoul = Unlock Random\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton + Bracelet\nearrivatolarrotino = Unlock Big Trouser + Candybox\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
 			},
             {
 				"inline": false,
@@ -26,12 +26,12 @@
 			{
 				"inline": false,
 				"name": "Even More Spells",
-				"value": "||ilmatto = Unlock Game Killer\nilbagatto = Unlock Gemini\nlapapessa = Unlock Twilight Requiem\nlimperatrice = Unlock Tragic Princess\nlimperatore = Unlock Awake\nilpapa = Unlock Chaos in the Dark Night\nilcarro = Unlock Iron Blue Will\nlaforza = Unlock Mad Groove\nlaruota = Unlock Beginning\nlagiustizia = Unlock Waltz of Pearl\nlappeso = Unlock Out of Bounds\nlamorte = Unlock Wicked Season\nlatemperanza = Unlock Jail of Crystal\nildiavolo = Unlock Disco of Gold\nlatorre = Unlock Slash\nlastella = Unlock Lost & Found Painting\nlaluna = Unlock Boogaloo of Illusions\nilsole = Unlock Heart of Fire\nilgiudizio = Unlock Silent Old Sanctuary\nleremita = Unlock Divine Bloodline||"
+				"value": "||ilmatto = Unlock Game Killer\nilbagatto = Unlock Gemini\nlapapessa = Unlock Twilight Requiem\nlimperatrice = Unlock Tragic Princess\nlimperatore = Unlock Awake\nilpapa = Unlock Chaos in the Dark Night\nilcarro = Unlock Iron Blue Will\nlaforza = Unlock Mad Groove\nlaruota = Unlock Beginning\nlagiustizia = Unlock Waltz of Pearl\nlappeso = Unlock Out of Bounds\nlamorte = Unlock Wicked Season\nlatemperanza = Unlock Jail of Crystal\nildiavolo = Unlock Disco of Gold\nlatorre = Unlock Slash\nlastella = Unlock Lost & Found Painting\nlaluna = Unlock Boogaloo of Illusions\nilsole = Unlock Heart of Fire\nilgiudizio = Unlock Silent Old Sanctuary\nleremita = Unlock Divine Bloodline\nilmondo = Unlock Blood Astronomia||"
 			},
 			{
 				"inline": false,
 				"name": "Even More Spells",
-				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma||"
+				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres||"
 			}
 		],
 		"thumbnail": {

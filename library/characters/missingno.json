@@ -3,7 +3,7 @@
 		"name": "missingno",
 		"aliases": [],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -37,6 +37,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/670101e2-766c-4a19-80b3-fa58d161ada0/missingno.gif"
 		},
-		"title": "missingNo | Beta Content"
+		"title": "missingNo"
 	}
 }
