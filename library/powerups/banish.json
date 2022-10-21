@@ -12,7 +12,7 @@
 			{
 				"inline": false,
 				"name": "Max Rank",
-				"value": "4"
+				"value": "5"
 			},
 			{
 				"inline": false,
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Rank 1: Fill out 50 entries in the Collection\nRank 2: Fill out 60 entries in the Collection\nRank 3: Fill out 70 entries in the Collection\nRank 4: Fill out 80 entries in the Collection"
+				"value": "Rank 1: Fill out 60 entries in the Collection\nRank 2: Fill out 70 entries in the Collection\nRank 3: Fill out 80 entries in the Collection\nRank 4: Fill out 90 entries in the Collection\nRank 5: Fill out 100 entries in the Collection"
 			}
 		],
 		"footer": {
