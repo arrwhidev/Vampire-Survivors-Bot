@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+		"description": "The birthplace of Milk Magic churns with chaos. Here, it's not just blood that curdles. A secret map awaits the hero brave enough to enter this overthrown factory.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
 				"value": "Attractorb, Wings, Armor, Candelabrador"
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed, +20% Gold"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +70% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,
@@ -32,7 +22,7 @@
             {
             	"inline": false,
 				"name": "Other",
-				"value": "This map contains **Coffin** used to unlocking **Poppea**\nThis map contains **Milky Way Map**"
+				"value": "This map contains **Coffin** used to unlocking **Poppea**\nThis map contains **Milky Way Map** and **Ars Gouda**"
 			}
 		],
 		"footer": {

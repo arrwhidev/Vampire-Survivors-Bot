@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "'Distinguished guests, the moment we've all been itching for is finally here! Let's watch the survivors attempt this challenge of recycled assets!'",
+		"description": "The monsters want entertainment, and if we win their game, the loot is ours for the taking. Let us face these recycles assets and do what we do best... survive!",
         "fields": [
 			{
 				"inline": false,
@@ -18,15 +18,6 @@
 				"inline": false,
 				"name": "Unlock",
 				"value": "Unlock Hyper mode for all 5 normal stages."
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed | Enemy Health +50%"
-			},
-            {	"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +50% Gold, +10% Luck, Enemy Health +60%"
 			}
 		],
 		"footer": {

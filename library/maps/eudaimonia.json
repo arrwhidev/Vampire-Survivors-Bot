@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "eudaimonia",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "A path to the edge of our world. The floor is lava.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Unlocked after finding all relics from all stages"
+			},
+            {
+            	"inline": false,
+				"name": "Other",
+				"value": "This map contains **Seventh Trumpet** and **Gracia's Mirror**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/d5586b04-7469-4226-a38f-1c149f922451/stage_machine.png"
+		},
+		"title": "Eudaimonia M."
+	}
+}

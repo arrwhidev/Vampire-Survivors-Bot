@@ -16,7 +16,7 @@
 			{
 				"inline": false,
 				"name": "Spells",
-				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nmaybeimastallion = Unlock Smith\nrightninetyseven = Unlock MissingNo\nigottagettotheedgeofsoul = Unlock Random\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton + Bracelet\nearrivatolarrotino = Unlock Big Trouser + Candybox\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
+				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nmaybeimastallion = Unlock Smith\nrightninetyseven = Unlock MissingNo\nigottagettotheedgeofsoul = Unlock Random\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton\nearrivatolarrotino = Unlock Big Trouser\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
 			},
             {
 				"inline": false,
@@ -30,8 +30,8 @@
 			},
 			{
 				"inline": false,
-				"name": "Even More Spells",
-				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres||"
+				"name": "Even Even More Spells",
+				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres\nkalvasflam = Unlock Avatar Infernas and Flames of Misspell\nfreezearrow = Unlocks Gracia'a Mirror\ndootdoot = Unlock Seventh Trumpet\nkamiki = Play as O'Sole in Moongolow with dusting, jubilee and cherry bom.||"
 			}
 		],
 		"thumbnail": {

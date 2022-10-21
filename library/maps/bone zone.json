@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Come over here and say your unholy vespers.",
+		"description": "Calcified carnage awaits where the dead go to live. If we speak unholy vespers we will open the way, but should we not go home? Have we not dug too deep?",
         "fields": [
 			{
 				"inline": false,
 				"name": "Notes",
 				"value": "No item drops. Enemies grow stronger over time."
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed, +50% Gold"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +100% Gold | Unlock Hyper mode for 3 stages"
 			}
 		],
 		"footer": {

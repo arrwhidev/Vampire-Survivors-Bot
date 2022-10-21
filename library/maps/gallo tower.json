@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "This tower hides great magical artifacts and historically accurate monsters.",
+		"description": "An edifice of science and sorcery where horror was made manifest in the name fo progress. Its many artifacts and experiments may lead us to what we seek.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
 				"value": "Bracer, Spellbinder"
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed, +30% Gold"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +80% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,

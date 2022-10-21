@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "When the moon is red and bright, the remnants of a town swallowed by the sea come back to the surface, bringing mysteries and riches.",
+		"description": "Legend tells of a city swallowed by the sea under a full moon's callous watch. Home to mysteries unknown, we ought to see what lies within its walls.",
         "fields": [
 			{
 				"inline": false,
@@ -18,15 +18,6 @@
 				"inline": false,
 				"name": "Available Items",
 				"value": "Hollow Heart, Pummarola, Armor, Wings, Spinach, Bracer, Spellbinder, Candelabrador, Empty Tome, Duplicator, Tiragisú, Attractorb, Clover, Crown, Stone Mask, Skull O'Maniac"
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+35% Speed"
-			},
-            {	"inline": false,
-				"name": "Hyper",
-				"value": "+100% Speed, +50% Gold, +20% Luck, Enemy Health +60% | Unlocked by unlocking hyper for 4 normal stages"
 			},
 			{	"inline": false,
 				"name": "Spoiler Warning!",

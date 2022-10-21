@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "This quiet, long library is the ideal place to rest, meditate, and forage for roast chicken. But what's a stone mask doing here?",
+		"description": "The Futile Scribe was cursed to know all and understand nothing. His endless library may gift us insight... or damnation. A mask of stone whispers endlessly within.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
 				"value": "Empty Tome, Stone Mask"
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": " +90% Speed +50% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,

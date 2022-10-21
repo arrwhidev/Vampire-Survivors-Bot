@@ -7,17 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "The Castle is a lie, but there's still free roast chicken here, so it's all good.",
+		"description": "Once a thriving haven, now a dumping ground for evil. A vampire is said to be the root of this evil, but we can find only mayhem and roast chicken.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
 				"value": "Skull O'Maniac, Hollow Heart, Spinach, Pummarola, Clover"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+50% Gold, +75% Speed | Unlocked by defeating the 25 minute boss"
 			},
 			{
             	"inline": false,

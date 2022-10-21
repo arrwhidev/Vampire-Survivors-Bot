@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "avatar infernas",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "||Flames of Misspell||"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "||Starts with extra arcana **XIX - Heart Of Fire**. Grows stronger with every level, but also loses control.\nEvery level up gains +0.5% curse, +0.5% damage, +2% move speed and -0.25% cooldown.||"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||1. Clear the Eudiamonia M. stage. (Choose the Seventh Trumpet/Gracia's Mirror after obtaining all other relics, enter a run with the corresponding option toggled on and then exit, enter the stage again and choose the other relic, enter and exit another run with that option toggled on, enter Eudiamonia M. one last time and beat the boss)\n2. Enter the Inlaid Library stage with the Inverse setting toggled on, start with/obtain Peachone and Ebony Wings.\n3. Walk to the right side past the Gold Ring and you will find the Trickster in front of a piano.\n4. Kill the Trickster and walk up to the piano, the birds will fly one by one onto the notes you need to press.\n5. You will find yourself in a dark area with new enemies and 9 coffins in a 3 by 3 grid, open them to find a new boss and kill it to unlock the character.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/2c5c9d10-7aaf-490a-9316-14965d87ec0e/si_i0.gif"
+		},
+		"title": "Avatar Infernas"
+	}
+}

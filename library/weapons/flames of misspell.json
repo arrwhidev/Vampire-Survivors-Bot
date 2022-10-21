@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "flames of misspell",
+		"aliases":[],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Emites cones of flames.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Unlocks||",
+				"value": "||Shows up after unlocking **Avatar Infernas**||"
+			},
+            {
+				"inline": false,
+				"name": "||Evolution||",
+				"value": "||Evolves at level 8 with Level 9 **Torrona's box** to make **Ashes of Muspell**||"
+			},
+			{
+				"inline": false,
+				"name": "||Leveling||",
+				"value": "||(1) Base\n(2) +25% Speed\n(3) +10 Damage\n(4) +50% Area, -0.5 Cooldown\n(5) +25% Speed\n(6) +10 Damage\n(7) +50% Area, -0.5 Cooldown\n(8) -0.5 Cooldown||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||Stuff probably||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e25dbc00-83b2-4f0c-bf3c-9f30c2db34cf/flame1.png"
+		},
+		"title": "Flames of Misspell"
+	}
+}

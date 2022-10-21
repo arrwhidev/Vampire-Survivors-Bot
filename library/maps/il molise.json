@@ -7,21 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "There exists places that don't exists. Come to relax and enjoy life, but respect nature. See you in the country.",
+		"description": "The flowers seem to sing here, calling out to weary heroes. Is such an unspoilt place even real? Does it matter? Is there roast chicken?",
         "fields": [
 			{
 				"inline": false,
 				"name": "Notes",
 				"value": "Enemies don't move.\nReaper comes at 15 minutes."
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed"
-			},
-            {	"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +50% Gold, +20% Luck, Enemy Health +60% | Unlocked by unlocking hyper for any normal stages"
 			},
 			{	"inline": false,
 				"name": "Spoiler Warning!",

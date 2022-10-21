@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "A place where mortals are not allowed. Fate changes every minute.",
+		"description": "Fate changes by the minute in a realm where mortals can only trespass. What rewards await those who challenge its rules? Treasure? Glory? Poultry?",
         "fields": [
 			{
 				"inline": false,
 				"name": "Notes",
 				"value": "Random enemy waves from normal stages."
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+25% Speed, +50% Enemy Health."
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+90% Speed, +50% Gold, +10% Luck, +50% Enemy Health | Unlock Hyper mode for 2 stages."
 			}
 		],
 		"footer": {

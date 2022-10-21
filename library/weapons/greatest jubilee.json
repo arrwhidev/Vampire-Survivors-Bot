@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "greatest jubilee",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Has a chance to summon light sources",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Best with: Luck"
+			},
+			{
+				"inline": false,
+				"name": "Unlocks",
+				"value": "Unlocked after killing the boss in **Eudaimonia M.**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base\n(2) +1 Projectiles\n(3) +10 Damage, -0.5 Cooldown\n(4) +1 Projectiles\n(5) +10 Damage, +25% Area\n(6) +1 Projectiles\n(7) +25% Area, -0.5 Cooldown\n(8) +1 Projectiles\n(9) Enables finisher"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "Stuff probably"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/310f4a56-602f-49ba-a9cb-0ca9e918966f/jubilee.png"
+		},
+		"title": "Greates Jubilee"
+	}
+}

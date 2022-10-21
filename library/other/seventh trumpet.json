@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "seventh trumpet",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Permanently allows to disable all reapers and fight endlessly. (Endless Mode)",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Found in Eudaimonia M."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/509d681e-1300-489a-b7f1-f034200a15b9/trumpet.png"
+		},
+		"title": "Seventh Trumpet"
+	}
+}

@@ -7,22 +7,12 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Have we gone too far? Could have just camped in the forest with all that chicken, but noooo, we had to chase some random vampire instead.",
+		"description": "Conceited were they that ruled from so high yet stooped so low. This nexus of debased purity is the perfect place to find a vampire. Probably.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Available Items",
 				"value": "Duplicator, Crown, Tiragisu"
-			},
-			{
-				"inline": false,
-				"name": "Regular",
-				"value": "+40% Speed, +40% Gold"
-			},
-            {
-				"inline": false,
-				"name": "Hyper",
-				"value": "+100% Speed, +90% Gold, +10% Luck | Unlocked by defeating the 25 minute boss"
 			},
             {
             	"inline": false,
