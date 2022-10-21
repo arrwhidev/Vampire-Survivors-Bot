@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Once per rank, allows to remove an item from level up choices, for the rest of the run",
+		"description": "Twice per rank, allows to remove an item from level up choices, for the rest of the run",
 		"fields": [
 			{
 				"inline": false,

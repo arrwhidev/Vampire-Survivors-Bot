@@ -27,6 +27,11 @@
                 "inline":false,
                 "name":"Inverse Mode",
                 "value":"Arcana - 20,000\nSkip - 100\nBanish - 500\nReroll - 1000"
+            },
+            {
+                "inline":false,
+                "name":"Endless Mode",
+                "value":"Respawns every cycle and sells +1 Revive instead of golden eggs"
             }
 		],
 		"thumbnail": {

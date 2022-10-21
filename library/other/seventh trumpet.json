@@ -13,6 +13,11 @@
 				"inline": true,
 				"name": "Notes",
 				"value": "Found in Eudaimonia M."
+			},
+			{
+				"inline": true,
+				"name": "Effects",
+				"value": "The Reaper won't spawn at the final minute.\nReaching the final minute of a stage will make the enemy waves to restart from minute 0, completing a 'cycle'.\nEnemies gain 100% of their base Max Health per cycle.\nEnemies spawn frequency and amount is increased by 50% per cycle.\nEnemies deal 25% more damage per cycle. The player's max damage cap is diminished by 1 per cycle.\nThe merchant respawns on every cycle and sells '+1 Revival' instead of Golden Eggs."
 			}
 		],
 		"footer": {
