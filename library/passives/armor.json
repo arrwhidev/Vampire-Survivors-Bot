@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Reduces incoming damage by 1.",
+		"description": "Reduces incoming damage by 1. Increases retaliatory damage by 10%",
 		"fields": [
 			{
 				"inline": false,
