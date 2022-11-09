@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "seal",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Allows to banish an item from level up choices, or a pickup from light sources. Use in the **Collection** Menu.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Max Rank",
+				"value": "10"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "10,000 Coins"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Banish 10 or more weapons in a single run."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/1aa68601-2936-49b2-9be0-6c8406396328/itemsjson_seal.png"
+		},
+		"title": "Seal - Beta Content"
+	}
+}
