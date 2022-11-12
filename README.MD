@@ -1,13 +1,10 @@
 # Vampire Turtle
-This repository is a community library bot for the game [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) written in the Go programming language.
+This repository is a community library bot for the game [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) written in the Go programming language. Check it out on the official Vampire Survivors [Discord](https://discord.com/invite/vampire-survivors)!
 
 ## Discord
 The bot is available for invitation to any discord, just [authorize](https://discord.com/api/oauth2/authorize?client_id=761955552091701258&permissions=52224&scope=bot) it.
 
 Once the bot is authorized, use `!setvamp` in the channel you want the bot to respond to commands in. The bot will listen to commands starting with `!` followed by an item you want the info about.
-
-## Twitch
-The bot is also available for twitch, To add it to your channel, go to the bot's [Twitch channel](https://www.twitch.tv/turtlevampire) and type `!setvamp` to add it to your channel. Similar to discord, the bot will listen to commands starting with `!` followed by an item you want the info about.
 
 ## Installation
 Make sure you have [Go](https://go.dev/) installed and in your path.
