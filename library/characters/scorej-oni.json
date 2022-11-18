@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "scorej-oni",
+		"aliases":[],
+		"spoiler": true,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Secret Character",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "||None||"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "||Gains a hidden Lightning Ring every 8 level (max 6) that also fires when losing health.||"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Unlocked in Tiny Bridge - Go very far to the right until meeting the Scorej-Oni, defeat to unlock.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c086aba9-c3b2-4205-8cf4-cc7afd073a00/charactersjson_Scorej.gif"
+		},
+		"title": "Scorej-Oni - Beta Content"
+	}
+}

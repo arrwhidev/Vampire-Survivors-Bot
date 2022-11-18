@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "tiny bridge",
+		"aliases":[],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Two opposing factions abruptly stopped fighting over this little bridge. No doubt the source of this cessation will turn out to be harmless.||",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "||Enemies grow stronger over time||"
+			},
+            {
+				"inline": false,
+				"name": "Available Items",
+				"value": "||Wings, Vento Sacro, Lightning Ring, Attractorb||"
+			},
+            {
+				"inline": false,
+				"name": "Unlock",
+				"value": "||Reach level 80 on Inverse Gallo Tower.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/c264fbb8-1d17-4e8b-9602-7754304393ca/UIjson_stage_bridge.png"
+		},
+		"title": "Tiny Bridge - Beta Content"
+	}
+}
