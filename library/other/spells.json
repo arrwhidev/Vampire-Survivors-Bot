@@ -32,6 +32,11 @@
 				"inline": false,
 				"name": "Even Even More Spells",
 				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres\nkalvasflam = Unlock Avatar Infernas and Flames of Misspell\nfreezearrow = Unlocks Gracia'a Mirror\ndootdoot = Unlock Seventh Trumpet\nkamiki = Play as O'Sole in Moongolow with dusting, jubilee and cherry bomb\nspoopyseason = Spawns you with Ramba/Mortaccio/O'Sole/Yatta in Bonezone\nonjupiter = Spawns you in your last map and every pickup and lightsource slides down\nandmars = Same as onjupiter but everything goes up||"
+			},
+			{
+				"inline": false,
+				"name": "Even Even Even More Spells",
+				"value":"||recyclethetower = Unlock Tiny Bridge\nnotsureitsthunder = Unlocks Scorej-Oni||"
 			}
 		],
 		"thumbnail": {
