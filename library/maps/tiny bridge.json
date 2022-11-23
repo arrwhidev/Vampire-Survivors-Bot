@@ -3,26 +3,26 @@
 		"name": "tiny bridge",
 		"aliases":[],
 		"spoiler": false,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "||Two opposing factions abruptly stopped fighting over this little bridge. No doubt the source of this cessation will turn out to be harmless.||",
+		"description": "Two opposing factions abruptly stopped fighting over this little bridge. No doubt the source of this cessation will turn out to be harmless.",
         "fields": [
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "||Enemies grow stronger over time||"
+				"value": "Enemies grow stronger over time"
 			},
             {
 				"inline": false,
 				"name": "Available Items",
-				"value": "||Wings, Vento Sacro, Lightning Ring, Attractorb||"
+				"value": "Wings, Vento Sacro, Lightning Ring, Attractorb"
 			},
             {
 				"inline": false,
 				"name": "Unlock",
-				"value": "||Reach level 80 on Inverse Gallo Tower.||"
+				"value": "Reach level 80 on Inverse Gallo Tower."
 			}
 		],
 		"footer": {
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/c264fbb8-1d17-4e8b-9602-7754304393ca/UIjson_stage_bridge.png"
 		},
-		"title": "Tiny Bridge - Beta Content"
+		"title": "Tiny Bridge"
 	}
 }

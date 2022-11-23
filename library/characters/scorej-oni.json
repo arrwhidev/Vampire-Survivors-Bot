@@ -3,7 +3,7 @@
 		"name": "scorej-oni",
 		"aliases":[],
 		"spoiler": true,
-		"beta": true
+		"beta": false
 	},
 	"content": {
 		"color": 12846604,
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/c086aba9-c3b2-4205-8cf4-cc7afd073a00/charactersjson_Scorej.gif"
 		},
-		"title": "Scorej-Oni - Beta Content"
+		"title": "Scorej-Oni"
 	}
 }
