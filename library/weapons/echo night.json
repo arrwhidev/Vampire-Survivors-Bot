@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "echo night",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of **Summon Night**. Also generates damaging zones below the player.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Max **Duplicator** for Evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/e52d6ceb-ac59-4ffb-ba74-126f1783d250/itemsjson_icon_echonight.png"
+		},
+		"title": "Echo Night - Moonspell DLC"
+	}
+}

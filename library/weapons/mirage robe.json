@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "mirage robe",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Generates freezing static projectiles with a chance to explode.",
+		"fields": [
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Survive 15 minutes with **Babi-Onna**"
+            },
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with Max **Attractorb** to make **J'Odore**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base\n(2) Duration +1\n(3) Duration +1, Damage +10\n(4) 10% Chance to explode\n(5) Duration +1\n(6) Duration +1, Damage +10\n(7) 20% Chance to explode\n(8) Damage +20"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f71efb66-2463-4073-976b-843579f7b295/itemsjson_mirageRobe.png"
+		},
+		"title": "Mirage Robe - Moonspell DLC"
+	}
+}

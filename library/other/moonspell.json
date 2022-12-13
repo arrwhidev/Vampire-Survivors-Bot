@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "moonspell",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "The Moonspell DLC contains unique content",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Characters",
+                "value": "Miang, Gav'Et-Oni, McCoy-Oni, Babi-Onna, Syuuto, Megalo Syuuto, Menya, Megalo Menya"
+            },
+            {
+                "inline": false,
+                "name": "Weapons",
+                "value": "Silver Wind, Festive Winds, Four Seasons, Godai Shuffle, Summon Night, Echo Night, Mirage Robe, J'Odore, 108 Bocce, Night Sword, Murasama, Millie Bolle Blu, Boo Roo Boolle"
+            },
+            {
+                "inline": false,
+                "name": "Map",
+                "value": "Mt. Moonspell"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/c9c2a980-28df-49eb-ad03-a94efa459893/introBG_MS.png"
+        },
+        "title": "Moonspell DLC"
+    }
+}

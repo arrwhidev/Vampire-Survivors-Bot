@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "miang",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Miang Moonspell",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "**Silver Wind**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Recovery also multiplies all healing sources. Over-healing slightly increases Max Health."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Find an open the coffin in Mt. Moonspell"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/4511a55c-f960-4724-aa3a-e72bbd965a59/miang.gif"
+		},
+		"title": "Miang Moonspell - Moonspell DLC"
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "silver wind",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Defeated enemies might drop hearts.",
+		"fields": [
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Survive 15 minutes with **Miang**"
+            },
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with Max **Pummarola** to make **Festive Winds**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base\n(2) Projectiles +2\n(3) Damage +5, Proj Speed +10%\n(4) Damage +5, Duration +0.3\n(5) Projectiles +2\n(6) Damage +5, Proj Speed +10%\n(7) Damage +5, Duration +0.3\n(8) Projectiles +2"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/4703ea44-98ee-4032-931b-4a7c6bc12eaf/itemsjson_silverWind.png"
+		},
+		"title": "Silver Wind - Moonspell DLC"
+	}
+}

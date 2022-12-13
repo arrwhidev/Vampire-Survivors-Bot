@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "mt moonspell",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Ancestral home of a fallen clan, now overrun by yokai and oni. In this world where the sun doesn't shine, the night is victorious.",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Available Items",
+				"value": "Attractorb, Duplicator, Candelabrador, Night Sword, Stone Mask, Pummarola, Spinach."
+			},
+            {
+            	"inline": false,
+				"name": "Other",
+				"value": "This map contains a **Coffin** used to unlock **Miang**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/baee672a-e479-4415-99c9-5780c51018ac/moonstage.png"
+		},
+		"title": "Mt. Moonspell - Moonspell DLC"
+	}
+}

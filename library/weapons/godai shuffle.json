@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "godai shuffle",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of **Four Seasons**. Generates an additional explosion",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Max **Spinach** and **Candelabrador** for Evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/839c812d-106c-4f72-82d5-4d94e67d7952/itemsjson_fourSeasons2.png"
+		},
+		"title": "Godai Shuffle - Moonspell DLC"
+	}
+}

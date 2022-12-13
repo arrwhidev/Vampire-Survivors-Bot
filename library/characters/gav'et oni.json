@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "gav'et oni",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Gav'Et-Oni",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "**Mille Bolle Blu**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gains more projectiles every 20 levels (max +4)."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat 6000 Kappas"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/431bf3da-e367-4178-9495-a6501911cd64/gavet.gif"
+		},
+		"title": "Gav'Et-Oni - Moonspell DLC"
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "four seasons",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Generates 4 explosions. Amount and Duration affect damage instead.",
+		"fields": [
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Survive 15 minutes with **Menya**"
+            },
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with Max **Spinach** and **Candelabrador** to make **Godai Shuffle**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base\n(2) Area +100%\n(3) Area +50%\n(4) Cooldown +0.5\n(5) Area +100%\n(6) Area +50%\n(7) Cooldown +0.5\n(8) Area +50%"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ba780591-0095-49f4-a5fa-4df4212cf1d2/itemsjson_fourSeasons.png"
+		},
+		"title": "Four Seasons - Moonspell DLC"
+	}
+}

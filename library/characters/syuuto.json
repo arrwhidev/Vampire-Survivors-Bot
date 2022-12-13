@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "syuuto",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Syuuto Moonspell",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "**Summon Night**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Starts with hidden **Night Sword**. Morphs into a stronger version when his base weapon evolves."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Evolve the **Four Seasons**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/73a9d716-336c-42a1-ace9-f65977ffb812/syuuto.gif"
+		},
+		"title": "Syuuto Moonspell - Moonspell DLC"
+	}
+}

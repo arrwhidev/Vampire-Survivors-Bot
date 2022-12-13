@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "festive winds",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Evolved version of **Silver Wind**. Weakens enemy defenses.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Requires Max **Hollow Heart** for Evolution."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/ad345212-01fe-4e98-8a5f-f210180e17f0/itemsjson_silverWind2.png"
+		},
+		"title": "Festive Winds - Moonspell DLC"
+	}
+}

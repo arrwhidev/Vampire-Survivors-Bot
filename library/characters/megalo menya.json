@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "megalo menya",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Megalo Menya Moonspell",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Hidden **108 Bocce**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Cannot be damaged, but disappears after reaching the current Time Limit. Starts with hidden 108 Bocce."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat 100000 enemies in a single run with **Menya**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/3c8ca111-f5d5-41d0-966d-cb7ddb5577dc/megamenya.gif"
+		},
+		"title": "Megalo Menya Moonspell - Moonspell DLC"
+	}
+}

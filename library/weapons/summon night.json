@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "summon night",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Generates damaging zone above the character.",
+		"fields": [
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Survive 15 minutes with **Syuuto**"
+            },
+			{
+				"inline": false,
+				"name": "Evolution",
+				"value": "Evolves at level 8 with Max **Duplicator** to make **Echo Night**"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": "(1) Base\n(2) Projectiles +1\n(3) Duration +0.3\n(4) Damage +5\n(5) Projectile +1\n(6) Duration +0.3\n(7) Damage +5\n(8) Projectiles +1"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/f0108ce4-9658-4c26-8ad3-39f080a656b7/itemsjson_summonNight.png"
+		},
+		"title": "Summon Night - Moonspell DLC"
+	}
+}

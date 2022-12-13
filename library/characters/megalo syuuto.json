@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "megalo syuuto",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Megalo Syuuto Moonspell",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "**Night Sword**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Gains +1% Might every level."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Defeat 100,000 enemies in a single run with **Syuuto**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/776e8a05-cb1e-4209-8e3e-a2719fe2b511/megasyuuto.gif"
+		},
+		"title": "Megalo Syuuto Moonspell - Moonspell DLC"
+	}
+}

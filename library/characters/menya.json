@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "menya",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Menya Moonspell",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Four Seasons"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Becomes stronger and invincible for a fixed interval after defeating a large amount of enemies"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Evolve the **Silver Wind**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/d2fcc50c-d67e-4ef4-8e58-e7a6cb5c0ae8/menya.gif"
+		},
+		"title": "Menya Moonspell - Moonspell DLC"
+	}
+}
