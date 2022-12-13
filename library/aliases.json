@@ -325,7 +325,6 @@
 	"morbane": "forbidden scrolls of morbane",
 	"scroll": "forbidden scrolls of morbane",
 	"scrolls": "forbidden scrolls of morbane",
-	"moonspell": "purify",
 	"big trouser": "trouser",
 	"bigtrouser": "trouser",
 	"big trousers": "trouser",
@@ -370,5 +369,6 @@
 	"endless": "seventh trumpet",
 	"endless mode": "seventh trumpet",
 	"eudaimonia m.": "eudaimonia m",
-	"eudaimonia": "eudaimonia m"
+	"eudaimonia": "eudaimonia m",
+	"lantern": "purify"
 }

@@ -7,12 +7,17 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Permanently removes up to 100 random Golden Egg bonuses. This cannot be undone.",
+		"description": "A healer found in the south of **Moongolow**",
 		"fields": [
 			{
 				"inline": true,
-				"name": "Notes",
-				"value": "Found in the south of **Moongolow**, Only appears if your character has 5000+ eggs."
+				"name": "Flames of Moonspell",
+				"value": "Permanently remove up to 100 random Golden Egg bonuses. This cannot be undone.\nOnly shows up if the player has 5,000+ Golden Eggs."
+			},
+			{
+				"inline": true,
+				"name": "Lantern of Foscari",
+				"value": "Permanently removes all Golden Egg bonuses on Move Speed. This cannot be undone.\nOnly shows up if the player has 25,000+ Golden Eggs."
 			}
 		],
 		"footer": {
@@ -22,6 +27,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/55f02b52-5433-44b7-a33f-a1cf7a720835/flame2.png"
 		},
-		"title": "Flames of Moonspell - Purify"
+		"title": "Purify - Flames of Moonspell / Lantern of Foscari"
 	}
 }
