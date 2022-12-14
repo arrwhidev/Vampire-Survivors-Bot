@@ -7,7 +7,7 @@
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Generates freezing static projectiles with a chance to explode.",
+		"description": "Actually it's just 8. Damage affected by the difference between Curse and Luck.",
 		"fields": [
             {
                 "inline": false,
