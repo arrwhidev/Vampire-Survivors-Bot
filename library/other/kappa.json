@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "kappa",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "**Enemy**",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Found in the Mt. Moonspell, Down at the swamp, or at the Top Left frozen lake\nTo unlock **Gav'Et-Oni** A player needs to kill 6000 of these."
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/431bf3da-e367-4178-9495-a6501911cd64/gavet.gif"
+		},
+		"title": "Kappa - Moonspell DLC"
+	}
+}
