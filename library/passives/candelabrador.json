@@ -18,6 +18,11 @@
 				"inline": false,
 				"name": "Unlocks",
 				"value": "Unlocked by: Get **Santa Water** to Level 4."
+			},
+			{
+				"inline": false,
+				"name": "Moonspell DLC",
+				"value": "Required at max level with **Spinach** to evolve **Four Seasons** to **Godai Shuffle**"
 			}
 		],
 		"footer": {

@@ -18,6 +18,11 @@
 				"inline": false,
 				"name": "Unlocks",
 				"value": "Unlocked by: Survive 5 minutes with **Gennaro**."
+			},
+			{
+				"inline": false,
+				"name": "Moonspell DLC",
+				"value": "Required at max level to evolve **Silver Wind** to **Festive Winds**"
 			}
 		],
 		"footer": {

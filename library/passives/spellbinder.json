@@ -18,6 +18,11 @@
 				"inline": false,
 				"name": "Unlocks",
 				"value": "Unlocked by: Get **Runetracer** to Level 7."
+			},
+			{
+				"inline": false,
+				"name": "Moonspell DLC",
+				"value": "Required at max level to evolve **Millie Bolle Blu** to **Boo Roo Boolle**"
 			}
 		],
 		"footer": {

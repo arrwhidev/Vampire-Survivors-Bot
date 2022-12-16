@@ -18,6 +18,11 @@
 				"inline": false,
 				"name": "Evolution",
 				"value": "Required to evolve **Santa Water** to **La Borra**"
+			},
+			{
+				"inline": false,
+				"name": "Moonspell DLC",
+				"value": "Required at max level to evolve **Mirage Robe** to **J'Odore**"
 			}
 		],
 		"footer": {
