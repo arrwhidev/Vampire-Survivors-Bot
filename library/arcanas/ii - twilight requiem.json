@@ -1,13 +1,13 @@
 {
 	"metadata": {
 		"name": "ii - twilight requiem",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Listed weapon projectiles generate explosions when they expire.",
+		"description": "Listed weapon projectiles generate explosions when they expire. Explosion damage is affected by Curse.",
 		"fields": [
 			{
 				"inline": false,

@@ -1,7 +1,7 @@
 {
 	"metadata": {
-		"name": "murasama",
-		"aliases":[],
+		"name": "muramasa",
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -22,6 +22,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/8985ebc6-e96e-49a5-ad1e-377618df05ee/itemsjson_nightSword2.png"
 		},
-		"title": "Murasama - Moonspell DLC"
+		"title": "Muramasa - Moonspell DLC"
 	}
 }

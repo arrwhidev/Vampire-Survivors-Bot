@@ -1,7 +1,7 @@
 {
 	"metadata": {
-		"name": "millie bolle blu",
-		"aliases":[],
+		"name": "mille bolle blu",
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,11 +9,11 @@
 		"color": 12846604,
 		"description": "Fires lingering projectiles.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Unlocked after getting **Gav'Et-Oni**"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Unlocked after getting **Gav'Et-Oni**"
+			},
 			{
 				"inline": false,
 				"name": "Evolution",
@@ -32,6 +32,6 @@
 		"thumbnail": {
 			"url": "https://ucarecdn.com/711f73ed-1a95-430b-b4ea-0b7781d84287/itemsjson_bubble.png"
 		},
-		"title": "Millie Bolle Blu - Moonspell DLC"
+		"title": "Mille Bolle Blu - Moonspell DLC"
 	}
 }

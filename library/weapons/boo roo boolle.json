@@ -1,13 +1,13 @@
 {
 	"metadata": {
 		"name": "boo roo boolle",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
 	"content": {
 		"color": 12846604,
-		"description": "Evolved version of **Millie Bolle Blue**. Enables critical hits and combo finisher. Drains Health.",
+		"description": "Evolved version of **Mille Bolle Blue**. Enables critical hits and combo finisher. Drains Health.",
 		"fields": [
 			{
 				"inline": false,

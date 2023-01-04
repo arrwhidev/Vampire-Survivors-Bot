@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "night sword",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,15 +9,15 @@
 		"color": 12846604,
 		"description": "Dangerous, cursed weapon. Retaliates. Might steal hearts.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Find a Night Sword ||(In Mt. Moonspell)||"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Find a Night Sword ||(In Mt. Moonspell)||"
+			},
 			{
 				"inline": false,
 				"name": "Evolution",
-				"value": "Evolves at level 8 with Max **Stone Mask** to make **Murasama**"
+				"value": "Evolves at level 8 with Max **Stone Mask** to make **Muramasa**"
 			},
 			{
 				"inline": false,

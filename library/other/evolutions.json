@@ -1,7 +1,9 @@
 {
 	"metadata": {
 		"name": "evolutions",
-		"aliases":["combos"],
+		"aliases": [
+			"combos"
+		],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +29,7 @@
 			{
 				"inline": false,
 				"name": "Moonspell DLC Evolutions",
-				"value": "||(All the passives need to be Maxed!)\nSilver Wind +<&Pummarola&>= Festive Winds\nFour Seasons +<&Candelabrador&>+<&Spinach&>= Godai Shuffle\nSummon Night +<&Duplicator&>= Echo Night\nMirage Robe +<&Attractorb&>= J'Odore\nNight Sword +<&Stone Mask&>= Murasama\nMillie Bolle Blu +<&Spellbinder&>= Boo Roo Boolle||"
+				"value": "||(All the passives need to be Maxed!)\n<&Silver Wind&>+<&Pummarola&>=<&Festive Winds&>\n<&Four Seasons&>+<&Candelabrador&>+<&Spinach&>=<&Godai Shuffle&>\n<&Summon Night&>+<&Duplicator&>=<&Echo Night&>\n<&Mirage Robe&>+<&Attractorb&>=<&J'Odore&>\n<&Night Sword&>+<&Stone Mask&>=<&Muramasa&>\n<&Mille Bolle Blu&>+<&Spellbinder&>=<&Boo Roo Boolle&>||"
 			}
 		],
 		"footer": {
