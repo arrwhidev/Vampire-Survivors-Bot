@@ -80,7 +80,7 @@ func (h *DiscordHandler) messageCreate(s *discordgo.Session, m *discordgo.Messag
 				}
 				return
 			} else {
-				s.ChannelMessageSend(m.ChannelID, "Item not found!")
+				s.ChannelMessageSend(m.ChannelID, "```Item not found!```")
 			}
 		}
 	}
