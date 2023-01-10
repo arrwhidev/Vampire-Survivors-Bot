@@ -38,7 +38,7 @@ func (h *DiscordHandler) Stop() {
 	h.Session.Close()
 }
 
-//Handles messages
+// Handles messages
 func (h *DiscordHandler) messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if m.Author.ID == s.State.User.ID {
 		return
@@ -79,6 +79,8 @@ func (h *DiscordHandler) messageCreate(s *discordgo.Session, m *discordgo.Messag
 					h.Bot.Logger.Printf("[CMD] Command %s Successful!", args)
 				}
 				return
+			} else {
+				s.ChannelMessageSend(m.ChannelID, "Item not found!")
 			}
 		}
 	}
@@ -93,7 +95,7 @@ func SendEmbed(s *discordgo.Session, c string, m discordgo.MessageEmbed) error {
 	return err
 }
 
-//Checks wether message author has administrator permissions
+// Checks wether message author has administrator permissions
 func IsAdmin(s *discordgo.Session, m *discordgo.MessageCreate) (bool, error) {
 	perm, err := s.UserChannelPermissions(m.Author.ID, m.ChannelID)
 	if err != nil {
@@ -102,7 +104,7 @@ func IsAdmin(s *discordgo.Session, m *discordgo.MessageCreate) (bool, error) {
 	return perm&discordgo.PermissionAdministrator != 0, nil
 }
 
-//Bot status command
+// Bot status command
 func (h *DiscordHandler) StatusCmd(s *discordgo.Session, c string) {
 	guilds := s.State.Guilds
 	m := discordgo.MessageEmbed{
@@ -127,7 +129,7 @@ func (h *DiscordHandler) StatusCmd(s *discordgo.Session, c string) {
 	}
 }
 
-//Bot status command
+// Bot status command
 func (h *DiscordHandler) ListCmd(s *discordgo.Session, c string) {
 	guilds := s.State.Guilds
 	sort.Slice(guilds, func(i, j int) bool {
