@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "golden egg",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -14,10 +14,15 @@
 				"name": "Notes",
 				"value": "Can be bought from the **Merchant** for 10,000 gold."
 			},
-            {
+			{
 				"inline": true,
 				"name": "Drops",
 				"value": "One is dropped from killing enemies that guards the four secret passive items and five are dropped from killing Death with **Infinite Corridor**."
+			},
+			{
+				"inline": true,
+				"name": "Eggman",
+				"value": "Can be bought from the **Eggman** in bulk."
 			}
 		],
 		"footer": {

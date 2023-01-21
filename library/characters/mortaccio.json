@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "mortaccio",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -22,6 +22,11 @@
 				"inline": false,
 				"name": "Unlock",
 				"value": "Defeating a total of 3000 skeletons"
+			},
+			{
+				"inline": false,
+				"name": "Spoilers!",
+				"value": "||After getting **Chaos Malachite** Mortaccio will morph into a big skeleton when reaching level 80!||"
 			}
 		],
 		"footer": {

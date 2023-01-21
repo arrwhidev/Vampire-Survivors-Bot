@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "name": "chaos malachite",
+        "aliases": [
+            "anima of mortaccio"
+        ],
+        "spoiler": false,
+        "beta": true
+    },
+    "content": {
+        "color": 12846604,
+        "description": "||Allows Mortaccio to morph when reaching level 80||",
+        "fields": [
+            {
+                "inline": true,
+                "name": "||Notes||",
+                "value": "||Shows up in **Bat Country** at 18:00||"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/799a853c-3f35-4bd8-b473-0c634873bc67/itemsjson_cMalachite.png"
+        },
+        "title": "Chaos Malachite - Beta Content"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "charm",
+        "aliases": [],
+        "spoiler": false,
+        "beta": true
+    },
+    "content": {
+        "color": 12846604,
+        "description": "||Increases enemies spawn quantity by 20 per rank (max +100)||",
+        "fields": [
+            {
+                "inline": false,
+                "name": "||Max Rank||",
+                "value": "||5||"
+            },
+            {
+                "inline": false,
+                "name": "||Base Price||",
+                "value": "||10000 Coins||"
+            },
+            {
+                "inline": false,
+                "name": "||Unlock||",
+                "value": "||Unlocked by finding the Apoplexy at minute 09:00 in Bat Country||"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b6c2bc98-5659-4bf0-982d-7ebc4a84671d/itemsjson_Apoplexy.png"
+        },
+        "title": "Charm - Beta Content"
+    }
+}

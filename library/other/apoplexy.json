@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "apoplexy",
+        "aliases": [],
+        "spoiler": false,
+        "beta": true
+    },
+    "content": {
+        "color": 12846604,
+        "description": "||Allows to buy the **Charm** powerup||",
+        "fields": [
+            {
+                "inline": true,
+                "name": "||Notes||",
+                "value": "||Shows up in **Bat Country** at 09:00||"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b6c2bc98-5659-4bf0-982d-7ebc4a84671d/itemsjson_Apoplexy.png"
+        },
+        "title": "Apoplexy - Beta Content"
+    }
+}

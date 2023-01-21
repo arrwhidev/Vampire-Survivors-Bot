@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "eggman",
+        "aliases": [],
+        "spoiler": false,
+        "beta": true
+    },
+    "content": {
+        "color": 12846604,
+        "description": "||An egg dude.||",
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "fields": [
+            {
+                "inline": false,
+                "name": "||Notes||",
+                "value": "||If you have the Yellow Sign, collected a total of at least 5k Golden Eggs, and at least 1M gold, The Eggman appears in Moongolow.||"
+            },
+            {
+                "inline": false,
+                "name": "||Items||",
+                "value": "||Sells a golden egg for 10k, but also allows you to convert all your gold into Golden eggs!||"
+            }
+        ],
+        "thumbnail": {
+            "url": "https://ucarecdn.com/febc7447-13d9-4e12-9c6e-400bef466f34/itemsjson_merchant2.png"
+        },
+        "title": "Eggman - Beta Content"
+    }
+}

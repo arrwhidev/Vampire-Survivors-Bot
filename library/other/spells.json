@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "spells",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": true,
 		"beta": false
 	},
@@ -18,7 +18,7 @@
 				"name": "Spells",
 				"value": "||spinnn = Spins the screen\nrelaxenjoylife = Unlock Il Molise + Hyper\nhonesty = Unlock Moongolow + Hyper\ndotgogreenacres = Unlock Green Acres + Hyper\nrottingpizza = Unlock Bone Zone + Hyper\npeakgamedesign = Unlock Boss Rash\nexdashexoneviiq = Unlock Exdash\ntramezzini = Unlock Toastie\nmaybeimastallion = Unlock Smith\nrightninetyseven = Unlock MissingNo\nigottagettotheedgeofsoul = Unlock Random\nnoneladonna = Unlock Arca\nvivaladonna = Unlock Porta\nsuperladonna = Unlock Lama\nstrongestcharacter = Unlock Poe\nbioparco = Unlock Dommario\nfaschiuma  = Unlock Clerici\naccidenti = Unlock Krochi\ncrystalmakeup = Unlock Christine\ncarramba = Unlock Bianca + Carrelo\nreset = Unlock O'Sole Meeo + Celestial\nlanguorino = Unlock Ambrojoe + La Robba\nsecondevolution = Unlock Gyorunton\nearrivatolarrotino = Unlock Big Trouser\nlhovistoio = Unlock Cosmo\nfettinepanate = Unlock Marrabbio\nfoldinthecheese = Unlock Minnah\nyattapanda = Unlock Yatta + Cherry bomb||"
 			},
-            {
+			{
 				"inline": false,
 				"name": "More Spells",
 				"value": "||everything = Unlock all weapons for level up options\neverywhere = Unlock all main stages and hypermode\niwillneverletyouforgetaboutme = Unlock Leda\npinociampino = Unlock Peppino\nhighfive = Unlock Boros\nablasphemousmockery = Unlock Red Death\nthisshouldhavebeenunlockedbydefault  = Unlock Grimoire\nthistooshouldhavebeenunlockedbydefault = Unlock Gouda\nthankelrond = Unlock Banger\nleadmetothecheese = Unlock Map\ntimecompression = Unlock Tear\neggseggseggs = Unlock Vizard\nteleportustomars = Unlock Mindbender\nrandomazzami = Unlock Randomazzo + Sarabande of Healing\nihaveseenitihaveseenitihaveseenitihaveseenitihaveseenitihaveseenitihaveseenit = Unlock Yellow Sign\nicanhearthecriesofcaptainplanet = Unlock Great Gospel||"
@@ -31,12 +31,12 @@
 			{
 				"inline": false,
 				"name": "Even Even More Spells",
-				"value":"||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres\nkalvasflam = Unlock Avatar Infernas and Flames of Misspell\nfreezearrow = Unlocks Gracia'a Mirror\ndootdoot = Unlock Seventh Trumpet\nkamiki = Play as O'Sole in Moongolow with dusting, jubilee and cherry bomb\nspoopyseason = Spawns you with Ramba/Mortaccio/O'Sole/Yatta in Bonezone\nonjupiter = Spawns you in your last map and every pickup and lightsource slides down\nandmars = Same as onjupiter but everything goes up||"
+				"value": "||flymetothemoon = Unlock Pugnala\nthetwoassassins = Unlock Giovanna\nfeldschlacht = Unlock Poppea\nifeellovevenus = Unlock Concetta\nwaitreaction = Unlock Gallo\nquandolodicelui = Divano\nparadigmshift = Zi'Azzunta\nallatonce = Unlock Sigma\niwanttoseeitagain = Visit Holy Forbidden\npopthecorn = Spawns you with corn in Green Acres\nkalvasflam = Unlock Avatar Infernas and Flames of Misspell\nfreezearrow = Unlocks Gracia'a Mirror\ndootdoot = Unlock Seventh Trumpet\nkamiki = Play as O'Sole in Moongolow with dusting, jubilee and cherry bomb\nspoopyseason = Spawns you with Ramba/Mortaccio/O'Sole/Yatta in Bonezone\nonjupiter = Spawns you in your last map and every pickup and lightsource slides down\nandmars = Same as onjupiter but everything goes up||"
 			},
 			{
 				"inline": false,
 				"name": "Even Even Even More Spells",
-				"value":"||recyclethetower = Unlock Tiny Bridge\nnotsureitsthunder = Unlocks Scorej-Oni||"
+				"value": "||recyclethetower = Unlock Tiny Bridge\nnotsureitsthunder = Unlocks Scorej-Oni\nrecycletheforest = Unlocks Bat Country\ntengillesbalm = Unlock apoplexy\ngottagofast = Unlocks Chaos Malachite||"
 			},
 			{
 				"inline": false,

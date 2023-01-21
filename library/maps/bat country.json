@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "bat country",
+		"aliases": [],
+		"spoiler": false,
+		"beta": true
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||We can't stop here.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Blocks appear and take a few hits to break, they drop collectibles.||"
+			},
+			{
+				"inline": false,
+				"name": "||Other||",
+				"value": "||This map contains a **Apoplexy** at minute 09:00 and **Chaos Malachite** at minute 18:00||"
+			},
+			{
+				"inline": false,
+				"name": "||Unlock||",
+				"value": "||Reach Level 80 in the **Mad Forest** on **Inverse** mode||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/8e94bd9b-2bae-4832-90d6-b5e3dbaa1a60/UIjson_stage_batcountry.png"
+		},
+		"title": "Bat Country - Beta Content"
+	}
+}
