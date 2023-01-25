@@ -26,7 +26,7 @@
 			{
 				"inline": false,
 				"name": "Spoilers!",
-				"value": "||After getting **Chaos Malachite** Mortaccio will morph into a big skeleton when reaching level 80!||"
+				"value": "||After getting **Chaos Malachite** Mortaccio will morph into a big skeleton when reaching level 80!\nHe gains +2 Armor, +1 Amount, and +100 Max HP. He fully recovers HP. His Bone evolves into Anima of Mortaccio\nAnima of Mortaccio is an evolution, but for now can only be obtained by morphing Mortaccio. It shoots bones that accelerate after bouncing, and adds 2 skeletal arms around the player. The arms deal the same damage as a normal bone times Amount. After every 6th shot (cumulative), the arms start spinning (based on Duration), then they detach like normal projectiles (based on Duration), then they finally gets reattached to the character.||"
 			}
 		],
 		"footer": {
