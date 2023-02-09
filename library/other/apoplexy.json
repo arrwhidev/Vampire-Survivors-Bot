@@ -3,16 +3,16 @@
         "name": "apoplexy",
         "aliases": [],
         "spoiler": false,
-        "beta": true
+        "beta": false
     },
     "content": {
         "color": 12846604,
-        "description": "||Allows to buy the **Charm** powerup||",
+        "description": "Allows to buy the **Charm** powerup",
         "fields": [
             {
                 "inline": true,
-                "name": "||Notes||",
-                "value": "||Shows up in **Bat Country** at 09:00||"
+                "name": "Notes",
+                "value": "Shows up in **Bat Country** at 09:00"
             }
         ],
         "footer": {
@@ -22,6 +22,6 @@
         "thumbnail": {
             "url": "https://ucarecdn.com/b6c2bc98-5659-4bf0-982d-7ebc4a84671d/itemsjson_Apoplexy.png"
         },
-        "title": "Apoplexy - Beta Content"
+        "title": "Apoplexy"
     }
 }

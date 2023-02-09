@@ -5,16 +5,16 @@
             "anima of mortaccio"
         ],
         "spoiler": false,
-        "beta": true
+        "beta": false
     },
     "content": {
         "color": 12846604,
-        "description": "||Allows Mortaccio to morph when reaching level 80||",
+        "description": "Allows Mortaccio to morph when reaching level 80",
         "fields": [
             {
                 "inline": true,
-                "name": "||Notes||",
-                "value": "||Shows up in **Bat Country** at 18:00||"
+                "name": "Notes",
+                "value": "Shows up in **Bat Country** at 18:00"
             }
         ],
         "footer": {
@@ -24,6 +24,6 @@
         "thumbnail": {
             "url": "https://ucarecdn.com/799a853c-3f35-4bd8-b473-0c634873bc67/itemsjson_cMalachite.png"
         },
-        "title": "Chaos Malachite - Beta Content"
+        "title": "Chaos Malachite"
     }
 }
