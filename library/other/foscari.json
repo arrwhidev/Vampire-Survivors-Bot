@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "name": "moonspell",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Tides of the Foscari DLC contains unique content",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Characters",
+                "value": "Eleanor, Keitha, Maruto, Luminaire (Character), Genevieve, Je-Ne-Viv, Rottin Ghoul, Sammy"
+            },
+            {
+                "inline": false,
+                "name": "Weapons",
+                "value": "SpellString, SpellStream, SpellStrike, SpellStrom, Flash Arrow, Millionaire, Eskizzibur, Legionnaire, Prismatic Missile, Luminaire (Weapon), Shadow Servant, Ophion, Silver Silver, Party Popper, Party Pooper"
+            },
+            {
+                "inline": false,
+                "name": "Passive",
+                "value": "Academy Badge"
+            },
+            {
+                "inline": false,
+                "name": "Maps",
+                "value": "Lake Foscari, Abyss Foscari"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2313550/header.jpg"
+        },
+        "title": "Tides of the Foscari DLC"
+    }
+}

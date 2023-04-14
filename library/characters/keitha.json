@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "keitha",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Keitha Muort",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Flash Arrow**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Gains +1% Luck every level. Receives Academy Badge at Level 30"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Evolve the Eskizzibur"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a545725e-291f-4975-a68c-ccc4f62fe699/charactersjson_Keira_i0.gif"
+        },
+        "title": "Keitha Muort - Foscari DLC"
+    }
+}

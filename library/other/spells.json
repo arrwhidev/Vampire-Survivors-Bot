@@ -42,6 +42,11 @@
 				"inline": false,
 				"name": "Moonspell DLC Spells",
 				"value": "||ShounenHeroine = Unlocks Miang\nYoungAtHeart = Unlocks Menya\nItsNotAnEclipse = Unlocks Syuuto\nVogue = Unlocks Babi-Onna\nIonicoIonico = Unlocks McCoy-Oni\nElamadonna = Unlocks Megalo Menya\nTakeAShower = Unlocks Megalo Syuuto\nCheVolano = Unlocks Gav'Et-Oni||"
+			},
+			{
+				"inline": false,
+				"name": "Lake of Foscari DLC Spells",
+				"value": "||spellsomething = Unlocks Eleanor+SpellString\nspellwhatever = Unlocks SpellStream\nspellwhichever = Unlocks SpellStrike\nanimeismypassion = Unlocks Maruto+Eskizzibur\noopsistoleoneagain = Unlocks Keitha+Flash Arrow\ndeusexmachina = Unlocks Luminaire+Prismatic Missile\nbasicwitch = Unlocks Genevieve+Shadow Servant\ntheworldeater = Unlocks Je-Ne-Viv\nsouloftheparty = Unlocks Rottin'Ghoul+Party Popper\nhappybirthday = Unlocks Sammy||"
 			}
 		],
 		"thumbnail": {

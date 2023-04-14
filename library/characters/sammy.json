@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "sammy",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Sammy",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Vicious Hunger**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Gains XP when picking up Gold Coins and Coin Bags. Starts with temporarily reduced Might."
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Defeat a total of 6000 Sammies (Enemies in Lake of Foscari, above the right side of the river)"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/984b222c-2ef8-4e05-9e4d-6f9724993e43/foscariCharsjson_Cake_i0.gif"
+        },
+        "title": "Sammy - Foscari DLC"
+    }
+}

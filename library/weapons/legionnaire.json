@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "legionnaire",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Evolved version of **Eskizzibur**. Generates additional projectiles that deal retaliatory damage.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "Requires Max **Armor** for evolution."
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/92dd8d59-0b41-430a-bec0-020ebcd23e97/itemsjson_2Legionnaire.png"
+        },
+        "title": "Legionnaire - Foscari DLC"
+    }
+}

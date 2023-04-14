@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "spellstrike",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Strikes at the nearest enemy. Damage further multiplied by Might.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 6 with **SpellString** at level 6 and **SpellStream** at level 6 to make **SpellStrom**"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Unlocked by getting SpellStrike to Level 6."
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Cooldown -0.3\n(3) Damage +40\n(4) Cooldown -0.3\n(5) Damage +40\n(6) Cooldown -0.3"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/cfe7d5a4-5e59-4895-abfb-fa2cabe8796f/itemsjson_2SpellStrike.png"
+        },
+        "title": "SpellStrike - Foscari DLC"
+    }
+}

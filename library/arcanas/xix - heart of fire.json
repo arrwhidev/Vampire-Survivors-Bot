@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "xix - heart of fire",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "Works with **Fire wand**, **Hellfire**, **Valkyrie Turner**, **Tri-Bracelet** and **Phiera Der Tuphello**"
+				"value": "Works with **Fire wand**, **Hellfire**, **Valkyrie Turner**, **Tri-Bracelet**, **Phiera Der Tuphello**, **Prismatic Missile**, **Luminaire**"
 			}
 		],
 		"footer": {

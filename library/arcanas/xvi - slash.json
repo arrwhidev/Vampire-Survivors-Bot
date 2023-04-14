@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "xvi - slash",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "Works with **Knife**, **Thousand Edge**, **Whip**, **Bloody Tear**, **Axes**, **Death Spiral**, **Heaven Sword**, **Vento Sacro**, **Fuwalafuwaloo**, **Victory Sword**, **Murasama**"
+				"value": "Works with **Knife**, **Thousand Edge**, **Whip**, **Bloody Tear**, **Axes**, **Death Spiral**, **Heaven Sword**, **Vento Sacro**, **Fuwalafuwaloo**, **Victory Sword**, **Murasama**, **Eskizzibur**, **Legionnaire**, **Flash Arrow**, **Millionaire**"
 			}
 		],
 		"footer": {

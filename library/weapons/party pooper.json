@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "party pooper",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Counterpart to Party Popper from Arcana I - Gemini",
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/aa5de5f0-908a-4dbb-9990-8675d7ac6de6/itemsjson_2Party2.png"
+        },
+        "title": "Party Pooper - Foscari DLC"
+    }
+}

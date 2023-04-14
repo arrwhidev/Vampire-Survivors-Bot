@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "lake foscari",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "An enchanged forest stuffed with fae mysteries and mythological entities. The perfect place to have an average adventure with zero complications.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Available Items",
+                "value": "**Clover**, **Academy Badge**, **Skull'O Maniac**, **Armor**, **Crown**, **Bracer**"
+            },
+            {
+                "inline": false,
+                "name": "Other",
+                "value": "This map contains a **Coffin** used to unlock **Eleanor Uziron**\nThis map contains **Seal of the Lake** (bottom of the lake). Break it with Keitha to unlock **Abyss of Foscari**"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/7234a2d9-df0e-419e-a9d0-a66ce98cd072/UIjson_stage_foscari.png"
+        },
+        "title": "Lake Foscari - Foscari DLC"
+    }
+}

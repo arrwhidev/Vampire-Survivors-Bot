@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "genevieve",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Genevieve Gruyere",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Shadow Servant**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Triggers a Vacuum when leveling up. Once per life, triggers World Eater after receiving fatal damage."
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "With Eleanor, break the Seal of the Banished (left and up from Seal of the Abyss)"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/81212c5d-6ec8-40a1-b704-aa58b6507281/Genevieve.gif"
+        },
+        "title": "Genevieve - Foscari DLC"
+    }
+}

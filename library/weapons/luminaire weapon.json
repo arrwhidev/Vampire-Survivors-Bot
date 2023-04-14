@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "luminaire weapon",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Evolved Prismatic Missile. Increases the value of gems and coins on the ground.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "Requires Max **Crown** for evolution."
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/4a4b561a-3a3c-4aa2-96f5-c856d9e13c04/itemsjson_2Luminaire.png"
+        },
+        "title": "Luminaire (Weapon) - Foscari DLC"
+    }
+}

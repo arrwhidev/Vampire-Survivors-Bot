@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "prismatic missile",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Generates explosions around the character. Affected by the first chosen Arcana between II, XIV, or XIX.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 8 with Max **Crown** to make **Luminaire**(Weapon)"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Survive 15 minute with **Luminaire**(Character)"
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Projectiles +1, Area +40%\n(3) Projectiles +1, Damage +5\n(4) Cooldown -0.3\n(5) Projectiles +1, Area +40%\n(6) Projectiles +1, Damage +5\n(7) Cooldown -0.3\n(8) Projectiles +1, Speed +40%"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/b6d7cdf0-dc37-4bd8-a2f0-645654488bc9/itemsjson_2PrismaticMissile.png"
+        },
+        "title": "Prismatic Missile - Foscari DLC"
+    }
+}

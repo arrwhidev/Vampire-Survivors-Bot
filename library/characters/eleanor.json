@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "eleanor",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Eleanor Uziron",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**SpellString**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Recieves SpellStream at Level 10 and SpellStrike at Level 20. Receives Academy Badge at Level 30."
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Find and open the coffin in Lake Foscari"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/e3e83dc9-323e-43d0-b37a-641abb248cc9/charactersjson_Eleanor_i0.gif"
+        },
+        "title": "Eleanor Uziron - Foscari DLC"
+    }
+}

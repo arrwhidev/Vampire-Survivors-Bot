@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "je-ne-viv",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Je-Ne-Viv",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Shadow Servant**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "It will literally eat the world"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Defeat 100,000 enemies in a single run with Genevieve"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/c26dd386-4585-48cb-9b98-14618202adf4/Jeneviv.gif"
+        },
+        "title": "Je-Ne-Viv - Foscari DLC"
+    }
+}

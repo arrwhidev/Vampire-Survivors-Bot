@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "xiv - jail of crystal",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Notes",
-				"value": "Works with **Magic Wand**, **Holy Wand**, **Runetracer**, **NO FUTURE**, **Eight The Sparrow**, **Bracelet**"
+				"value": "Works with **Magic Wand**, **Holy Wand**, **Runetracer**, **NO FUTURE**, **Eight The Sparrow**, **Bracelet**, **Prismatic Missile**, **Luminaire**"
 			}
 		],
 		"footer": {

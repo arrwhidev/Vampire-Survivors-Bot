@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "rottin ghoul",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Rottin' Ghoul",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Party Popper**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Gets more projectiles every 20 levels (max +4)"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Defeat a total of 6000 Rotting Ghouls (Enemies in Abyss of Foscari)"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/7bc225a4-5b59-40f6-ac0f-ba6768861ef6/ghoul.gif"
+        },
+        "title": "Rottin' Ghoul - Foscari DLC"
+    }
+}

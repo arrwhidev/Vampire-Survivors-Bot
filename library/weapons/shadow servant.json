@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "shadow servant",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Has a chance to slow enemies down",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 8 with Max **Skull O' Maniac** to make **Ophion**"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Survive 15 minutes with **Genevieve**"
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Projectiles +1\n(3) Damage +10\n(4) Damage +10\n(5) Area +50%\n(6) Projectiles +1\n(7) Damage +10\n(8) Damage +10 "
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/0945ab7f-39ae-4cce-a255-b6a305eddd65/itemsjson_2ShadowServant.png"
+        },
+        "title": "Shadow Servant - Foscari DLC"
+    }
+}

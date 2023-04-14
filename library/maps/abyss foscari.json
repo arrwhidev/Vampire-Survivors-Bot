@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "abyss foscari",
+        "aliases": [],
+        "spoiler": true,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Sealed by Luminaire in ancient times to contain the darkness within, these underground ruins are now accessible, but so is the outside world to the evil from the depths.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Available Items",
+                "value": "Shadow Servant, Academy Badge, Armor, Torrona's Box, Empty Tome, Attractorb, Crown, Skull O Maniac, Stone Mask, Prismatic Missile"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Break the Seal of the Lake (In Lake Foscari) with Keitha"
+            },
+            {
+                "inline": false,
+                "name": "Seals",
+                "value": "Seal of Abyss (Bottom Left) break with Maruto to unlock **Luminaire (Character)**\nSeal of the banished (Up from seal of abyss) break with Eleanor to spawn a boss and unlock **Genevieve**"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/cf00760c-dd5e-41c0-afdc-4d1100151fd9/UIjson_stage_foscari2.png"
+        },
+        "title": "Abyss Foscari - Foscari DLC"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "spellstring",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Strikes at nearby enemies. Damage multiplied by Speed",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 6 with **SpellStream** at level 6 and **SpellStrike** at level 6 to make **SpellStrom**"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Unlocked by surviving 15 minutes with Eleanor Uziron"
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Projectiles +1\n(3) Projectiles +1, Damage +1\n(4) Projectiles +1\n(5) Projectiles +1, Damage +1\n(6) Projectiles +1"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/e1c951bf-44a0-46c5-a3f0-e5047a9986f2/itemsjson_2SpellString.png"
+        },
+        "title": "SpellString - Foscari DLC"
+    }
+}

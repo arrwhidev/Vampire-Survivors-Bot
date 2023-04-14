@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "spellstrom",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Union of **SpellString**, **SpellStream** and **SpellStrike**\nGrows stronger after every singularity.",
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/07be9ab5-4a38-415f-9507-3dbcfac4d476/itemsjson_2SpellStrom.png"
+        },
+        "title": "SpellStrom - Foscari DLC"
+    }
+}

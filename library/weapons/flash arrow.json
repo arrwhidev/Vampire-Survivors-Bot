@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "flash arrow",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Can deal critical damage. Amount affects damage instead",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 8 with Max **Bracer** and **Clover** to make **Millionaire**"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Survive 15 minutes with Keitha Muort"
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Speed +25%, Cooldown -0.5\n(3) Damage +10, Piercing +7\n(4) Area +20%, Cooldown -0.5\n(5) Damage +10, Piercing +7\n(6) Speed +25%, Cooldown -0.5\n\n(7) Damage +10, Piercing +7\n(8) Speed +25%, Cooldown -0.5"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/9e42842d-61d2-445a-a54b-143168d48ada/Arrow.png"
+        },
+        "title": "Flash Arrow - Foscari DLC"
+    }
+}

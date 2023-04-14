@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "millionaire",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Evolved Flash Arrow. Fires addition projectiles based on Amount adn when picking up gold coins.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "Requires Max **Bracer** and **Clover** for evolution."
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/a4805378-f928-449f-8e9b-2783dc12782b/itemsjson_2Millionaire.png"
+        },
+        "title": "Millionaire - Foscari DLC"
+    }
+}

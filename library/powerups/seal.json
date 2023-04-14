@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "seal",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -12,7 +12,7 @@
 			{
 				"inline": false,
 				"name": "Max Rank",
-				"value": "10"
+				"value": "Seal I - 10 | Seal II - 10"
 			},
 			{
 				"inline": false,
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Unlock",
-				"value": "Banish 10 or more weapons in a single run."
+				"value": "Banish 10(Seal I)/20(Seal II) or more weapons in a single run."
 			}
 		],
 		"footer": {

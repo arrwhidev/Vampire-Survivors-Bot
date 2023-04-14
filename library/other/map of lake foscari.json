@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "map of lake foscari",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Allows to see a detailed map when in Lake Foscari",
+        "fields": [
+            {
+                "inline": true,
+                "name": "Notes",
+                "value": "Picked up in Lake Foscari"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/5091c37a-140f-401a-9179-cde0be290e0a/itemsjson_Map_FS.png"
+        },
+        "title": "Map of Lake Foscari - Foscari DLC"
+    }
+}

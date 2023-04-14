@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "name": "academy badge",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Will provide bonus Amount and Revivals in exchange for Growth.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) [All]Fires 1 more projectile. XP gain decreases by -3%\n(3) Adds 1 Revival. XP gain decreases by -3%\n(4) [All]Fires 1 more projectile. XP gain decreases by -3%\n(5) Adds 1 Revival. XP gain decreases by -3%\n(6) [All]Fires 1 more projectile. XP gain decreases by -3%"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/11ae54c2-b699-4275-bce7-32f6ff0d5afe/itemsjson_2Badge.png"
+        },
+        "title": "Academy Badge - Foscari DLC"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "spellstream",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Generates an expanding damaging zone. Damage multiplied by Area.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Evolution",
+                "value": "Evolves at level 6 with **SpellString** at level 6 and **SpellStrike** at level 6 to make **SpellStrom**"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Unlocked by getting SpellStream to Level 6."
+            },
+            {
+                "inline": false,
+                "name": "Leveling",
+                "value": "(1) Base\n(2) Damage +5, Area +20%\n(3) Duration +0.3, Area +20%\n(4) Damage +5, Area +20%\n(5) Duration +0.3, Area +20%\n(6) Damage +5, Area +20%"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/6e69cb44-51d3-4b41-9fc4-f09a217710e5/itemsjson_2SpellStream.png"
+        },
+        "title": "SpellStream - Foscari DLC"
+    }
+}

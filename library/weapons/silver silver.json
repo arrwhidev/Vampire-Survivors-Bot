@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "name": "silver silver",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Counterpart toShadow Servant and Ophion from Arcana I - Gemini",
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/35bc297f-a1dc-4e23-b2e7-cc98d00cb70d/itemsjson_2ShadowServant_Counter.png"
+        },
+        "title": "Silver Silver - Foscari DLC"
+    }
+}

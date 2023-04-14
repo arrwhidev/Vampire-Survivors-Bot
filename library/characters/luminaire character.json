@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "name": "luminaire character",
+        "aliases": [],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Luminaire",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Starting Weapon",
+                "value": "**Prismatic Missile**"
+            },
+            {
+                "inline": false,
+                "name": "Ability",
+                "value": "Triggers a Roasry when leveling up. Gets a temporary Might, Cooldown, and Move Speed bonus after reviving."
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "With Maruto break the Seal of the Abyss (bottom left in Abyss of Foscari)"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/49368d09-6c25-4e89-875a-66e991ee4f6f/charactersjson_Luminaire_i0.gif"
+        },
+        "title": "Luminaire (Character) - Foscari DLC"
+    }
+}
