@@ -34,8 +34,8 @@
             "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
             "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
         },
-        "thumbnail": {
-            "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2313550/header.jpg"
+        "image": {
+            "url": "https://ucarecdn.com/46a15d33-aca1-4ecc-a113-7ba5eecb1f9b/header.jpg"
         },
         "title": "Tides of the Foscari DLC"
     }
