@@ -382,6 +382,11 @@
 	"sammies": "sammy",
 	"sammie": "sammy",
 	"seal of the lake": "lake foscari",
-	"seal of the abyss": "abyss foscari",
-	"seal of the banished": "abyss foscari"
+	"seal of abyss": "abyss foscari",
+	"seal of the banished": "abyss foscari",
+	"rottin'ghoul": "rottin ghoul",
+	"rottin' ghoul": "rottin ghoul",
+	"rotting ghoul": "rottin ghoul",
+	"rottingghoul": "rottin ghoul",
+	"spellstorm": "spellstrom"
 }
