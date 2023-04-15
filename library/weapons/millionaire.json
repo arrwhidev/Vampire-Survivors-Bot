@@ -7,7 +7,7 @@
     },
     "content": {
         "color": 12846604,
-        "description": "Evolved Flash Arrow. Fires addition projectiles based on Amount adn when picking up gold coins.",
+        "description": "Evolved Flash Arrow. Fires addition projectiles based on Amount and when picking up gold coins.",
         "fields": [
             {
                 "inline": false,
