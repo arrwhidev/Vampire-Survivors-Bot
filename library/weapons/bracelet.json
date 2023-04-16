@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "bracelet",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -24,12 +24,12 @@
 				"name": "Bracelet",
 				"value": "(1) Base\n(2) Damage +10\n(3) Passes through 1 more enemy\n(4) Projectiles +1, Area +10%\n(5) Passes through 1 more enemy\n(6) Damage +10"
 			},
-            {
+			{
 				"inline": false,
 				"name": "Bi-Bracelet",
 				"value": "(1) Base\n(2) Passes through 1 more enemy\n(3) Projectiles +1, Area +10%\n(4) Cooldown -0.2s, Duration +0.2s\n(5) Projectiles +1, Area +10%\n(6) Passes through 1 more enemy"
 			},
-            {
+			{
 				"inline": false,
 				"name": "Tri-Bracelet",
 				"value": "(1) Base\n(2) Projectiles +1, Area +10%\n(3) Cooldown -0.2s, Duration +0.2s\n(4) Projectiles +1, Damage +20%\n(5) Cooldown -0.2s, Duration +0.2s\n(6) Projectiles +1, Area +10%"
@@ -37,7 +37,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "Tell me what to put here :D"
+				"value": "<&Empty Tome&> <&Bracer&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

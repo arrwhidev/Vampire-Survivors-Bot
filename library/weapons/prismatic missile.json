@@ -23,6 +23,11 @@
                 "inline": false,
                 "name": "Leveling",
                 "value": "(1) Base\n(2) Projectiles +1, Area +40%\n(3) Projectiles +1, Damage +5\n(4) Cooldown -0.3\n(5) Projectiles +1, Area +40%\n(6) Projectiles +1, Damage +5\n(7) Cooldown -0.3\n(8) Projectiles +1, Speed +40%"
+            },
+            {
+                "inline": false,
+                "name": "Synergy With",
+                "value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spinach&> <&Armor&> <&Duplicator&>"
             }
         ],
         "footer": {

@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "greatest jubilee",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +27,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "Stuff probably"
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

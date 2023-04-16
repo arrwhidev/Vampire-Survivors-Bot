@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "bone",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +27,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

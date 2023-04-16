@@ -1,7 +1,9 @@
 {
 	"metadata": {
 		"name": "celestial dusting",
-		"aliases":["flowers"],
+		"aliases": [
+			"flowers"
+		],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +29,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Wings&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Wings&>"
 			}
 		],
 		"footer": {

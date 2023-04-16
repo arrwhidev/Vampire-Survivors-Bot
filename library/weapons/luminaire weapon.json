@@ -13,6 +13,11 @@
                 "inline": false,
                 "name": "Notes",
                 "value": "Requires Max **Crown** for evolution."
+            },
+            {
+                "inline": false,
+                "name": "Synergy With",
+                "value": "<&Empty Tome&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Armor&> <&Duplicator&>"
             }
         ],
         "footer": {

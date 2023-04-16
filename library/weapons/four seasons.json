@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "four seasons",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,11 +9,11 @@
 		"color": 12846604,
 		"description": "Generates 4 explosions. Amount and Duration affect damage instead.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Survive 15 minutes with **Menya**"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive 15 minutes with **Menya**"
+			},
 			{
 				"inline": false,
 				"name": "Evolution",
@@ -23,6 +23,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base\n(2) Area +100%\n(3) Area +50%\n(4) Cooldown +0.5\n(5) Area +100%\n(6) Area +50%\n(7) Cooldown +0.5\n(8) Area +50%"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

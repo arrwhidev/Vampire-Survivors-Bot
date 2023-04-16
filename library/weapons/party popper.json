@@ -18,6 +18,11 @@
                 "inline": false,
                 "name": "Leveling",
                 "value": "(1) Base\n(2) Duration +0.5\n(3) Speed +20%\n(4) Damage +10\n(5) Duration +0.5\n(6) Speed +20%\n(7) Damage +10\n(8) Duration +1"
+            },
+            {
+                "inline": false,
+                "name": "Synergy With",
+                "value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
             }
         ],
         "footer": {

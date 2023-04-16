@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "108 bocce",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,15 +9,20 @@
 		"color": 12846604,
 		"description": "Actually it's just 8. Damage affected by the difference between Curse and Luck.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Survive 15 minutes with **McCoy-Oni**"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive 15 minutes with **McCoy-Oni**"
+			},
 			{
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base\n(2) Damage +4\n(3) Damage +4, Cooldown -0.1\n(4) Damage +4\n(5) Damage +4, Cooldown -0.1\n(6) Damage +4\n(7) Damage +4, Cooldown -0.1\n(8) Damage +4"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Clover&> <&Spinach&> <&Curse&>"
 			}
 		],
 		"footer": {

@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "valkyrie turner",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Spinach&> <&Spellbinder&> <&Empty Tome&> <&Wings&> <&Candelabrador&> <&Bracer&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Wings&>"
 			}
 		],
 		"footer": {

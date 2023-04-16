@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "sole solution",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -13,6 +13,11 @@
 				"inline": false,
 				"name": "Notes",
 				"value": "Requires Max **Torrona's Box** and Max **Victory Sword**."
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Spinach&>"
 			}
 		],
 		"footer": {

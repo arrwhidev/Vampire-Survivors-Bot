@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "silver wind",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,11 +9,11 @@
 		"color": 12846604,
 		"description": "Defeated enemies might drop hearts.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Survive 15 minutes with **Miang**"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive 15 minutes with **Miang**"
+			},
 			{
 				"inline": false,
 				"name": "Evolution",
@@ -23,6 +23,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base\n(2) Projectiles +2\n(3) Damage +5, Proj Speed +10%\n(4) Damage +5, Duration +0.3\n(5) Projectiles +2\n(6) Damage +5, Proj Speed +10%\n(7) Damage +5, Duration +0.3\n(8) Projectiles +2"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Pummarola&> <&Duplicator&>"
 			}
 		],
 		"footer": {

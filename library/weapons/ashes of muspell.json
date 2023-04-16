@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "ashes of muspell",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": true,
 		"beta": false
 	},
@@ -9,7 +9,7 @@
 		"color": 12846604,
 		"description": "||Evolved form of **Flames of Misspell**. The more enemies are defeated, the stronger it grows.||",
 		"fields": [
-            {
+			{
 				"inline": false,
 				"name": "||Notes||",
 				"value": "||Requires Torrona's Box level 9 to evolve||"
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "||Synergy With||",
-				"value": "||Stuff probably||"
+				"value": "||<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&>||"
 			}
 		],
 		"footer": {

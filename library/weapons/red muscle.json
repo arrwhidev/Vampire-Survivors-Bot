@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "red muscle",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -13,6 +13,11 @@
 				"inline": false,
 				"name": "Notes",
 				"value": "Phiera Der Tuphello's Counterpart, obtained through **I - Gemini**"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

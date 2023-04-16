@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "heaven sword",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Clover&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Clover&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

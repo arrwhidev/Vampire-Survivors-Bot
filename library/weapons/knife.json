@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "knife",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +27,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Clover&> <&Bracer&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

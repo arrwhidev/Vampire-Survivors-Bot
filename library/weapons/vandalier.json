@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "vandalier",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Spinach&> <&Spellbinder&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

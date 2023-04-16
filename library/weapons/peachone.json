@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "peachone",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -32,7 +32,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Wings&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Wings&>"
 			}
 		],
 		"footer": {

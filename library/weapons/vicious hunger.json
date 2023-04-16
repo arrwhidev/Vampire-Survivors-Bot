@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "vicious hunger",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Clover&> <&Spinach&> <&Candelabrador&> <&Bracer&> <&Spellbinder&> <&Duplicator&> <&Empty Tome&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Stone Mask&>"
 			}
 		],
 		"footer": {

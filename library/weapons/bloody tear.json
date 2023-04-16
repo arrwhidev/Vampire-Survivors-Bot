@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "bloody tear",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -22,7 +22,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Hollow Heart&> <&Empty Tome&> <&Candelabrador&> <&Clover&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Clover&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

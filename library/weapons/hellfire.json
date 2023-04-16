@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "hellfire",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Spinach&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

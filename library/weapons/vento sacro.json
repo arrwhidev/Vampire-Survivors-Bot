@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "vento sacro",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -32,7 +32,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Bracer&> <&Candelabrador&> <&Clover&> <&Duplicator&> <&Empty Tome&> <&Spellbinder&> <&Spinach&> <&Wings&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Duplicator&> <&Wings&>"
 			}
 		],
 		"footer": {

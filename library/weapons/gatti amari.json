@@ -1,7 +1,9 @@
 {
 	"metadata": {
 		"name": "gatti amari",
-		"aliases":["cat"],
+		"aliases": [
+			"cat"
+		],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +29,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Empty Tome&> <&Candelabrador&> <&Bracer&> <&Clover&> <&Spinach&> <&Spellbinder&> <&Duplicator&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			},
 			{
 				"inline": false,

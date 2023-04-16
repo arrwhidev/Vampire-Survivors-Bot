@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "mirage robe",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -9,11 +9,11 @@
 		"color": 12846604,
 		"description": "Generates freezing static projectiles with a chance to explode.",
 		"fields": [
-            {
-                "inline": false,
-                "name": "Unlock",
-                "value": "Survive 15 minutes with **Babi-Onna**"
-            },
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive 15 minutes with **Babi-Onna**"
+			},
 			{
 				"inline": false,
 				"name": "Evolution",
@@ -23,6 +23,11 @@
 				"inline": false,
 				"name": "Leveling",
 				"value": "(1) Base\n(2) Duration +1\n(3) Duration +1, Damage +10\n(4) 10% Chance to explode\n(5) Duration +1\n(6) Duration +1, Damage +10\n(7) 20% Chance to explode\n(8) Damage +20"
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": "<&Empty Tome&> <&Candelabrador&> <&Clover&> <&Spellbinder&> <&Spinach&> <&Duplicator&>"
 			}
 		],
 		"footer": {

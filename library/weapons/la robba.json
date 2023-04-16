@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "la robba",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -27,7 +27,7 @@
 			{
 				"inline": false,
 				"name": "Synergy With",
-				"value": "<&Spinach&> <&Spellbinder&> <&Bracer&> <&Candelabrador&> <&Duplicator&> <&Empty Tome&>"
+				"value": "<&Empty Tome&> <&Bracer&> <&Candelabrador&> <&Spellbinder&> <&Spinach&> <&Duplicator&> "
 			}
 		],
 		"footer": {
