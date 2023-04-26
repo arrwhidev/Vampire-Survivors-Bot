@@ -107,11 +107,7 @@ func (h *LibraryHandler) LoadLibrary() {
 				json.Unmarshal(data, item)
 				h.DLibrary[item.Metadata.Name], h.TLibrary[item.Metadata.Name] = h.ConvertEmotes(item)
 				h.Fuzzy = append(h.Fuzzy, item.Metadata.Name)
-				if item.Metadata.Spoiler || item.Metadata.Beta {
-					category.Content.Fields[0].Value += fmt.Sprintf("||%s||, ", item.Metadata.Name)
-				} else {
-					category.Content.Fields[0].Value += fmt.Sprintf("%s, ", item.Metadata.Name)
-				}
+				addToCategory(category, item)
 			}
 			fobj.Close()
 		}
@@ -120,6 +116,28 @@ func (h *LibraryHandler) LoadLibrary() {
 		h.DLibrary[category.Name], h.TLibrary[category.Name] = h.ConvertEmotes(item)
 		h.Categories[category.Name] = category
 	}
+}
+
+func addToCategory(cat *Category, item *DbItem) {
+	var name = fmt.Sprintf("%s, ", item.Metadata.Name)
+	if item.Metadata.Spoiler || item.Metadata.Beta {
+		name = fmt.Sprintf("||%s||, ", item.Metadata.Name)
+	}
+	var fieldIdx int
+	for fieldIdx < len(cat.Content.Fields) {
+		if len(cat.Content.Fields[fieldIdx].Value)+len(name) < 1024 {
+			break
+		}
+		fieldIdx++
+	}
+	if fieldIdx >= len(cat.Content.Fields) {
+		cat.Content.Fields = append(cat.Content.Fields, &discordgo.MessageEmbedField{
+			Name:   cat.Content.Fields[0].Name,
+			Value:  "",
+			Inline: cat.Content.Fields[0].Inline,
+		})
+	}
+	cat.Content.Fields[fieldIdx].Value += name
 }
 
 func (h *LibraryHandler) LoadAliases() {
