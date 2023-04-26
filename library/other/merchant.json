@@ -1,7 +1,9 @@
 {
 	"metadata": {
 		"name": "merchant",
-		"aliases":["pantalone"],
+		"aliases": [
+			"pantalone"
+		],
 		"spoiler": false,
 		"beta": false
 	},
@@ -18,21 +20,21 @@
 				"name": "Notes",
 				"value": "The merchant first spawns on **Moongolow**, and after buying **Glass Vizard** will appear in every map."
 			},
-            {
-                "inline":false,
-                "name":"Items",
-                "value":"Golden Egg - 10,000\nGlass Vizard - 10,000 (One time)\nBone - 1000\nCherry Bomb - 1000\nCarrello - 1000\nCelestial Dusting - 1000"
-            },
-            {
-                "inline":false,
-                "name":"Inverse Mode",
-                "value":"Arcana - 20,000\nSkip - 100\nBanish - 500\nReroll - 1000"
-            },
-            {
-                "inline":false,
-                "name":"Endless Mode",
-                "value":"Respawns every cycle and sells +1 Revive instead of golden eggs"
-            }
+			{
+				"inline": false,
+				"name": "Items",
+				"value": "Golden Egg - 10,000\nGlass Vizard - 10,000 (One time)\nBone - 1000\nCherry Bomb - 1000\nCarrello - 1000\nCelestial Dusting - 1000\nMillie Bolle Blu - 1000\nParty Popper - 1000"
+			},
+			{
+				"inline": false,
+				"name": "Inverse Mode",
+				"value": "Arcana - 20,000\nSkip - 100\nBanish - 500\nReroll - 1000"
+			},
+			{
+				"inline": false,
+				"name": "Endless Mode",
+				"value": "Respawns every cycle and sells +1 Revive instead of golden eggs"
+			}
 		],
 		"thumbnail": {
 			"url": "https://ucarecdn.com/6118dd86-d5b0-4413-aa73-310360e7ce9d/Pantalone.png"
