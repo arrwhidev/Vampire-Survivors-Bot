@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "gracia's mirror",
-		"aliases":[],
+		"aliases": [],
 		"spoiler": false,
 		"beta": false
 	},
@@ -17,7 +17,7 @@
 			{
 				"inline": false,
 				"name": "Effects",
-				"value": "\nStages layout is upside down (can be disabled in Options) plus minor visual changes depending on stage.\nGold gains are increased by 200%. Luck bonus of 20%.\nEnemies start with +200% Max Health.\nEnemies gain 5% Max Health every minute and and 1% movement speed every 2 minutes (cumulative with the Bone Zone enemy bonuses).\nThe merchant also sells: Skip, Banish, and Reroll (can carry up to 20) and 1 extra Arcana."
+				"value": "\nStage layout is upside down (can be disabled in Options) plus minor visual changes depending on stage.\nGold gains are increased by 200%. Luck bonus of 20%.\nEnemies start with +200% Max Health.\nEnemies gain 5% Max Health every minute and 1% movement speed every 2 minutes (cumulative with the Bone Zone enemy bonuses).\nThe merchant also sells: Skip, Banish, and Reroll (can carry up to 20) and 1 extra Arcana."
 			}
 		],
 		"footer": {
