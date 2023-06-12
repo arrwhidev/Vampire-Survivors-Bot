@@ -15,6 +15,11 @@
                 "inline": true,
                 "name": "Notes",
                 "value": "Found in **Astral Stair**. Allows the character Yatta Cavallo to morph when reaching Level 80. It gets a few minor stats boost and evolves its Cherry Bomb weapon into Yatta Daikarin. The weapon evolution still throws bombs, but also draws 'constellations' around the character that explode, dealing luck-based damage."
+            },
+            {
+                "inline": true,
+                "name": "Gold Finger",
+                "value": "Yatta Daikarin can also be obtained from Gold Finger if the user has less than 7 weapons and no anima weapon"
             }
         ],
         "footer": {

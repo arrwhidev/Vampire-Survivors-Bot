@@ -15,6 +15,11 @@
                 "inline": true,
                 "name": "Notes",
                 "value": "Shows up in **Bat Country** at 18:00"
+            },
+            {
+                "inline": true,
+                "name": "Gold Finger",
+                "value": "Anima of Mortaccio can also be obtained from Gold Finger if the user has less than 7 weapons and no anima weapon"
             }
         ],
         "footer": {
