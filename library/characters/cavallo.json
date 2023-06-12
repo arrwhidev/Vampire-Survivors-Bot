@@ -23,6 +23,11 @@
 				"inline": false,
 				"name": "Unlock",
 				"value": "Defeat a total of 3000 **Lionheads**."
+			},
+			{
+				"inline": false,
+				"name": "Spoilers!",
+				"value": "||After getting **Chaos Rosalia** Yatta will morph into a Yatta Daikrain. It gets a few minor stats boost and evolves its Cherry Bomb weapon into Yatta Daikarin. The weapon evolution still throws bombs, but also draws 'constellations' around the character that explode, dealing luck-based damage.||"
 			}
 		],
 		"footer": {

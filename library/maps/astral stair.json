@@ -1,0 +1,42 @@
+{
+	"metadata": {
+		"name": "astral stair",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "A highway used to reach other worlds and dimensions. It's dangerous to venture through alone, but you probably won't listen to me anyway, will you?",
+        "fields": [
+			{
+				"inline": false,
+				"name": "Notes",
+				"value": "Enemies grow stronger over time. Contains Trisection and Chaos Rosalia"
+			},
+            {
+				"inline": false,
+				"name": "Available Items",
+				"value": "Phiera Der Tuphello, Eight The Sparrow"
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Reach Level 80 in the **Inlaid Library** on **Inverse** mode"
+			},
+			{
+				"inline": false,
+				"name": "Spoilers",
+				"value": "||Has an intro cutscene (auto-skipped after all relics in the stage have been obtained). Initially, it looks like the usual infinitely repeating stages, but it's actually a single giant map. It's confusing to navigate until you discover it actually has a very simple layout. Players can use teleporters to move through different rooms. Has enemies that follow the beat of the music and turn either red or blue. They can be damaged only by weapons of the same colour they're currently 'wearing'. Has special boss enemies,  Cosmic Eggs , which can cast the same Infinite Corridor ability the player can normally obtain. It halves the player's health at every cast, making it potentially dangerous even to characters with crazy bonuses.||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/19a5c669-560b-4f59-9e0c-a87f976ce0cb/UIjson_stage_astralstair.png"
+		},
+		"title": "Astral Stair"
+	}
+}

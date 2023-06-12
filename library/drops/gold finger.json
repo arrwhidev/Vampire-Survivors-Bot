@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "gold finger",
+		"aliases":["bronze finger", "silver finger", "gold finger"],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Gives temporary invulnerability, bonus Charm, and minimum Cooldown. Defeat as many enemies as possible to win a prize.",
+        "fields": [
+            {
+				"inline": false,
+				"name": "Notes",
+				"value": "A new pickup that triggers a special event in which the character becomes invincible and more powerful for a set amount of time. During this time, a counter is displayed to show how many enemies are getting defeated in the invincibility period.  When the invincibility ends, the player is given a score and a prize. After finding the Trisection, the Gold Finger has a very slim chance to be dropped in most stages."
+			},
+            {
+				"inline": false,
+				"name": "Thresholds",
+				"value": "Bronze: 0\nSilver:  500 + Player Level\nGold:  1000 + Player Level x2\nDemon: 1500 + Player Level x3\nCosmic:  2500 + Player Level x4"
+			},
+            {
+				"inline": false,
+				"name": "Rewards",
+				"value": "Bronze: healing + bouncy weapon if the players has less than 6 total items\nSilver: coins + healing + Little Clover + random pickup between Gilded Clover, NFT, or Rosary.\nGold: coins + floor chicken + treasure chest (no evo)\nDemon: coins + treasure chest (with evos)\nCosmic: coins + treasure chest (with evos) + random weapon"
+			}
+        ],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/b6c2a2f4-cd8e-4a03-8847-1323e86e34f2/itemsjson_goldenFinger0.png"
+		},
+		"title": "Gold Finger"
+	}
+}

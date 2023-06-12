@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "name": "chaos rosalia",
+        "aliases": [
+            "yatta daikarin"
+        ],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Allows Yatta to morph when reaching level 80",
+        "fields": [
+            {
+                "inline": true,
+                "name": "Notes",
+                "value": "Found in **Astral Stair**. Allows the character Yatta Cavallo to morph when reaching Level 80. It gets a few minor stats boost and evolves its Cherry Bomb weapon into Yatta Daikarin. The weapon evolution still throws bombs, but also draws 'constellations' around the character that explode, dealing luck-based damage."
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": "https://ucarecdn.com/bb7a0db9-d9f5-4427-bff6-35ebce9ec867/itemsjson_cRosalia.png"
+        },
+        "title": "Chaos Rosalia"
+    }
+}

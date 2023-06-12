@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "trisection",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enables random effects in all stages",
+		"fields": [
+			{
+				"inline": true,
+				"name": "Notes",
+				"value": "Found in the **Astral Stair**. Unlocks a new game mode called 'Randomize Minute Events'. In this mode, there are spinning wheels that can be seen in the bottom right corner of the screen. They triggers special events every minute; whether they're good or bad depends on the character's Luck stat. Good luck! "
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/93726817-53dc-48dd-b361-8c7c3d29d88c/itemsjson_trisection.png"
+		},
+		"title": "Trisection"
+	}
+}

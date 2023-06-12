@@ -1,18 +1,18 @@
 {
     "metadata": {
-        "name": "map of lake foscari",
+        "name": "map of astral stair",
         "aliases": [],
         "spoiler": false,
         "beta": false
     },
     "content": {
         "color": 12846604,
-        "description": "Allows to see a detailed map when in Lake Foscari",
+        "description": "Allows to see a detailed map when in Astral Stair",
         "fields": [
             {
                 "inline": true,
                 "name": "Notes",
-                "value": "Picked up in Lake Foscari"
+                "value": "Picked up in Astral Stair"
             }
         ],
         "footer": {
@@ -20,8 +20,8 @@
             "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/5692630a-28d4-4dc6-aeb9-b891d9a7fd58/itemsjson_Map_FS.png"
+            "url": "https://ucarecdn.com/d5dd68c2-bce1-4156-870f-113a62249725/itemsjson_Map_AS.png"
         },
-        "title": "Map of Lake Foscari - Foscari DLC"
+        "title": "Map of Astral Stair"
     }
 }

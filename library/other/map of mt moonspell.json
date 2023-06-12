@@ -1,18 +1,18 @@
 {
     "metadata": {
-        "name": "map of lake foscari",
+        "name": "map of mt moonspell",
         "aliases": [],
         "spoiler": false,
         "beta": false
     },
     "content": {
         "color": 12846604,
-        "description": "Allows to see a detailed map when in Lake Foscari",
+        "description": "Allows to see a detailed map when in Mt. Moonspell",
         "fields": [
             {
                 "inline": true,
                 "name": "Notes",
-                "value": "Picked up in Lake Foscari"
+                "value": "Picked up in Mt. Moonspell"
             }
         ],
         "footer": {
@@ -20,8 +20,8 @@
             "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
         },
         "thumbnail": {
-            "url": "https://ucarecdn.com/5692630a-28d4-4dc6-aeb9-b891d9a7fd58/itemsjson_Map_FS.png"
+            "url": "https://ucarecdn.com/6d5997c2-110d-43b7-b4ca-d9b1d63d3229/itemsjson_Map_MS.png"
         },
-        "title": "Map of Lake Foscari - Foscari DLC"
+        "title": "Map of Mt Moonspell - Moonspell DLC"
     }
 }
