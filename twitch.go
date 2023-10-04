@@ -1,4 +1,4 @@
-package main
+package vampbot
 
 import (
 	"fmt"
@@ -37,7 +37,7 @@ func (h *TwitchHandler) Stop() {
 
 var IsTChan = regexp.MustCompile(`[^0-9]`).FindString
 
-//Handles incoming twitch messages
+// Handles incoming twitch messages
 func (h *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 	//Checking self channel for join requests
 	if strings.EqualFold(m.Channel, h.Bot.Creds.TName) {
@@ -63,7 +63,7 @@ func (h *TwitchHandler) twitchMessage(m twitch.PrivateMessage) {
 	}
 }
 
-//Converts library content to Twitch appropriate message
+// Converts library content to Twitch appropriate message
 func (h *TwitchHandler) createResponse(content discordgo.MessageEmbed) string {
 	var fields string
 	for _, embed_f := range content.Fields {
@@ -78,7 +78,7 @@ func (h *TwitchHandler) createResponse(content discordgo.MessageEmbed) string {
 	return result
 }
 
-//Joining initial twitch channels
+// Joining initial twitch channels
 func (h *TwitchHandler) JoinInitialChans() {
 	for k := range h.Bot.Database.Chans {
 		//Trying to join non-discord channels
@@ -90,7 +90,7 @@ func (h *TwitchHandler) JoinInitialChans() {
 	h.Session.Join(h.Bot.Creds.TName)
 }
 
-//Checking if channel is in cooldown
+// Checking if channel is in cooldown
 func (h *TwitchHandler) CheckCooldown(ch string) bool {
 	now := time.Now()
 	if time, ok := h.Cooldowns[ch]; ok {

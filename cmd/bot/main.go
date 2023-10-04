@@ -4,14 +4,15 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
+	"vampbot"
 
 	"github.com/joho/godotenv"
 )
 
 func main() {
 	godotenv.Load()
-	bot := MakeVampBot(
-		Config{
+	bot := vampbot.MakeVampBot(
+		vampbot.Config{
 			DToken: os.Getenv("DISCORD_TOKEN"),
 			TToken: os.Getenv("TWITCH_TOKEN"),
 			TName:  os.Getenv("TWITCH_NAME"),

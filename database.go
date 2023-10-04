@@ -1,4 +1,4 @@
-package main
+package vampbot
 
 import (
 	"encoding/json"
@@ -28,7 +28,7 @@ func MakeDatabaseHandler(bot *VampBot, path string) *DatabaseHandler {
 	return db
 }
 
-//Creating buckets
+// Creating buckets
 func (db *DatabaseHandler) CreateBuckets() {
 	db.Bolt.Update(func(tx *bolt.Tx) error {
 		_, err := tx.CreateBucketIfNotExists([]byte("Chans"))
@@ -43,7 +43,7 @@ func (db *DatabaseHandler) CreateBuckets() {
 	})
 }
 
-//Loading channels from database
+// Loading channels from database
 func (db *DatabaseHandler) LoadChannels() {
 	db.Chans = make(map[string]Channel)
 	db.Bolt.View(func(tx *bolt.Tx) error {
@@ -62,7 +62,7 @@ func (db *DatabaseHandler) LoadChannels() {
 	})
 }
 
-//Loading guilds from database
+// Loading guilds from database
 func (db *DatabaseHandler) LoadGuilds() {
 	db.Guilds = make(map[string]bool)
 	db.Bolt.View(func(tx *bolt.Tx) error {
@@ -75,7 +75,7 @@ func (db *DatabaseHandler) LoadGuilds() {
 	})
 }
 
-//Adding channel to database
+// Adding channel to database
 func (db *DatabaseHandler) CreateChan(id, prefix string) (Channel, error) {
 	ch := Channel{id, prefix}
 	v, _ := json.Marshal(ch)
@@ -92,7 +92,7 @@ func (db *DatabaseHandler) CreateChan(id, prefix string) (Channel, error) {
 	return ch, err
 }
 
-//Adding guild to database
+// Adding guild to database
 func (db *DatabaseHandler) CreateGuild(id string) error {
 	v, _ := json.Marshal(true)
 	err := db.Bolt.Update(func(tx *bolt.Tx) error {
