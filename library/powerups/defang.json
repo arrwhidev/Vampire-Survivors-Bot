@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "defang",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Enemies spawn unable to deal damage 3% of the times per rank (max 15%)",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Max Rank",
+				"value": "5"
+			},
+			{
+				"inline": false,
+				"name": "Base Price",
+				"value": "10 Coins"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": ""
+		},
+		"title": "Defang"
+	}
+}
