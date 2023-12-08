@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "celestial voulge",
+		"aliases": [],
+		"spoiler": true,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "||Evolved form of **Glass Fandango**. Has a chance to deal critical hits and to freeze enemies. Deals continuous damage.||",
+		"fields": [
+			{
+				"inline": false,
+				"name": "||Notes||",
+				"value": "||Requires Wings level 5 to evolve!||"
+			},
+			{
+				"inline": false,
+				"name": "||Synergy With||",
+				"value": "||||"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": ""
+		},
+		"title": "Celestial Voulge"
+	}
+}
