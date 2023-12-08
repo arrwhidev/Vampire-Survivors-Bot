@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "glass fandango",
+		"aliases": [],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Stronger with movement, Orologions, and against frozen enemies.",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Get Glass Fandago to level 7"
+			},
+			{
+				"inline": false,
+				"name": "Leveling",
+				"value": ""
+			},
+			{
+				"inline": false,
+				"name": "Synergy With",
+				"value": ""
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": ""
+		},
+		"title": "Glass Fandango - Whiteout Update"
+	}
+}
