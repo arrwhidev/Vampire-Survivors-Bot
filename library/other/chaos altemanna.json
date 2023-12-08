@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "name": "chaos altemanna",
+        "aliases": [
+            "anima of O'Sole"
+        ],
+        "spoiler": false,
+        "beta": false
+    },
+    "content": {
+        "color": 12846604,
+        "description": "Allows O'Sole Meeo to morph when reaching level 80",
+        "fields": [
+            {
+                "inline": true,
+                "name": "Notes",
+                "value": "Survive 20 minutes in Whiteout. Found in Tiny Bridge."
+            },
+            {
+                "inline": true,
+                "name": "Gold Finger",
+                "value": "Anima of Mortaccio can also be obtained from Gold Finger if the user has less than 7 weapons and no anima weapon"
+            }
+        ],
+        "footer": {
+            "icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+            "text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+        },
+        "thumbnail": {
+            "url": ""
+        },
+        "title": "Chaos Altemanna"
+    }
+}
