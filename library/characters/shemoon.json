@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "she-moon eeta",
+		"aliases":[],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "She-Moon Eeta",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "Glass Fandango"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "Freezes all enemies for 10 seconds when health falls below 25%. Starts with +2 Armour and +20% Movement Speed."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Survive for 20 minutes in the Whiteout stage"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://imgur.com/35q2fJs"
+		},
+		"title": "She-Moon Eeta"
+	}
+}
