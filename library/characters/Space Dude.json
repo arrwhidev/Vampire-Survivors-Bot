@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "space dude",
+		"aliases":[""],
+		"spoiler": false,
+		"beta": false
+	},
+	"content": {
+		"color": 12846604,
+		"description": "Space Dude",
+		"fields": [
+			{
+				"inline": false,
+				"name": "Starting Weapon",
+				"value": "**Phas3r**"
+			},
+			{
+				"inline": false,
+				"name": "Ability",
+				"value": "May occasionally activate all weapons twice depending on cooldown."
+			},
+			{
+				"inline": false,
+				"name": "Unlock",
+				"value": "Unlocked by surviving 20 minutes in **Space 54**"
+			}
+		],
+		"footer": {
+			"icon_url": "https://ucarecdn.com/dc6980a3-c7d4-4164-9b02-276ea7832791/BotIcon.png",
+			"text": "Vampire Bot @ github.com/SHA65536/Vampire-Survivors-Bot"
+		},
+		"thumbnail": {
+			"url": "https://ucarecdn.com/69262de2-3b6c-45a3-ac76-c50ceb03884d/Concetta_i0.gif"
+		},
+		"title": "Space Dude"
+	}
+}
